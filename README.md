@@ -189,8 +189,9 @@ git commit -m "Your commit message here"
 git push hf main
 
 # 4. Push to GitHub
-git push origin main
+git push origin main 
 ```
+
 
 ### 🔧 Example: Fixing .gitignore for LFS
 
