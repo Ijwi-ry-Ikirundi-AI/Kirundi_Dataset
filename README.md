@@ -30,179 +30,86 @@ This community-driven initiative aims to create the **first comprehensive, open-
 | 🌐 **Machine Translation** | Translate between Kirundi and other languages | 📋 Planned |
 | 🎧 **Speech Translation** | Direct speech-to-speech translation | 📋 Planned |
 
-> **Our Mission**: *Ikirundi c'acu, ijwi ry'acu* - Preserve and digitize our language for future generations.
+> **Our Mission**: *Ikirundi cacu, Ijwi ryacu* - Preserve and digitize our language for future generations.
 
 ## 🚀 How to Contribute
 
+This project has two "homes," so your contribution flow depends on *what* you are adding:
+
+* **For Text, Translations, or Code:** Use our [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
+* **For Audio:** You **must** use our [Hugging Face Repository](https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset).
+
 <div align="center">
 
-**Every contribution matters! Choose the way that works best for you:**
+**Every contribution matters! Choose the option that works best for you:**
 
 </div>
 
-### 📝 Option 1: Add Kirundi Text
+### 📝 Option 1: Add Kirundi Text (via GitHub)
 
 <details>
 <summary><b>🎯 Goal:</b> Collect clean, high-quality Kirundi sentences</summary>
 
-#### 📋 Steps:
-1. **Find Sources**: Look for Kirundi text from:
-   - 📰 [Kirundi Wikipedia](https://rn.wikipedia.org)
-   - 📚 Public domain books
-   - 🗞️ News articles
-   - 📖 Educational materials
-
-2. **Clean Text**: Remove all non-essential elements:
-   - ❌ Dates and numbers
-   - ❌ Editorial marks like `[edit]` or `(Akarorero:)`
-   - ❌ Non-Kirundi words
-   - ✅ Keep only clean, natural sentences
-
-3. **Add to Dataset**:
-   ```bash
-   # Add sentences to the text file (one per line)
-   echo "Your clean Kirundi sentence" >> scripts/kirundi_prompts_scraped.txt
-   
-   # Run the appender script
-   python scripts/append_to_csv.py
-   ```
-
-4. **Submit**: Create a Pull Request with your changes
+1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
+2.  **Find & Clean Text:** Find new Kirundi sentences and clean them (remove `[edit]`, dates, etc.).
+3.  **Add to File:** Add your clean sentences (one per line) to the `kirundi_prompts_scraped.txt` file.
+4.  **Run Appender:** Run the `python scripts/append_to_csv.py` script to add your new sentences to `metadata.csv` and avoid duplicates.
+5.  **Submit PR:** Push your changes to your fork and submit a **Pull Request on GitHub**.
 
 </details>
 
 ---
 
-## 🧳 Understanding Git LFS: The "Luggage" System
-
-<div align="center">
-
-**🎯 Why Your Audio Files Go to Hugging Face, Not GitHub**
-
-</div>
-
-### 📦 The Simple Analogy
-
-Think of this project like traveling with luggage:
-
-| Component | Real World | Our Project |
-|-----------|------------|-------------|
-| 🎒 **Small Backpack** | Your carry-on bag | GitHub/Hugging Face repository |
-| 📓 **Notebook** | Small, lightweight item | `metadata.csv` file |
-| 🧳 **Heavy Suitcase** | Large, bulky luggage | Audio files (`clips/*.wav`) |
-| ✈️ **Luggage Check-in** | Airport baggage service | **Git LFS** (Large File Storage) |
-
-### 🔄 How It Works
-
-1. **Your Repository** (the backpack) holds:
-   - ✅ `metadata.csv` - fits perfectly
-   - ✅ Code and scripts - small text files
-   - ❌ **NOT** the actual audio files (too big!)
-
-2. **Git LFS** (the luggage service) handles:
-   - 🎵 All audio files in `clips/` folder
-   - 📦 Stores them in Hugging Face's special storage
-   - 🏷️ Leaves tiny "luggage tags" (pointers) in your repository
-
-3. **When you push to Hugging Face**:
-   - 📝 Normal Git uploads the small files
-   - 🚀 Git LFS automatically uploads audio to special storage
-   - 🔗 Everything stays connected and accessible
-
-### 🛠️ First-Time Setup (Do This Once)
-
-Before contributing audio, you need to "activate the luggage service":
-
-```bash
-# Step 1: Install Git LFS on your computer
-# On Ubuntu/Debian:
-sudo apt install git-lfs
-
-# On macOS:
-brew install git-lfs
-
-# On Windows: Download from https://git-lfs.github.io/
-
-# Step 2: Initialize Git LFS in your repository
-git lfs install
-
-# Step 3: Tell Git LFS to handle audio files
-git lfs track "clips/*.wav"
-git lfs track "clips/*.mp3"
-
-# Step 4: Commit the LFS configuration
-git add .gitattributes
-git commit -m "Setup Git LFS for audio files"
-```
-
-### ✅ What Contributors See
-
-When you contribute audio, your workflow is exactly the same:
-
-```bash
-# Normal Git commands work perfectly!
-git add clips/your_audio.wav
-git add metadata.csv
-git commit -m "Added audio recording"
-git push
-```
-
-**Behind the scenes**: Git LFS automatically handles the heavy lifting, uploading your audio to Hugging Face's storage while keeping your repository fast and lightweight.
-
-> **🎯 Key Point**: Audio files are stored in **Hugging Face's Git LFS storage**, not in the main repository. This keeps everything fast while preserving all your recordings safely.
-
----
-
-### 🌐 Option 2: Add French Translations
+### 🌐 Option 2: Add French Translations (via GitHub)
 
 <details>
 <summary><b>🎯 Goal:</b> Provide high-quality Kirundi ↔ French translations</summary>
 
-#### 📋 Requirements:
-- ✅ Fluent in both Kirundi and French
-- ✅ Understanding of cultural context
-- ✅ Attention to linguistic nuances
-
-#### 📋 Steps:
-1. Open `metadata.csv`
-2. Find rows with empty `french_translation` column
-3. Add accurate, natural translations
-4. Submit a Pull Request
-
-> **💡 Tip**: Focus on preserving meaning and cultural context, not just literal translation.
+1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
+2.  **Find Rows:** Open `metadata.csv` and find rows with an empty `french_translation` column.
+3.  **Translate:** Add your high-quality, natural translation.
+4.  **Submit PR:** Push your changes to your fork and submit a **Pull Request on GitHub**.
 
 </details>
 
 ---
 
-### 🎤 Option 3: Record Audio (Most Critical!)
+### 🎤 Option 3: Record Audio (via Hugging Face - CRITICAL!)
 
 <details>
 <summary><b>🎯 Goal:</b> Create high-quality Kirundi speech recordings</summary>
 
-#### 🎧 Recording Requirements:
-- 🔇 **Quiet environment** (no background noise)
-- 🎙️ **Good microphone** (headset or smartphone)
-- 📊 **Technical specs**:
-  - Format: WAV (preferred) or MP3
-  - Sample Rate: 16kHz or 22.05kHz
-  - Channels: Mono (1 channel)
-  - Bit Depth: 16-bit
+**This is the most important step and MUST be done on Hugging Face.**
 
-#### 📋 Steps:
-1. **Setup Git LFS**: Complete the [First-Time Setup](#-first-time-setup-do-this-once) if you haven't already
-2. **Fork & Clone**: Fork repository and clone to your computer
-3. **Choose**: Open `metadata.csv` and find empty `file_path` entries
-4. **Record**: Follow our [Recording Guidelines](#-recording-guidelines)
-5. **Save**: Place audio in `clips/` folder (e.g., `rn_0001.wav`)
-6. **Update Metadata**:
-   ```csv
-   file_path,kirundi_transcription,french_translation,speaker_id,age,gender
-   clips/rn_0001.wav,"Your sentence",,"speaker_001",20s,female
-   ```
-7. **Submit**: Create Pull Request with audio + metadata
+#### 📋 Step 0: First-Time Setup
+1.  **Go to Hugging Face:** Fork the [Hugging Face Dataset](https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset).
+2.  **Clone Your Fork:**
+    ```bash
+    # Clone your fork from Hugging Face (replace "Your-HF-Username")
+    git clone https://huggingface.co/datasets/Your-HF-Username/Kirundi_Open_Speech_Dataset
+    cd Kirundi_Open_Speech_Dataset
+    ```
+3.  **Install Git LFS:**
+    ```bash
+    git lfs install
+    ```
+    *(This is a one-time setup on your computer. You can download Git LFS from [git-lfs.github.com](https://git-lfs.github.com/))*
 
-> **🔒 Privacy**: Use anonymous speaker IDs. Your personal information is never required.
+#### 📋 Step 1: Record & Update
+1.  **Find a Task:** Open `metadata.csv` and find a row with an empty `file_path`.
+2.  **Record:** Record the audio for that `kirundi_transcription` following our [Recording Guidelines](#-recording-guidelines).
+3.  **Save:** Save your audio file (e.g., `rn_0001.wav`) into the `clips/` folder.
+4.  **Update CSV:** Fill in your row in `metadata.csv` (add the `file_path`, your `speaker_id`, `age`, and `gender`).
+
+#### 📋 Step 2: Submit
+1.  **Push to Hugging Face:**
+    ```bash
+    git add .
+    git commit -m "Added new audio clip clips/rn_0001.wav"
+    git push
+    ```
+    Git LFS will automatically upload your audio to Hugging Face LFS storage.
+2.  **Submit PR:** Go to your Hugging Face fork and submit a **Pull Request on Hugging Face**.
 
 </details>
 
@@ -240,8 +147,71 @@ Settings:
 ### 🛠️ Recommended Tools
 
 - **🎵 [Audacity](https://www.audacityteam.org/)** (Free, cross-platform)
+- **📱 ASR Voice Recorder** (Android app - excellent for high-quality recordings)
 - **📱 Smartphone voice recorder** (built-in apps work great)
 - **💻 Online recorders** (for quick contributions)
+
+---
+
+## 🔄 Pushing to Both Repositories (For Maintainers)
+
+<div align="center">
+
+**🎯 How to Sync Changes Across GitHub and Hugging Face**
+
+</div>
+
+If you're a maintainer who needs to push changes to both repositories, you can set up multiple remotes:
+
+### 📋 One-Time Setup
+
+```bash
+# Add Hugging Face as a remote (if not already added)
+git remote add hf https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset
+
+# Add GitHub as a remote (if not already added)
+git remote add origin https://github.com/Sama-ndari/Kirundi_Dataset
+
+# Verify your remotes
+git remote -v
+```
+
+### 📤 Pushing Changes to Both Platforms
+
+```bash
+# 1. Add your changes
+git add .
+
+# 2. Commit your changes
+git commit -m "Your commit message here"
+
+# 3. Push to Hugging Face
+git push hf main
+
+# 4. Push to GitHub
+git push origin main
+```
+
+### 🔧 Example: Fixing .gitignore for LFS
+
+```bash
+# 1. Add the change you just made
+git add .gitignore
+
+# 2. Commit the fix
+git commit -m "Fix: Removed audio files from .gitignore to allow LFS tracking"
+
+# 3. Push the fix to Hugging Face
+git push hf main
+
+# 4. Push the fix to GitHub
+git push origin main
+```
+
+> **💡 Tip**: You can also push to both remotes in one command:
+> ```bash
+> git push hf main && git push origin main
+> ```
 
 ---
 
@@ -296,11 +266,11 @@ graph LR
 
 | Phase | Goal | Target | Status | Progress |
 |-------|------|--------|--------|----------|
-| **Phase 1** | 📝 Text Collection | 10,000+ sentences | 🔄 **In Progress** | ![Progress](https://progress-bar.dev/35/) |
-| **Phase 2** | 🌐 French Translation | Complete dataset | 📋 Planned | ![Progress](https://progress-bar.dev/0/) |
-| **Phase 3** | 🎤 Audio Recording | 20+ hours | 📋 Planned | ![Progress](https://progress-bar.dev/0/) |
-| **Phase 4** | 🤖 Model Training | ASR/TTS/MT models | 📋 Planned | ![Progress](https://progress-bar.dev/0/) |
-| **Phase 5** | 🚀 Public Release | Open-source models | 🎯 Future | ![Progress](https://progress-bar.dev/0/) |
+| **Phase 1** | 📝 Text Collection | 10,000+ sentences | 🔄 **In Progress** | ![Progress](https://progress-bar.dev/5%) |
+| **Phase 2** | 🌐 French Translation | Complete dataset | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
+| **Phase 3** | 🎤 Audio Recording | 20+ hours | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
+| **Phase 4** | 🤖 Model Training | ASR/TTS/MT models | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
+| **Phase 5** | 🚀 Public Release | Open-source models | 🎯 Future | ![Progress](https://progress-bar.dev/0%) |
 
 ### 🎯 Current Milestones
 
@@ -366,7 +336,7 @@ We thank all our amazing contributors who are helping build this dataset:
 
 ## 💝 Support This Project
 
-**🇧🇮 *Ikirundi c'acu, ijwi ry'acu* 🇧🇮**
+**🇧🇮 *Ikirundi cacu, Ijwi ryacu* 🇧🇮**
 
 *Our language, our voice - Thank you for helping build the future of Kirundi AI*
 
