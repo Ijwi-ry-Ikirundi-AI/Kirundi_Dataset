@@ -72,11 +72,11 @@ scratch_*
 .ipynb_checkpoints
 
 # Large files (use Git LFS instead)
-*.wav
-*.mp3
-*.flac
-*.ogg
-*.m4a
+# *.wav
+# *.mp3
+# *.flac
+# *.ogg
+# *.m4a
 
 # Personal notes
 notes.txt

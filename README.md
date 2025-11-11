@@ -185,10 +185,13 @@ git add .
 # 2. Commit your changes
 git commit -m "Your commit message here"
 
-# 3. Push to Hugging Face
+# 3. Configure LFS to only push Audio files on Hugging Face
+git config lfs.pushurl https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset.git
+
+# 4. Push to Hugging Face
 git push hf main
 
-# 4. Push to GitHub
+# 5. Push to GitHub
 git push origin main
 ```
 
@@ -201,10 +204,13 @@ git add .gitignore
 # 2. Commit the fix
 git commit -m "Fix: Removed audio files from .gitignore to allow LFS tracking"
 
-# 3. Push the fix to Hugging Face
+# 3. Configure LFS to only push Audio files on Hugging Face
+git config lfs.pushurl https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset.git
+
+# 4. Push the fix to Hugging Face
 git push hf main
 
-# 4. Push the fix to GitHub
+# 5. Push the fix to GitHub
 git push origin main
 ```
 
