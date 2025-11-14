@@ -104,3 +104,5 @@ def append_from_txt_to_csv():
 
 if __name__ == "__main__":
     append_from_txt_to_csv()
+    with open("kirundi_prompts_scraped.txt", "w", encoding="utf-8") as f:
+        f.write("")
