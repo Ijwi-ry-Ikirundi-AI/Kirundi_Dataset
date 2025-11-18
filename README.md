@@ -1,3 +1,21 @@
+---
+language:
+- rn
+license: cc-by-4.0
+task_categories:
+- automatic-speech-recognition
+- text-to-speech
+- translation
+pretty_name: Kirundi Open Speech & Text Dataset
+tags:
+- kirundi
+- low-resource
+- audio
+- speech
+size_categories:
+- 1K<n<100K
+---
+
 <div align="center">
 
 # 🇧🇮 Kirundi Open Speech & Text Dataset
