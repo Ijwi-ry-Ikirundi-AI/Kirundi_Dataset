@@ -5,11 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/Sama-ndari/Kirundi_Dataset?style=social)](https://github.com/Sama-ndari/Kirundi_Dataset)
+[![GitHub Stars](https://img.shields.io/github/stars/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset?style=social)](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)
 
 *Building the first large-scale, open-source speech and text dataset for Kirundi*
 
-[🚀 Get Started](#-how-to-contribute) • [📊 Dataset](#-dataset-structure) • [🎯 Roadmap](#-project-roadmap) • [🤝 Community](#-community)
+[🚀 Get Started](#-how-to-contribute) • [📊 Dataset](#-dataset-structure) • [🎯 Roadmap](#-project-roadmap) • [🫱🏿‍🫲🏾 Community](#-community)
 
 </div>
 
@@ -36,8 +36,8 @@ This community-driven initiative aims to create the **first comprehensive, open-
 
 This project has two "homes," so your contribution flow depends on *what* you are adding:
 
-* **For Text, Translations, or Code:** Use our [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
-* **For Audio:** You **must** use our [Hugging Face Repository](https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset).
+* **For Text, Translations, or Code:** Use our [GitHub Repository](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset).
+* **For Audio:** You **must** use our [Hugging Face Repository](https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset).
 
 <div align="center">
 
@@ -50,7 +50,7 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 <details>
 <summary><b>🎯 Goal:</b> Collect clean, high-quality Kirundi sentences</summary>
 
-1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
+1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset).
 2.  **Find & Clean Text:** Find new Kirundi sentences and clean them (remove `[edit]`, dates, etc.).
 3.  **Add to File:** Add your clean sentences (one per line) to the `kirundi_prompts_scraped.txt` file.
 4.  **Run Appender:** Run the `python scripts/append_to_csv.py` script to add your new sentences to `metadata.csv` and avoid duplicates.
@@ -65,7 +65,7 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 <details>
 <summary><b>🎯 Goal:</b> Provide high-quality Kirundi ↔ French translations</summary>
 
-1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Sama-ndari/Kirundi_Dataset).
+1.  **Go to GitHub:** Fork and clone the [GitHub Repository](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset).
 2.  **Find Rows:** Open `metadata.csv` and find rows with an empty `french_translation` column.
 3.  **Translate:** Add your high-quality, natural translation.
 4.  **Submit PR:** Push your changes to your fork and submit a **Pull Request on GitHub**.
@@ -82,7 +82,7 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 **This is the most important step and MUST be done on Hugging Face.**
 
 #### 📋 Step 0: First-Time Setup
-1.  **Go to Hugging Face:** Fork the [Hugging Face Dataset](https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset).
+1.  **Go to Hugging Face:** Fork the [Hugging Face Dataset](https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset).
 2.  **Clone Your Fork:**
     ```bash
     # Clone your fork from Hugging Face (replace "Your-HF-Username")
@@ -167,10 +167,10 @@ If you're a maintainer who needs to push changes to both repositories, you can s
 
 ```bash
 # Add Hugging Face as a remote (if not already added)
-git remote add hf https://huggingface.co/datasets/samandari/Kirundi_Open_Speech_Dataset
+git remote add hf https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset
 
 # Add GitHub as a remote (if not already added)
-git remote add origin https://github.com/Sama-ndari/Kirundi_Dataset
+git remote add origin https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset
 
 # Verify your remotes
 git remote -v
@@ -282,7 +282,7 @@ graph LR
 
 ---
 
-## 🤝 Community
+## 🫱🏿‍🫲🏾 Community
 
 <div align="center">
 
@@ -298,8 +298,8 @@ graph LR
 We thank all our amazing contributors who are helping build this dataset:
 
 <!-- Contributors will be automatically added here -->
-<a href="https://github.com/Sama-ndari/Kirundi_Dataset/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sama-ndari/Kirundi_Dataset" />
+<a href="https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ijwi-ry-Ikirundi-AI/Kirundi_Dataset" />
 </a>
 
 ### 📊 Current Stats
@@ -343,7 +343,7 @@ We thank all our amazing contributors who are helping build this dataset:
 
 ---
 
-**⭐ Star this repository** • **🔄 Share with friends** • **🤝 Contribute today**
+**⭐ Star this repository** • **🔄 Share with friends** • **🫱🏿‍🫲🏾Contribute today**
 
 [![GitHub stars](https://img.shields.io/github/stars/Sama-ndari/Kirundi_Dataset?style=social)](https://github.com/Sama-ndari/Kirundi_Dataset)
 [![Follow on GitHub](https://img.shields.io/github/followers/Sama-ndari?style=social)](https://github.com/Sama-ndari)
