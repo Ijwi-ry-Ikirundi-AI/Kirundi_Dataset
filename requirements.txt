@@ -9,6 +9,10 @@ librosa>=0.9.0
 soundfile>=0.10.0
 pydub>=0.25.0
 
+# Translation & Normalization (NEW)
+deep-translator>=1.11.4
+unidecode>=1.3.6
+
 # PDF processing
 PyPDF2>=3.0.0
 PyMuPDF>=1.22.0
