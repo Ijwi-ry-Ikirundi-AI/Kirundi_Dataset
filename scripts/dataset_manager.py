@@ -181,7 +181,7 @@ def run_manager(metadata_path):
         logger.error(f"FATAL: Could not save file. Error: {e}")
         return
         
-    # 6. Audit (This will now work because missing_rows is defined inside it)
+    # 6. Audit 
     audit_progress(df)
 
 if __name__ == "__main__":
