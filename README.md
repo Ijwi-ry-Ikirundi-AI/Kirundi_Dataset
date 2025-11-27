@@ -1,19 +1,19 @@
 ---
 language:
-- rn
+  - rn
 license: cc-by-4.0
 task_categories:
-- automatic-speech-recognition
-- text-to-speech
-- translation
+  - automatic-speech-recognition
+  - text-to-speech
+  - translation
 pretty_name: Kirundi Open Speech & Text Dataset
 tags:
-- kirundi
-- low-resource
-- audio
-- speech
+  - kirundi
+  - low-resource
+  - audio
+  - speech
 size_categories:
-- 1K<n<100K
+  - 1K<n<100K
 ---
 
 <div align="center">
@@ -25,7 +25,7 @@ size_categories:
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset?style=social)](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)
 
-*Building the first large-scale, open-source speech and text dataset for Kirundi*
+_Building the first large-scale, open-source speech and text dataset for Kirundi_
 
 [🚀 Get Started](#-how-to-contribute) • [📊 Dataset](#-dataset-structure) • [🎯 Roadmap](#-project-roadmap) • [🫱🏿‍🫲🏾 Community](#-community)
 
@@ -41,21 +41,21 @@ This community-driven initiative aims to create the **first comprehensive, open-
 
 ### 🎯 Target Applications
 
-| Application | Description | Status |
-|-------------|-------------|---------|
-| 🎙️ **Speech-to-Text (ASR)** | Transcribe spoken Kirundi into text | 🔄 In Progress |
-| 🗣️ **Text-to-Speech (TTS)** | Generate natural-sounding Kirundi speech | 📋 Planned |
-| 🌐 **Machine Translation** | Translate between Kirundi and other languages | 📋 Planned |
-| 🎧 **Speech Translation** | Direct speech-to-speech translation | 📋 Planned |
+| Application                 | Description                                   | Status         |
+| --------------------------- | --------------------------------------------- | -------------- |
+| 🎙️ **Speech-to-Text (ASR)** | Transcribe spoken Kirundi into text           | 🔄 In Progress |
+| 🗣️ **Text-to-Speech (TTS)** | Generate natural-sounding Kirundi speech      | 📋 Planned     |
+| 🌐 **Machine Translation**  | Translate between Kirundi and other languages | 📋 Planned     |
+| 🎧 **Speech Translation**   | Direct speech-to-speech translation           | 📋 Planned     |
 
-> **Our Mission**: *Ikirundi cacu, Ijwi ryacu* - Preserve and digitize our language for future generations.
+> **Our Mission**: _Ikirundi cacu, Ijwi ryacu_ - Preserve and digitize our language for future generations.
 
 ## 🚀 How to Contribute
 
-This project has two "homes," so your contribution flow depends on *what* you are adding:
+This project has two "homes," so your contribution flow depends on _what_ you are adding:
 
-* **For Text, Translations, or Code:** Use our [GitHub Repository](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset).
-* **For Audio:** You **must** use our [Hugging Face Repository](https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset).
+- **For Text, Translations, or Code:** Use our [GitHub Repository](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset).
+- **For Audio:** You **must** use our [Hugging Face Repository](https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset).
 
 <div align="center">
 
@@ -100,6 +100,7 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 **This is the most important step and MUST be done on Hugging Face.**
 
 #### 📋 Step 0: First-Time Setup
+
 1.  **Go to Hugging Face:** Fork the [Hugging Face Dataset](https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset).
 2.  **Clone Your Fork:**
     ```bash
@@ -111,15 +112,17 @@ This project has two "homes," so your contribution flow depends on *what* you ar
     ```bash
     git lfs install
     ```
-    *(This is a one-time setup on your computer. You can download Git LFS from [git-lfs.github.com](https://git-lfs.github.com/))*
+    _(This is a one-time setup on your computer. You can download Git LFS from [git-lfs.github.com](https://git-lfs.github.com/))_
 
 #### 📋 Step 1: Record & Update
+
 1.  **Find a Task:** Open `metadata.csv` and find a row with an empty `file_path`.
 2.  **Record:** Record the audio for that `kirundi_transcription` following our [Recording Guidelines](#-recording-guidelines).
 3.  **Save:** Save your audio file (e.g., `rn_0001.wav`) into the `clips/` folder.
 4.  **Update CSV:** Fill in your row in `metadata.csv` (add the `file_path`, your `speaker_id`, `age`, and `gender`).
 
 #### 📋 Step 2: Submit
+
 1.  **Push to Hugging Face:**
     ```bash
     git add .
@@ -141,12 +144,12 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 
 ### 🎯 Recording Best Practices
 
-| Aspect | Requirement | Why It Matters |
-|--------|-------------|----------------|
-| 🔇 **Environment** | Quiet room, no background noise | Ensures clean training data |
-| 🎙️ **Microphone** | Headset mic or smartphone (close to mouth) | Clear audio capture |
-| 🗣️ **Speaking Style** | Natural, clear pronunciation | Realistic speech patterns |
-| 📝 **Accuracy** | Read exactly as written | Maintains text-audio alignment |
+| Aspect                | Requirement                                | Why It Matters                 |
+| --------------------- | ------------------------------------------ | ------------------------------ |
+| 🔇 **Environment**    | Quiet room, no background noise            | Ensures clean training data    |
+| 🎙️ **Microphone**     | Headset mic or smartphone (close to mouth) | Clear audio capture            |
+| 🗣️ **Speaking Style** | Natural, clear pronunciation               | Realistic speech patterns      |
+| 📝 **Accuracy**       | Read exactly as written                    | Maintains text-audio alignment |
 
 ### ⚙️ Technical Specifications
 
@@ -154,7 +157,7 @@ This project has two "homes," so your contribution flow depends on *what* you ar
 Audio Format:
   - Primary: WAV (uncompressed)
   - Alternative: MP3 (high quality)
-  
+
 Settings:
   - Sample Rate: 16kHz or 22.05kHz
   - Channels: Mono (1 channel)
@@ -207,9 +210,8 @@ git commit -m "Your commit message here"
 git push hf main
 
 # 4. Push to GitHub
-git push origin main 
+git push origin main
 ```
-
 
 ### 🔧 Example: Fixing .gitignore for LFS
 
@@ -228,6 +230,7 @@ git push origin main
 ```
 
 > **💡 Tip**: You can also push to both remotes in one command:
+>
 > ```bash
 > git push hf main && git push origin main
 > ```
@@ -240,14 +243,17 @@ Our dataset is organized around `metadata.csv` - the central hub for all project
 
 ### 📋 Schema Overview
 
-| Column | Type | Description | Example |
-|--------|------|-------------|---------|
-| `file_path` | String | Relative path to audio file | `clips/rn_0001.wav` |
-| `kirundi_transcription` | String | Exact Kirundi sentence | `Amahoro y'Imana abane nawe` |
-| `french_translation` | String | High-quality French translation | `Que la paix de Dieu soit avec toi` |
-| `speaker_id` | String | Anonymous speaker identifier | `speaker_001` |
-| `age` | String | Age group | `20s`, `30s`, `40s+` |
-| `gender` | String | Self-identified gender | `male`, `female`, `other` |
+| Column                  | Type   | Description                      | Example                             |
+| ----------------------- | ------ | -------------------------------- | ----------------------------------- |
+| `file_path`             | String | Relative path to audio file      | `clips/rn_0001.wav`                 |
+| `kirundi_transcription` | String | Exact Kirundi sentence           | `Amahoro y'Imana abane nawe`        |
+| `french_translation`    | String | High-quality French translation  | `Que la paix de Dieu soit avec toi` |
+| `English_Translation`   | String | High-quality English translation | `May the peace of God be with you`  |
+| `Domain`                | String | Topic or category                | `General`, `News`, `Religion`       |
+| `speaker_id`            | String | Anonymous speaker identifier     | `speaker_001`                       |
+| `age`                   | String | Age group                        | `20s`, `30s`, `40s+`                |
+| `gender`                | String | Self-identified gender           | `male`, `female`, `other`           |
+| `Machine_Suggestion`    | String | AI generated suggestion          | `Les enfants jouent dehors.`        |
 
 ### 📁 Directory Structure
 
@@ -283,13 +289,13 @@ graph LR
     D --> E[🚀 Deployment]
 ```
 
-| Phase | Goal | Target | Status | Progress |
-|-------|------|--------|--------|----------|
-| **Phase 1** | 📝 Text Collection | 10,000+ sentences | 🔄 **In Progress** | ![Progress](https://progress-bar.dev/5%) |
-| **Phase 2** | 🌐 French Translation | Complete dataset | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
-| **Phase 3** | 🎤 Audio Recording | 20+ hours | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
-| **Phase 4** | 🤖 Model Training | ASR/TTS/MT models | 📋 Planned | ![Progress](https://progress-bar.dev/0%) |
-| **Phase 5** | 🚀 Public Release | Open-source models | 🎯 Future | ![Progress](https://progress-bar.dev/0%) |
+| Phase       | Goal                  | Target             | Status             | Progress                                 |
+| ----------- | --------------------- | ------------------ | ------------------ | ---------------------------------------- |
+| **Phase 1** | 📝 Text Collection    | 10,000+ sentences  | 🔄 **In Progress** | ![Progress](https://geps.dev/progress/5) |
+| **Phase 2** | 🌐 French Translation | Complete dataset   | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
+| **Phase 3** | 🎤 Audio Recording    | 20+ hours          | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
+| **Phase 4** | 🤖 Model Training     | ASR/TTS/MT models  | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
+| **Phase 5** | 🚀 Public Release     | Open-source models | 🎯 Future          | ![Progress](https://geps.dev/progress/0) |
 
 ### 🎯 Current Milestones
 
@@ -308,6 +314,7 @@ graph LR
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/your-server)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/your-group)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/your-group)
 
 </div>
 
@@ -315,19 +322,26 @@ graph LR
 
 We thank all our amazing contributors who are helping build this dataset:
 
-<!-- Contributors will be automatically added here -->
+#### 💻 Code Contributors
+
 <a href="https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Ijwi-ry-Ikirundi-AI/Kirundi_Dataset" />
 </a>
 
+#### 📄 Dataset & Documentation Contributors
+
+<a href="https://github.com/lionel-k">
+  <img src="https://images.weserv.nl/?url=github.com/lionel-k.png&h=60&w=60&fit=cover&mask=circle&maxage=7d" width="60" height="60" alt="lionel-k"/>
+</a>
+
 ### 📊 Current Stats
 
-| Metric | Count |
-|--------|-------|
-| 📝 **Total Sentences** | 180+ |
-| 🎤 **Audio Recordings** | 0 |
-| 🌐 **Translations** | 0 |
-| 👥 **Contributors** | Growing! |
+| Metric                  | Count |
+| ----------------------- | ----- |
+| 📝 **Total Sentences**  | 3062  |
+| 🎤 **Audio Recordings** | 1     |
+| 🌐 **Translations**     | 2000  |
+| 👥 **Contributors**     | 3     |
 
 ---
 
@@ -335,10 +349,10 @@ We thank all our amazing contributors who are helping build this dataset:
 
 <div align="center">
 
-| Component | License | Details |
-|-----------|---------|---------|
-| 🔧 **Code & Scripts** | [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | Free to use, modify, and distribute |
-| 📊 **Dataset** | [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | Open access with attribution |
+| Component             | License                                                                                                                        | Details                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| 🔧 **Code & Scripts** | [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)                     | Free to use, modify, and distribute |
+| 📊 **Dataset**        | [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | Open access with attribution        |
 
 </div>
 
@@ -355,9 +369,9 @@ We thank all our amazing contributors who are helping build this dataset:
 
 ## 💝 Support This Project
 
-**🇧🇮 *Ikirundi cacu, Ijwi ryacu* 🇧🇮**
+**🇧🇮 _Ikirundi cacu, Ijwi ryacu_ 🇧🇮**
 
-*Our language, our voice - Thank you for helping build the future of Kirundi AI*
+_Our language, our voice - Thank you for helping build the future of Kirundi AI_
 
 ---
 
