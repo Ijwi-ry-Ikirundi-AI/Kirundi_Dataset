@@ -322,16 +322,11 @@ graph LR
 
 We thank all our amazing contributors who are helping build this dataset:
 
-#### 💻 Code Contributors
-
 <a href="https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Ijwi-ry-Ikirundi-AI/Kirundi_Dataset" />
 </a>
-
-#### 📄 Dataset & Documentation Contributors
-
 <a href="https://github.com/lionel-k">
-  <img src="https://images.weserv.nl/?url=github.com/lionel-k.png&h=60&w=60&fit=cover&mask=circle&maxage=7d" width="60" height="60" alt="lionel-k"/>
+  <img src="https://images.weserv.nl/?url=github.com/lionel-k.png&h=60&w=60&fit=cover&mask=circle&maxage=7d" width="63" height="63" alt="lionel-k"/>
 </a>
 
 ### 📊 Current Stats
