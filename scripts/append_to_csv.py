@@ -20,7 +20,21 @@ logger = logging.getLogger(__name__)
 # the script converts all headers from the file to lowercase.
 TARGET_COLUMN = "kirundi_transcription"
 
-def append_from_txt_to_csv():
+# --- DOMAIN CONFIGURATION ---
+# Set the domain for all new rows being added
+# Examples: "proverbs", "jokes", "grammar", "lessons", etc.
+DOMAIN = "proverbs"  # Change this value based on what you're importing
+
+def append_from_txt_to_csv(domain=None):
+    """Append new sentences from text file to CSV with specified domain.
+    
+    Args:
+        domain: The domain/category for the new entries (e.g., 'proverbs', 'jokes').
+                If None, uses the DOMAIN variable defined at module level.
+    """
+    # Use provided domain or fall back to module-level DOMAIN
+    if domain is None:
+        domain = DOMAIN
     
     if not os.path.exists(METADATA_FILE):
         logger.error(f"Error: Master file not found at: '{METADATA_FILE}'")
@@ -94,9 +108,12 @@ def append_from_txt_to_csv():
         with open(METADATA_FILE, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             for sentence in new_sentences_to_add:
-                writer.writerow(['', sentence, '', '', '', ''])
+                # Row format matching metadata.csv structure (12 columns):
+                # [File_Path, Kirundi_Transcription, French_Translation, English_Translation, 
+                #  Domain, Machine_Suggestion, Source, Duration, Speaker_id, Age, Gender, Kirundi_Length]
+                writer.writerow(['', sentence, '', '', domain, '', '', '', '', '', '', ''])
         
-        logger.info(f"✅ Successfully added {len(new_sentences_to_add)} new sentences to {METADATA_FILE}!")
+        logger.info(f"✅ Successfully added {len(new_sentences_to_add)} new sentences to {METADATA_FILE} with domain '{domain}'!")
 
     except Exception as e:
         logger.error(f"Failed to write to {METADATA_FILE}: {e}")
