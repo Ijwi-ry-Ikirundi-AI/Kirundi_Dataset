@@ -282,13 +282,23 @@ If you're a maintainer who needs to push changes to both repositories, you can s
 
 ```bash
 # Add Hugging Face as a remote (if not already added)
-git remote add hf https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset
+git remote add hf https://huggingface.co/datasets/Ijwi-ry-Ikirundi-AI/Kirundi_Open_Speech_Dataset.git
 
 # Add GitHub as a remote (if not already added)
 git remote add origin https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset
 
 # Verify your remotes
 git remote -v
+```
+
+### Installer et Configurer Git LFS
+
+```bash
+# Si tu as Homebrew (recommandé sur Mac)
+brew install git-lfs
+
+# Initialise LFS dans ton compte utilisateur
+git lfs install
 ```
 
 ### 📤 Pushing Changes to Both Platforms
