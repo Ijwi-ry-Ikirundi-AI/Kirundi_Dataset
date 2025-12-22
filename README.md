@@ -482,3 +482,4 @@ _Our language, our voice - Thank you for helping build the future of Kirundi AI_
 
 </div>
 Test de synchronisation réussi le 22/12/2025.
+Branche de test architectured-data créée le 22/12/2025.
