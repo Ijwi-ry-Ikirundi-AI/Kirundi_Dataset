@@ -1,101 +1,101 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_002001_grammar,,Sinabigishije kuvuga gurtyo,Je ne t'ai pas appris à parler comme ça,I didn’t teach you to speak like that,grammar,,,,,,
-krd_002002_proverbs,,Sinabíkoze yakóze umugabo mw'īrúgu.,"Plus le déni est fort, plus la culpabilité est profonde.","The louder the denial, the deeper the guilt.",proverbs,,,,,,
-krd_002003_proverbs,,Sinakunze kino gitabo.,Je n'ai pas aimé ce livre.,I didn't like this book.,proverbs,,,,,,
-krd_002004_proverbs,,Sinakunze kino gitabu.,Je n'ai pas aimé ce livre.,I didn't like this book.,proverbs,,,,,,
-krd_002005_action-verbs,,Sinatahuye neza.,Je n'ai pas bien compris.,I didn't quite understand.,action-verbs,,,,,,
-krd_002006_grammar,,Sindanamuzi,je ne le connais pas du tout,I don’t know him at all,grammar,,,,,,
-krd_002007_grammar,,Sindibube ndima,je ne vais pas biner,I am not going to hoe,grammar,,,,,,
-krd_002008_grammar,,Sinigeze kugenda i Bururi,Je ne suis encore jamais allé à Bururi,I have never yet gone to Bururi,grammar,,,,,,
-krd_002009_proverbs,,Sinkunda epinari.,Je n'aime pas les épinards.,I don't like spinach.,proverbs,,,,,,
-krd_002010_action-verbs,,Sinshobora,Je ne peux pas.,I can't.,action-verbs,,,,,,
-krd_002011_grammar,,"Sinshobora kuguhemba ubu, ariko mw iyinga riza nzoba mfise amafaranga akwiye","Je ne peux pas te payer maintenant, mais la semaine prochaine j'aurai assez d'argent","I can’t pay you now, but next week I will have enough money",grammar,,,,,,
-krd_002012_jokes,,Sinshobóra kwîyumvīsha Ingéne ibīntu vyöse vyàádūze ibicîro aríko imibú ikaguma itúrya ku būntu.,"Je ne comprends pas pourquoi les prix de tout explosent, alors que les moustiques continuent de nous dévorer gratuitement","I can't comprehend why the costs of everything are soaring, yet mosquitoes persist in feasting on us without charge.",jokes,,,,,,
-krd_002013_proverbs,,Sinywa ibiboreza.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,
-krd_002014_proverbs,,Sinywa inzoga.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,
-krd_002015_grammar,,Sinzi ivyabaye,Je ne sais pas ce qui s'est passé.,I don’t know what happened.,grammar,,,,,,
-krd_002016_grammar,,Sinzi ko azokira,Je ne sais pas s'il ira mieux,I don’t know if he will get well,grammar,,,,,,
-krd_002017_grammar,,Sinzoba ndiko ndakora,je ne serai pas,I will not be,grammar,,,,,,
-krd_002018_grammar,,Sinzokwigera mbesha,Je ne mentirai jamais,I shall never lie,grammar,,,,,,
-krd_002019_idioms,,Sumuntu akunda gukoranako.,Elle n'est pas du genre câlineuse.,She's not the cuddly type.,idioms,,,,,,
-krd_002020_proverbs,,Só akwănka akuraga ivyămunaniye.,Un mauvais père laisse un héritage de problèmes non résolus à ses enfants.,A bad father leaves a legacy of unfinished business for his children to tackle.,proverbs,,,,,,
-krd_002021_proverbs,,Só ntákwănka akwīta nâbí.,"Le cœur d'un père est toujours affectueux, même si ses mots semblent durs.","A father's heart is always fond, even if his words seem harsh.",proverbs,,,,,,
-krd_002022_proverbs,,Sīndyá aka ahinyuzwa n'úmusáse.,Ne pas manger le soir entraîne des regrets le matin.,Not eating at night results in morning regre.,proverbs,,,,,,
-krd_002023_action-verbs,,Terefone yanje iri hehe?,Où est mon téléphone?,Where is my phone?,action-verbs,,,,,,
-krd_002024_grammar,,Terefone yanje ntikora.,Mon téléphone ne fonctionne pas.,My phone doesn't work.,grammar,,,,,,
-krd_002025_action-verbs,,"Tora , ambara ibi.","Tiens, enfile ça.","Here, put this on.",action-verbs,,,,,,
-krd_002026_location,,Tubana n'uruganda ruhingura imikate,Nous habitons près du boulangerie.,We live near the bakery.,location,,,,,,
-krd_002027_general,,Tubeho muri uno mwanya.,Vivons le moment présent.,Let's live in the present moment.,general,,,,,,
-krd_002028_general,,Tubeho muri iki gihe.,Vivons le moment présent.,Let's live in the present moment.,general,,,,,,
-krd_002029_proverbs,,Tubiri tuvūrana ubúpfu.,"En temps de difficulté, deux individus sont censés s'entraider.","In times of hardship, two individuals are meant to lend each other a helping hand.",proverbs,,,,,,
-krd_002030_action-verbs,,Tugende kw'ishuri.,Allons à l'école.,Let's go to school.,action-verbs,,,,,,
-krd_002031_action-verbs,,Tugende kw'isoko.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,
-krd_002032_action-verbs,,Tugende kwishure.,Allons à l'école.,Let's go to school.,action-verbs,,,,,,
-krd_002033_action-verbs,,Tugende mu cumba,Allons dans la chambre.,Let's go to the bedroom.,action-verbs,,,,,,
-krd_002034_action-verbs,,Tugiye ku isoko rikomeye.,Nous allons au supermarché.,We are going to the supermarket.,action-verbs,,,,,,
-krd_002035_action-verbs,,Tugiye kumusenyi.,Nous allons à la plage.,We are going to the beach.,action-verbs,,,,,,
-krd_002036_action-verbs,,Tugiye kw'isoko.,Nous allons au supermarché.,We are going to the supermarket.,action-verbs,,,,,,
-krd_002037_action-verbs,,Tugiye mu kibira.,Nous allons au parc.,We are going to the park.,action-verbs,,,,,,
-krd_002038_action-verbs,,Tugiye muri parike.,Nous allons au parc.,We are going to the park.,action-verbs,,,,,,
-krd_002039_proverbs,,Tugomba gukingira ibidukikije.,Nous devons protéger l'environnement.,We must protect the environment.,proverbs,,,,,,
-krd_002040_grammar,,"Tugomba kubafasha mu mitima yanyu, ni co gituma tubinginga durtya","Nous voulons vous aider dans votre cœur, c’est pourquoi nous vous supplions ainsi.","We want to help you in your hearts, that’s why we plead with you like this.",grammar,,,,,,
-krd_002041_action-verbs,,Tugomba kunoza serivisi yacu.,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,
-krd_002042_action-verbs,,Tuje kunywa kamwe iyi joro,Allons boire un verre ce soir.,Let's go have a drink tonight.,action-verbs,,,,,,
-krd_002043_action-verbs,,Tuje mu cumba.,Allons dans la chambre.,Let's go to the bedroom.,action-verbs,,,,,,
-krd_002044_action-verbs,,Tuje mu kaguriro.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,
-krd_002045_action-verbs,,Tuje mukaguriro.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,
-krd_002046_action-verbs,,Tunwa shokora ishushe.,Nous buvons du chocolat chaud.,We drink hot chocolate.,action-verbs,,,,,,
-krd_002047_action-verbs,,Turafise inama.,Nous avons une réunion.,We have a meeting.,action-verbs,,,,,,
-krd_002048_action-verbs,,Turafise umubonano.,Nous avons une réunion.,We have a meeting.,action-verbs,,,,,,
-krd_002049_action-verbs,,Turaja gufata kamwe iri joro.,Allons boire un verre ce soir.,Let's go have a drink tonight.,action-verbs,,,,,,
-krd_002050_action-verbs,,Turaja ku misozi mu mpera z'Indwi.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,
-krd_002051_action-verbs,,Turakeneye ibimenyetso.,Nous avons besoin de preuves.,We need proof.,action-verbs,,,,,,
-krd_002052_general,,Turakunda indirimbo,Nous aimons la musique.,We love music.,general,,,,,,
-krd_002053_general,,Turakunda umuziki.,Nous aimons la musique.,We love music.,general,,,,,,
-krd_002054_action-verbs,,Turanywa shokola ishushe.,Nous buvons du chocolat chaud.,We drink hot chocolate.,action-verbs,,,,,,
-krd_002055_action-verbs,,Turashaka uyundi mwanya.,Nous avons besoin de plus de temps.,We need more time.,action-verbs,,,,,,
-krd_002056_proverbs,,Turashobora kubikorana nimba ushaka.,Je peux le faire avec toi si tu préfère.,I can do it with you if you prefer.,proverbs,,,,,,
-krd_002057_action-verbs,,Turashobora kuryohora akazi yacu,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,
-krd_002058_action-verbs,,Turasubira hanyuma.,On se capte plus tard.,We'll catch up later.,action-verbs,,,,,,
-krd_002059_greetings,,Turasubira.,À plus tard.,See you later.,greetings,,,,,,
-krd_002060_grammar,,Turatera ibiharage ubu kugira ngo mu kwezi kwa kabiri tuze turonke ivyo kurya,Nous plantons des haricots maintenant pour avoir de la nourriture en février,We are planting beans now so that in February we will have food,grammar,,,,,,
-krd_002061_action-verbs,,Turatera ibiti,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,
-krd_002062_action-verbs,,Turegeranya imicafu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,
-krd_002063_action-verbs,,Turi giheki?,Quel temps fait-il?,What's the weather like?,action-verbs,,,,,,
-krd_002064_action-verbs,,Turi isaha zingahe?,Quelle heure est-il?,What time is it?,action-verbs,,,,,,
-krd_002065_jokes,,"Turi isahá imwé, irèéngakó cúmi n'ìítānu , mu gatôndo, aríko ndēngānye umutāma aríko asoma akayêri kw'ībútìíke, yôngera asóma n'ágatabu.","Il est 7h15 du matin, et je viens de passer devant la boutique de la rue, où j'ai vu un vieil homme siroter une bière fraîche en lisant un livre","It's 7:15 in the morning, and I just passed by the shop on the street, where I saw an old man sipping a cold beer, while reading a book.",jokes,,,,,,
-krd_002066_action-verbs,,Turi ku yihe tariki?,Quelle est la date?,What is the date?,action-verbs,,,,,,
-krd_002067_proverbs,,Turi mu kwezi kwa kangahe.,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,
-krd_002068_proverbs,,Turi mu kwezi ukuhe?,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,
-krd_002069_grammar,,Turi mukwezi kwa kane,Nous sommes dans le quatrième mois avril.,We are in the fourth month of April.,grammar,,,,,,
-krd_002070_proverbs,,Turi mukwezi ukuhe?,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,
-krd_002071_general,,Turi umuryango.,Nous sommes une famille.,We are a family.,general,,,,,,
-krd_002072_action-verbs,,Turiko dutera ibiti.,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,
-krd_002073_action-verbs,,Turiko turaba imboneshakure.,Nous regardons la télévision.,We watch television.,action-verbs,,,,,,
-krd_002074_action-verbs,,Turiko turakora umukate.,Nous faisons un gâteau.,We are making a cake.,action-verbs,,,,,,
-krd_002075_action-verbs,,Turiko turaraba imboneshakure,Nous regardons la télévision.,We watch television.,action-verbs,,,,,,
-krd_002076_action-verbs,,Turiko turarobanura imicafu yacu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,
-krd_002077_action-verbs,,Turiko turatera ibiti.,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,
-krd_002078_action-verbs,,Turiko tuyora imicafu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,
-krd_002079_grammar,,Turushishwaho kunesha n’uwadukunze,Nous sommes amenés à conquérir davantage par celui qui nous aime,We are made to conquer more by him who loves us,grammar,,,,,,
-krd_002080_action-verbs,,Tuvangura imyanda yacu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,
-krd_002081_grammar,,Tuvuze yuko dufatanije na yo ... ntituba dukora ivy’ukuri,Si nous disons que nous sommes en communion avec Lui… nous ne faisons pas la vérité.,If we say that we have fellowship with Him ...we are not doing the truth.,grammar,,,,,,
-krd_002082_grammar,,"Tuvuze yukw ata caha dufise, tuba twizimiza","Si nous disons que nous n'avons pas de péché, nous nous égarons","If we say that we have no sin, we are leading ourselves astray",grammar,,,,,,
-krd_002083_emotions,,Tuzobonana ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,
-krd_002084_grammar,,Tuzogenda i wabo kugira ngo tuzobafashe,Nous irons chez eux pour les aider.,We’ll go to their place in order to help them.,grammar,,,,,,
-krd_002085_action-verbs,,Tuzogenda ku musozi mumpera y'Indwi.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,
-krd_002086_grammar,,Tuzoguma inokuva ubu kugeza ejo,Nous resterons ici d'ici à demain,We’ll stay here from now until tomorrow,grammar,,,,,,
-krd_002087_action-verbs,,Tuzohura ejo.,On se rencontrera demain.,We'll meet tomorrow.,action-verbs,,,,,,
-krd_002088_action-verbs,,Tuzoja ku musozi muri ino wikende.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,
-krd_002089_action-verbs,,Tuzoja kumusozi mu mpera y'iyi ndwi,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,
-krd_002090_emotions,,Tuzosubira kubonana ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,
-krd_002091_emotions,,Tuzosubira ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,
-krd_002092_greetings,,Tuzosubira.,À plus tard.,See you later.,greetings,,,,,,
-krd_002093_food,,Twafunguriye ahantu bafungurira heza.,Nous avons mangé dans un bon restaurant.,We ate in a good restaurant.,food,,,,,,
-krd_002094_food,,Twafunguriye mu buriro bwiza.,Nous avons mangé dans un bon restaurant.,We ate in a good restaurant.,food,,,,,,
-krd_002095_action-verbs,,Twahanye nimero zacu.,Nous avons échangé nos numéros.,We exchanged numbers.,action-verbs,,,,,,
-krd_002096_action-verbs,,Twaravuganye cane.,Nous avons beaucoup parlé.,We talked a lot.,action-verbs,,,,,,
-krd_002097_grammar,,Twari tunezerewe kubona abagenzi bacu,Nous étions heureux de revoir nos amis,We were happy to see our friends,grammar,,,,,,
-krd_002098_action-verbs,,Twashitse ku ntumbero zacu.,Nous avons atteint nos objectifs.,We have achieved our objectives.,action-verbs,,,,,,
-krd_002099_action-verbs,,Twashoboye gushitsa ihangiro ryacu.,Nous avons atteint nos objectifs.,We have achieved our objectives.,action-verbs,,,,,,
-krd_002100_action-verbs,,Twategerezwa guhimbaza ibi.,Nous devrions célébrer cela.,We should celebrate this.,action-verbs,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_002001_grammar,,Sinabigishije kuvuga gurtyo,Je ne t'ai pas appris à parler comme ça,I didn’t teach you to speak like that,grammar,,,,,,,pending
+krd_002002_proverbs,,Sinabíkoze yakóze umugabo mw'īrúgu.,"Plus le déni est fort, plus la culpabilité est profonde.","The louder the denial, the deeper the guilt.",proverbs,,,,,,,pending
+krd_002003_proverbs,,Sinakunze kino gitabo.,Je n'ai pas aimé ce livre.,I didn't like this book.,proverbs,,,,,,,pending
+krd_002004_proverbs,,Sinakunze kino gitabu.,Je n'ai pas aimé ce livre.,I didn't like this book.,proverbs,,,,,,,pending
+krd_002005_action-verbs,,Sinatahuye neza.,Je n'ai pas bien compris.,I didn't quite understand.,action-verbs,,,,,,,pending
+krd_002006_grammar,,Sindanamuzi,je ne le connais pas du tout,I don’t know him at all,grammar,,,,,,,pending
+krd_002007_grammar,,Sindibube ndima,je ne vais pas biner,I am not going to hoe,grammar,,,,,,,pending
+krd_002008_grammar,,Sinigeze kugenda i Bururi,Je ne suis encore jamais allé à Bururi,I have never yet gone to Bururi,grammar,,,,,,,pending
+krd_002009_proverbs,,Sinkunda epinari.,Je n'aime pas les épinards.,I don't like spinach.,proverbs,,,,,,,pending
+krd_002010_action-verbs,,Sinshobora,Je ne peux pas.,I can't.,action-verbs,,,,,,,pending
+krd_002011_grammar,,"Sinshobora kuguhemba ubu, ariko mw iyinga riza nzoba mfise amafaranga akwiye","Je ne peux pas te payer maintenant, mais la semaine prochaine j'aurai assez d'argent","I can’t pay you now, but next week I will have enough money",grammar,,,,,,,pending
+krd_002012_jokes,,Sinshobóra kwîyumvīsha Ingéne ibīntu vyöse vyàádūze ibicîro aríko imibú ikaguma itúrya ku būntu.,"Je ne comprends pas pourquoi les prix de tout explosent, alors que les moustiques continuent de nous dévorer gratuitement","I can't comprehend why the costs of everything are soaring, yet mosquitoes persist in feasting on us without charge.",jokes,,,,,,,pending
+krd_002013_proverbs,,Sinywa ibiboreza.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,,pending
+krd_002014_proverbs,,Sinywa inzoga.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,,pending
+krd_002015_grammar,,Sinzi ivyabaye,Je ne sais pas ce qui s'est passé.,I don’t know what happened.,grammar,,,,,,,pending
+krd_002016_grammar,,Sinzi ko azokira,Je ne sais pas s'il ira mieux,I don’t know if he will get well,grammar,,,,,,,pending
+krd_002017_grammar,,Sinzoba ndiko ndakora,je ne serai pas,I will not be,grammar,,,,,,,pending
+krd_002018_grammar,,Sinzokwigera mbesha,Je ne mentirai jamais,I shall never lie,grammar,,,,,,,pending
+krd_002019_idioms,,Sumuntu akunda gukoranako.,Elle n'est pas du genre câlineuse.,She's not the cuddly type.,idioms,,,,,,,pending
+krd_002020_proverbs,,Só akwănka akuraga ivyămunaniye.,Un mauvais père laisse un héritage de problèmes non résolus à ses enfants.,A bad father leaves a legacy of unfinished business for his children to tackle.,proverbs,,,,,,,pending
+krd_002021_proverbs,,Só ntákwănka akwīta nâbí.,"Le cœur d'un père est toujours affectueux, même si ses mots semblent durs.","A father's heart is always fond, even if his words seem harsh.",proverbs,,,,,,,pending
+krd_002022_proverbs,,Sīndyá aka ahinyuzwa n'úmusáse.,Ne pas manger le soir entraîne des regrets le matin.,Not eating at night results in morning regre.,proverbs,,,,,,,pending
+krd_002023_action-verbs,,Terefone yanje iri hehe?,Où est mon téléphone?,Where is my phone?,action-verbs,,,,,,,pending
+krd_002024_grammar,,Terefone yanje ntikora.,Mon téléphone ne fonctionne pas.,My phone doesn't work.,grammar,,,,,,,pending
+krd_002025_action-verbs,,"Tora , ambara ibi.","Tiens, enfile ça.","Here, put this on.",action-verbs,,,,,,,pending
+krd_002026_location,,Tubana n'uruganda ruhingura imikate,Nous habitons près du boulangerie.,We live near the bakery.,location,,,,,,,pending
+krd_002027_general,,Tubeho muri uno mwanya.,Vivons le moment présent.,Let's live in the present moment.,general,,,,,,,pending
+krd_002028_general,,Tubeho muri iki gihe.,Vivons le moment présent.,Let's live in the present moment.,general,,,,,,,pending
+krd_002029_proverbs,,Tubiri tuvūrana ubúpfu.,"En temps de difficulté, deux individus sont censés s'entraider.","In times of hardship, two individuals are meant to lend each other a helping hand.",proverbs,,,,,,,pending
+krd_002030_action-verbs,,Tugende kw'ishuri.,Allons à l'école.,Let's go to school.,action-verbs,,,,,,,pending
+krd_002031_action-verbs,,Tugende kw'isoko.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,,pending
+krd_002032_action-verbs,,Tugende kwishure.,Allons à l'école.,Let's go to school.,action-verbs,,,,,,,pending
+krd_002033_action-verbs,,Tugende mu cumba,Allons dans la chambre.,Let's go to the bedroom.,action-verbs,,,,,,,pending
+krd_002034_action-verbs,,Tugiye ku isoko rikomeye.,Nous allons au supermarché.,We are going to the supermarket.,action-verbs,,,,,,,pending
+krd_002035_action-verbs,,Tugiye kumusenyi.,Nous allons à la plage.,We are going to the beach.,action-verbs,,,,,,,pending
+krd_002036_action-verbs,,Tugiye kw'isoko.,Nous allons au supermarché.,We are going to the supermarket.,action-verbs,,,,,,,pending
+krd_002037_action-verbs,,Tugiye mu kibira.,Nous allons au parc.,We are going to the park.,action-verbs,,,,,,,pending
+krd_002038_action-verbs,,Tugiye muri parike.,Nous allons au parc.,We are going to the park.,action-verbs,,,,,,,pending
+krd_002039_proverbs,,Tugomba gukingira ibidukikije.,Nous devons protéger l'environnement.,We must protect the environment.,proverbs,,,,,,,pending
+krd_002040_grammar,,"Tugomba kubafasha mu mitima yanyu, ni co gituma tubinginga durtya","Nous voulons vous aider dans votre cœur, c’est pourquoi nous vous supplions ainsi.","We want to help you in your hearts, that’s why we plead with you like this.",grammar,,,,,,,pending
+krd_002041_action-verbs,,Tugomba kunoza serivisi yacu.,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,,pending
+krd_002042_action-verbs,,Tuje kunywa kamwe iyi joro,Allons boire un verre ce soir.,Let's go have a drink tonight.,action-verbs,,,,,,,pending
+krd_002043_action-verbs,,Tuje mu cumba.,Allons dans la chambre.,Let's go to the bedroom.,action-verbs,,,,,,,pending
+krd_002044_action-verbs,,Tuje mu kaguriro.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,,pending
+krd_002045_action-verbs,,Tuje mukaguriro.,Allons au marché.,Let's go to the market.,action-verbs,,,,,,,pending
+krd_002046_action-verbs,,Tunwa shokora ishushe.,Nous buvons du chocolat chaud.,We drink hot chocolate.,action-verbs,,,,,,,pending
+krd_002047_action-verbs,,Turafise inama.,Nous avons une réunion.,We have a meeting.,action-verbs,,,,,,,pending
+krd_002048_action-verbs,,Turafise umubonano.,Nous avons une réunion.,We have a meeting.,action-verbs,,,,,,,pending
+krd_002049_action-verbs,,Turaja gufata kamwe iri joro.,Allons boire un verre ce soir.,Let's go have a drink tonight.,action-verbs,,,,,,,pending
+krd_002050_action-verbs,,Turaja ku misozi mu mpera z'Indwi.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,,pending
+krd_002051_action-verbs,,Turakeneye ibimenyetso.,Nous avons besoin de preuves.,We need proof.,action-verbs,,,,,,,pending
+krd_002052_general,,Turakunda indirimbo,Nous aimons la musique.,We love music.,general,,,,,,,pending
+krd_002053_general,,Turakunda umuziki.,Nous aimons la musique.,We love music.,general,,,,,,,pending
+krd_002054_action-verbs,,Turanywa shokola ishushe.,Nous buvons du chocolat chaud.,We drink hot chocolate.,action-verbs,,,,,,,pending
+krd_002055_action-verbs,,Turashaka uyundi mwanya.,Nous avons besoin de plus de temps.,We need more time.,action-verbs,,,,,,,pending
+krd_002056_proverbs,,Turashobora kubikorana nimba ushaka.,Je peux le faire avec toi si tu préfère.,I can do it with you if you prefer.,proverbs,,,,,,,pending
+krd_002057_action-verbs,,Turashobora kuryohora akazi yacu,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,,pending
+krd_002058_action-verbs,,Turasubira hanyuma.,On se capte plus tard.,We'll catch up later.,action-verbs,,,,,,,pending
+krd_002059_greetings,,Turasubira.,À plus tard.,See you later.,greetings,,,,,,,pending
+krd_002060_grammar,,Turatera ibiharage ubu kugira ngo mu kwezi kwa kabiri tuze turonke ivyo kurya,Nous plantons des haricots maintenant pour avoir de la nourriture en février,We are planting beans now so that in February we will have food,grammar,,,,,,,pending
+krd_002061_action-verbs,,Turatera ibiti,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,,pending
+krd_002062_action-verbs,,Turegeranya imicafu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,,pending
+krd_002063_action-verbs,,Turi giheki?,Quel temps fait-il?,What's the weather like?,action-verbs,,,,,,,pending
+krd_002064_action-verbs,,Turi isaha zingahe?,Quelle heure est-il?,What time is it?,action-verbs,,,,,,,pending
+krd_002065_jokes,,"Turi isahá imwé, irèéngakó cúmi n'ìítānu , mu gatôndo, aríko ndēngānye umutāma aríko asoma akayêri kw'ībútìíke, yôngera asóma n'ágatabu.","Il est 7h15 du matin, et je viens de passer devant la boutique de la rue, où j'ai vu un vieil homme siroter une bière fraîche en lisant un livre","It's 7:15 in the morning, and I just passed by the shop on the street, where I saw an old man sipping a cold beer, while reading a book.",jokes,,,,,,,pending
+krd_002066_action-verbs,,Turi ku yihe tariki?,Quelle est la date?,What is the date?,action-verbs,,,,,,,pending
+krd_002067_proverbs,,Turi mu kwezi kwa kangahe.,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,,pending
+krd_002068_proverbs,,Turi mu kwezi ukuhe?,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,,pending
+krd_002069_grammar,,Turi mukwezi kwa kane,Nous sommes dans le quatrième mois avril.,We are in the fourth month of April.,grammar,,,,,,,pending
+krd_002070_proverbs,,Turi mukwezi ukuhe?,Quel mois sommes-nous?,What month is it?,proverbs,,,,,,,pending
+krd_002071_general,,Turi umuryango.,Nous sommes une famille.,We are a family.,general,,,,,,,pending
+krd_002072_action-verbs,,Turiko dutera ibiti.,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,,pending
+krd_002073_action-verbs,,Turiko turaba imboneshakure.,Nous regardons la télévision.,We watch television.,action-verbs,,,,,,,pending
+krd_002074_action-verbs,,Turiko turakora umukate.,Nous faisons un gâteau.,We are making a cake.,action-verbs,,,,,,,pending
+krd_002075_action-verbs,,Turiko turaraba imboneshakure,Nous regardons la télévision.,We watch television.,action-verbs,,,,,,,pending
+krd_002076_action-verbs,,Turiko turarobanura imicafu yacu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,,pending
+krd_002077_action-verbs,,Turiko turatera ibiti.,Nous plantons des arbres.,We plant trees.,action-verbs,,,,,,,pending
+krd_002078_action-verbs,,Turiko tuyora imicafu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,,pending
+krd_002079_grammar,,Turushishwaho kunesha n’uwadukunze,Nous sommes amenés à conquérir davantage par celui qui nous aime,We are made to conquer more by him who loves us,grammar,,,,,,,pending
+krd_002080_action-verbs,,Tuvangura imyanda yacu.,Nous trions nos déchets.,We sort our waste.,action-verbs,,,,,,,pending
+krd_002081_grammar,,Tuvuze yuko dufatanije na yo ... ntituba dukora ivy’ukuri,Si nous disons que nous sommes en communion avec Lui… nous ne faisons pas la vérité.,If we say that we have fellowship with Him ...we are not doing the truth.,grammar,,,,,,,pending
+krd_002082_grammar,,"Tuvuze yukw ata caha dufise, tuba twizimiza","Si nous disons que nous n'avons pas de péché, nous nous égarons","If we say that we have no sin, we are leading ourselves astray",grammar,,,,,,,pending
+krd_002083_emotions,,Tuzobonana ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,,pending
+krd_002084_grammar,,Tuzogenda i wabo kugira ngo tuzobafashe,Nous irons chez eux pour les aider.,We’ll go to their place in order to help them.,grammar,,,,,,,pending
+krd_002085_action-verbs,,Tuzogenda ku musozi mumpera y'Indwi.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,,pending
+krd_002086_grammar,,Tuzoguma inokuva ubu kugeza ejo,Nous resterons ici d'ici à demain,We’ll stay here from now until tomorrow,grammar,,,,,,,pending
+krd_002087_action-verbs,,Tuzohura ejo.,On se rencontrera demain.,We'll meet tomorrow.,action-verbs,,,,,,,pending
+krd_002088_action-verbs,,Tuzoja ku musozi muri ino wikende.,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,,pending
+krd_002089_action-verbs,,Tuzoja kumusozi mu mpera y'iyi ndwi,Nous allons à la montagne ce week-end.,We are going to the mountains this weekend.,action-verbs,,,,,,,pending
+krd_002090_emotions,,Tuzosubira kubonana ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,,pending
+krd_002091_emotions,,Tuzosubira ryari?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,,pending
+krd_002092_greetings,,Tuzosubira.,À plus tard.,See you later.,greetings,,,,,,,pending
+krd_002093_food,,Twafunguriye ahantu bafungurira heza.,Nous avons mangé dans un bon restaurant.,We ate in a good restaurant.,food,,,,,,,pending
+krd_002094_food,,Twafunguriye mu buriro bwiza.,Nous avons mangé dans un bon restaurant.,We ate in a good restaurant.,food,,,,,,,pending
+krd_002095_action-verbs,,Twahanye nimero zacu.,Nous avons échangé nos numéros.,We exchanged numbers.,action-verbs,,,,,,,pending
+krd_002096_action-verbs,,Twaravuganye cane.,Nous avons beaucoup parlé.,We talked a lot.,action-verbs,,,,,,,pending
+krd_002097_grammar,,Twari tunezerewe kubona abagenzi bacu,Nous étions heureux de revoir nos amis,We were happy to see our friends,grammar,,,,,,,pending
+krd_002098_action-verbs,,Twashitse ku ntumbero zacu.,Nous avons atteint nos objectifs.,We have achieved our objectives.,action-verbs,,,,,,,pending
+krd_002099_action-verbs,,Twashoboye gushitsa ihangiro ryacu.,Nous avons atteint nos objectifs.,We have achieved our objectives.,action-verbs,,,,,,,pending
+krd_002100_action-verbs,,Twategerezwa guhimbaza ibi.,Nous devrions célébrer cela.,We should celebrate this.,action-verbs,,,,,,,pending

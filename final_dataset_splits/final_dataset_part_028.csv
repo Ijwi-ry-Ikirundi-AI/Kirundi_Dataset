@@ -1,101 +1,101 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_002701_grammar,,Yahindutse ukundi,il a changé,he changed,grammar,,,,,,
-krd_002702_grammar,,Yahoze ari umunyeshuri,Il a toujours été un élève.,He was always a pupil.,grammar,,,,,,
-krd_002703_grammar,,Yaje mw'isomero adafise igitabo,Il est venu à l'école sans livre,He came to school without a book,grammar,,,,,,
-krd_002704_action-verbs,,Yakubwiye iki?,Qu'est-ce qu'il a dit ?,What did he say?,action-verbs,,,,,,
-krd_002705_proverbs,,"Yakunda kutubaza ati:""Uva hehe?"".","Il nous demandait souvent : ""d'où viens-tu ?"".",He often asked us: where are you from?.,proverbs,,,,,,
-krd_002706_emotions,,Yama anezerewe buri musi,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,
-krd_002707_emotions,,Yama aryohewe.,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,
-krd_002708_proverbs,,"Yamara nyene, izimangana ry’ururimi rwacu ryaratanguye.","Pourtant, l'extinction de notre langue a commencé.","However, the extinction of our language has begun.",proverbs,,,,,,
-krd_002709_vocabulary,,Yambaye amarori,Il porte de lunettes,He is wearing glasses,vocabulary,,,,,,
-krd_002710_adjectives,,Yambaye ikanzu ishushe.,Il porte un manteau chaud.,He is wearing a warm coat.,adjectives,,,,,,
-krd_002711_general,,Yambaye ikanzu itukura,Elle porte une robe rouge.,She is wearing a red dress.,general,,,,,,
-krd_002712_action-verbs,,Yaratureze turakura tugera mu bigero.,Il nous a élevé jusqu'à la maturité.,He raised us to maturity.,action-verbs,,,,,,
-krd_002713_grammar,,Yaremaye ibirenge uhereye kuva mu nda ya nyina,Il était infirme de naissance,He was crippled from birth,grammar,,,,,,
-krd_002714_grammar,,Yari asanzwe arwaye atarakomereka,Il avait été malade avant de se blesser,He had been sick before he got hurt,grammar,,,,,,
-krd_002715_food,,Yari imfungurwa iryoshe,C'était un repas délicieux.,It was a delicious meal.,food,,,,,,
-krd_002716_jokes,,"Yarâmpévye, nôné ubu dukūndana na nyéne inzu abamwó.","Il m'a quitté, mais maintenant je suis en couple avec le propriétaire de son appartement. ","He dumped me, but now I'm in a relationship with the landlord of his apartment.",jokes,,,,,,
-krd_002717_grammar,,Yateye umupira ubwa kabiri,Il a lancé le ballon une deuxième fois,He threw the ball the second time,grammar,,,,,,
-krd_002718_grammar,,"Yavuga, ati Oya! bagaca bamubarira..",S'il disait : Non ! alors ils lui ont dit..,"If he said, No! then they told him..",grammar,,,,,,
-krd_002719_action-verbs,,Yavuze ibiki?,Qu'est-ce qu'il a dit ?,What did he say?,action-verbs,,,,,,
-krd_002720_grammar,,"Yavuze ivy’ukuzuka kwa Kristo abibonye bitaribwabe , yukw atarekewe mu kuzimu, kandi n’umubiri wiwe ata ho wigeze ubora","Il a parlé de la résurrection du Christ, la voyant avant qu'elle ne se produise, qu'il ne serait pas laissé dans la fosse et que son corps ne se décomposerait jamais.","He spoke of the resurrection of Christ, seeing it before it ever happened , that he would not be left in the pit, and his body that it would never decay",grammar,,,,,,
-krd_002721_grammar,,Yavuze ko azoza,Il a dit qu'il viendrait,He said that he will come,grammar,,,,,,
-krd_002722_grammar,,Yemwe bana! ni mureke gutera amabuye!,Vous les enfants ! arrête de jeter des pierres !,You children! stop throwing stones!,grammar,,,,,,
-krd_002723_grammar,,Yesu amenye yuko biburanya”,Jésus sachant qu'ils raisonnaient »,Jesus knowing that they reasoned”,grammar,,,,,,
-krd_002724_grammar,,Yesu azozanana n’abamarayika biwe,Jésus viendra avec ses anges,Jesus will come with his angels,grammar,,,,,,
-krd_002725_grammar,,Yesu ni we Mwami wa bose,Jésus est le Seigneur de tous,Jesus is Lord of all,grammar,,,,,,
-krd_002726_grammar,,Yihereranye ni abiwe bigishwa akabibasobanurira vyose,"Lorsqu'il était seul avec ses propres disciples, il leur expliquait tout.",When he was alone with his own disciples he explained everything to them,grammar,,,,,,
-krd_002727_action-verbs,,Yiruka buri gitondo.,Il court tous les matins.,He runs every morning.,action-verbs,,,,,,
-krd_002728_action-verbs,,Yiruka misi yose mu gatondo.,Il court tous les matins.,He runs every morning.,action-verbs,,,,,,
-krd_002729_grammar,,Yoba akwiye kuvuga,Il aurait dû parler,He would have had to speak,grammar,,,,,,
-krd_002730_grammar,,"Yofashe kw izosi, impene iba ipfuye","S'il l'avait pris par le cou, la chèvre serait morte",If he had taken it by the neck the goat would have died,grammar,,,,,,
-krd_002731_grammar,,"Yohana amaze gushirwa mw ibohero, Yesu aja i Galilaya","Quand Jean fut mis en prison, Jésus se rendit en Galilée","When John had been put in prison, Jesus went to Galilee",grammar,,,,,,
-krd_002732_grammar,,"Yombariye, mba nje","S'il me l'avait dit, je serais venu","If he had told me, I would have come",grammar,,,,,,
-krd_002733_grammar,,"Yongera kugenda ubwa kabiri, arasenga",Il y est retourné une deuxième fois et a prié,He went again the second time and prayed,grammar,,,,,,
-krd_002734_jokes,,Yìíze hé ?,Où a-t-il étudié ?,Where did he get educated? ,jokes,,,,,,
-krd_002735_grammar,,Zana impuzu zose atari izo zibiri,Apportez tous les vêtements sauf ces deux-là,Bring all the clothes except those two,grammar,,,,,,
-krd_002736_grammar,,Zana impuzu zose ukuyemwo izo zibiri,Apportez tous les vêtements sauf ces deux-là,Bring all the clothes except those two,grammar,,,,,,
-krd_002737_grammar,,Zana ivyo bitabo na vyo,Apportez aussi ces livres,"Bring those books, too",grammar,,,,,,
-krd_002738_proverbs,,Zikamwa ayό zitāhánye.,Les vaches produisent du lait en fonction de ce qu'elles ont mangé pendant le pâturage.,Cows produce milk based on what they have eaten during grazing.,proverbs,,,,,,
-krd_002739_action-verbs,,abana barakina hanze.,Les enfants jouent dehors.,The children are playing outside.,action-verbs,,,,,,
-krd_002740_vocabulary,,aka ni agahungarema.,Ceci est un chauve-souris.,This is a bat.,vocabulary,,,,,,
-krd_002741_grammar,,akarya imitsima ari umuziro kuribwa ukuyemwo abaherezi,"et il a mangé du pain dont la consommation est interdite, sauf aux prêtres",and ate bread which is forbidden to be eaten except the priests,grammar,,,,,,
-krd_002742_proverbs,,amazi akanye,L'eau froide.,Cold water.,proverbs,,,,,,
-krd_002743_action-verbs,,araririmba indirimbo.,Elle chante une chanson.,She sings a song.,action-verbs,,,,,,
-krd_002744_general,,aritonda cane,Il est très sympathique.,He is very friendly.,general,,,,,,
-krd_002745_jokes,,"aríko Ubu bakubwīra rimwé, agíze Imâna ntùúvyūmve aba ahîriwe","elles ne vous le disent qu'une fois, et si elles ont de la chance, vous ne les entendez même pas","Today's aunties, however, only tell you once, and if they're lucky, you might not even hear them.",jokes,,,,,,
-krd_002746_action-verbs,,bakwita gute?,Quel est votre nom?,What is your name?,action-verbs,,,,,,
-krd_002747_action-verbs,,bazokora ubugeni mu mwaka uza.,Ils vont se marier l'année prochaine.,They are going to get married next year.,action-verbs,,,,,,
-krd_002748_action-verbs,,birashushe.,C'est chaud.,It's hot.,action-verbs,,,,,,
-krd_002749_action-verbs,,bisaba tugende kare,Nous devons partir tôt.,We have to leave early.,action-verbs,,,,,,
-krd_002750_proverbs,,bose bafise umutekano.,Tout le monde est en sécurité.,Everyone is safe.,proverbs,,,,,,
-krd_002751_action-verbs,,dukeneye umwanya ukwiye.,Nous avons besoin de plus de temps.,We need more time.,action-verbs,,,,,,
-krd_002752_action-verbs,,dutegerezwa gufata ingingo,Nous devons prendre une décision.,We have to make a decision.,action-verbs,,,,,,
-krd_002753_action-verbs,,ego ndibaza,Je pense que oui.,I think so.,action-verbs,,,,,,
-krd_002754_advice,,fata akanya.,Prends ton temps.,Take your time.,advice,,,,,,
-krd_002755_action-verbs,,hamagara igipolisi,Appelez la police!,Call the police!,action-verbs,,,,,,
-krd_002756_vocabulary,,hano hari Inkwavu nyinshi.,Il y a beaucoup de lapin ici.,There are many rabbit here.,vocabulary,,,,,,
-krd_002757_vocabulary,,hano hari Intoke nyinshi.,Il y a beaucoup de doigt ici.,There are many finger here.,vocabulary,,,,,,
-krd_002758_vocabulary,,hano hari amabungo menshi.,Il y a beaucoup de passion fruit ici.,There are many fruit de la passion here.,vocabulary,,,,,,
-krd_002759_vocabulary,,hano hari amaguru menshi.,Il y a beaucoup de jambe ici.,There are many leg here.,vocabulary,,,,,,
-krd_002760_vocabulary,,hano hari amavi menshi.,Il y a beaucoup de genou ici.,There are many knee here.,vocabulary,,,,,,
-krd_002761_vocabulary,,hano hari ca Mama benshi.,Il y a beaucoup de maman ici.,There are many mum here.,vocabulary,,,,,,
-krd_002762_vocabulary,,hano hari ibido nyinshi.,Il y a beaucoup de jerrican ici.,There are many jerrican here.,vocabulary,,,,,,
-krd_002763_vocabulary,,hano hari ibigori vyinshi.,Il y a beaucoup de maÏs ici.,There are many corn here.,vocabulary,,,,,,
-krd_002764_vocabulary,,hano hari ibinyugungyugu vyinshi.,Il y a beaucoup de papillon ici.,There are many butterfly here.,vocabulary,,,,,,
-krd_002765_vocabulary,,hano hari ibitoke vyinshi.,Il y a beaucoup de banane verte ici.,There are many green banana here.,vocabulary,,,,,,
-krd_002766_vocabulary,,hano hari imifuko myinshi.,Il y a beaucoup de sac ici.,There are many sack here.,vocabulary,,,,,,
-krd_002767_vocabulary,,hano hari imiserebanyi myinshi.,Il y a beaucoup de lézard ici.,There are many lizard here.,vocabulary,,,,,,
-krd_002768_vocabulary,,hano hari imyungu myinshi.,Il y a beaucoup de courge ici.,There are many pumpkin here.,vocabulary,,,,,,
-krd_002769_vocabulary,,hano hari inkoko nyinshi.,Il y a beaucoup de poule ici.,There are many chicken here.,vocabulary,,,,,,
-krd_002770_vocabulary,,hano hari ipapayi nyinshi.,Il y a beaucoup de papaye ici.,There are many papaya here.,vocabulary,,,,,,
-krd_002771_vocabulary,,hano hari isoya nyinshi.,Il y a beaucoup de soja ici.,There are many soy here.,vocabulary,,,,,,
-krd_002772_vocabulary,,hano hari utuyabu twinshi.,Il y a beaucoup de chats ici.,There are many cats here.,vocabulary,,,,,,
-krd_002773_vocabulary,,hanohari imeza nyinshi.,Il y a beaucoup de table ici.,There are many table here.,vocabulary,,,,,,
-krd_002774_vocabulary,,ibarabara ni rirerire cane,la route est tres longue,the road is so long,vocabulary,,,,,,
-krd_002775_action-verbs,,ibisi yasinze,J'ai raté le bus.,I missed the bus.,action-verbs,,,,,,
-krd_002776_proverbs,,icirwa kirasanzwe,La réponse est simple.,The answer is simple.,proverbs,,,,,,
-krd_002777_general,,igihe c'imbeho ni kirekire,L'hiver est long et froid.,Winter is long and cold.,general,,,,,,
-krd_002778_grammar,,igihe cose Umwami Yesu yari akiri muri twebwe,"tout le temps, le Seigneur Jésus était encore avec nous",the whole time the Lord Jesus was still with us,grammar,,,,,,
-krd_002779_action-verbs,,igikorwa carakemuste.,Le projet est un succès.,The project is a success.,action-verbs,,,,,,
-krd_002780_proverbs,,ijoro ritanga icigwa,La nuit porte conseil.,The night brings advice.,proverbs,,,,,,
-krd_002781_general,,ijwi ry'imikuba ziraruhura,Le son des vagues est apaisant.,The sound of the waves is calming.,general,,,,,,
-krd_002782_grammar,,imangazini irugaye k'umunsi w'imana.,Le magasin est fermé le dimanche.,The store is closed on Sundays.,grammar,,,,,,
-krd_002783_food,,imfungurwa yari iryoshe,La nourriture était incroyable.,The food was amazing.,food,,,,,,
-krd_002784_adjectives,,imodoka isa nubururu,La voiture est bleue.,The car is blue.,adjectives,,,,,,
-krd_002785_action-verbs,,ingo ufungure,Viens manger.,Come eat.,action-verbs,,,,,,
-krd_002786_adjectives,,insiguro iratahuritse.,L'explication était très claire.,The explanation was very clear.,adjectives,,,,,,
-krd_002787_action-verbs,,inyabwonko yanje irikwega,Mon ordinateur est très lent.,My computer is very slow.,action-verbs,,,,,,
-krd_002788_action-verbs,,ivyakogwa biraheze,Le projet est terminé.,The project is finished.,action-verbs,,,,,,
-krd_002789_grammar,,ivyo bindi biti,ces autres arbres,those other trees,grammar,,,,,,
-krd_002790_idioms,,iyi ndirimbo ni iyihe ?,Quelle est cette chanson?,What is this song?,idioms,,,,,,
-krd_002791_action-verbs,,izuba riraka uyumusi.,Le soleil brille aujourd'hui.,The sun is shining today.,action-verbs,,,,,,
-krd_002792_action-verbs,,ku musenyi hararuhura.,La plage est relaxante.,The beach is relaxing.,action-verbs,,,,,,
-krd_002793_proverbs,,kuba ku gihe birahambaye.,La ponctualité est importante.,Punctuality is important.,proverbs,,,,,,
-krd_002794_proverbs,,kwubahana nico gikuru mu mibano yose.,Le respect est la base de toute relation.,Respect is the basis of any relationship.,proverbs,,,,,,
-krd_002795_action-verbs,,"mbega,turyama hehe??","Alors, où dormons-nous ?",So where do we sleep?,action-verbs,,,,,,
-krd_002796_vocabulary,,mpitamwo imiti yaha iwacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,
-krd_002797_greetings,,mu mwanya.,À plus tard.,See you later.,greetings,,,,,,
-krd_002798_action-verbs,,"mugabo ,nyumviriza .","Mec, écoute-moi.","Dude, listen to me.",action-verbs,,,,,,
-krd_002799_grammar,,muka Petero,la femme de Pierre,the wife of Peter,grammar,,,,,,
-krd_002800_apologies,,murantunga kuri uku gucerwa.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_002701_grammar,,Yahindutse ukundi,il a changé,he changed,grammar,,,,,,,pending
+krd_002702_grammar,,Yahoze ari umunyeshuri,Il a toujours été un élève.,He was always a pupil.,grammar,,,,,,,pending
+krd_002703_grammar,,Yaje mw'isomero adafise igitabo,Il est venu à l'école sans livre,He came to school without a book,grammar,,,,,,,pending
+krd_002704_action-verbs,,Yakubwiye iki?,Qu'est-ce qu'il a dit ?,What did he say?,action-verbs,,,,,,,pending
+krd_002705_proverbs,,"Yakunda kutubaza ati:""Uva hehe?"".","Il nous demandait souvent : ""d'où viens-tu ?"".",He often asked us: where are you from?.,proverbs,,,,,,,pending
+krd_002706_emotions,,Yama anezerewe buri musi,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,,pending
+krd_002707_emotions,,Yama aryohewe.,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,,pending
+krd_002708_proverbs,,"Yamara nyene, izimangana ry’ururimi rwacu ryaratanguye.","Pourtant, l'extinction de notre langue a commencé.","However, the extinction of our language has begun.",proverbs,,,,,,,pending
+krd_002709_vocabulary,,Yambaye amarori,Il porte de lunettes,He is wearing glasses,vocabulary,,,,,,,pending
+krd_002710_adjectives,,Yambaye ikanzu ishushe.,Il porte un manteau chaud.,He is wearing a warm coat.,adjectives,,,,,,,pending
+krd_002711_general,,Yambaye ikanzu itukura,Elle porte une robe rouge.,She is wearing a red dress.,general,,,,,,,pending
+krd_002712_action-verbs,,Yaratureze turakura tugera mu bigero.,Il nous a élevé jusqu'à la maturité.,He raised us to maturity.,action-verbs,,,,,,,pending
+krd_002713_grammar,,Yaremaye ibirenge uhereye kuva mu nda ya nyina,Il était infirme de naissance,He was crippled from birth,grammar,,,,,,,pending
+krd_002714_grammar,,Yari asanzwe arwaye atarakomereka,Il avait été malade avant de se blesser,He had been sick before he got hurt,grammar,,,,,,,pending
+krd_002715_food,,Yari imfungurwa iryoshe,C'était un repas délicieux.,It was a delicious meal.,food,,,,,,,pending
+krd_002716_jokes,,"Yarâmpévye, nôné ubu dukūndana na nyéne inzu abamwó.","Il m'a quitté, mais maintenant je suis en couple avec le propriétaire de son appartement. ","He dumped me, but now I'm in a relationship with the landlord of his apartment.",jokes,,,,,,,pending
+krd_002717_grammar,,Yateye umupira ubwa kabiri,Il a lancé le ballon une deuxième fois,He threw the ball the second time,grammar,,,,,,,pending
+krd_002718_grammar,,"Yavuga, ati Oya! bagaca bamubarira..",S'il disait : Non ! alors ils lui ont dit..,"If he said, No! then they told him..",grammar,,,,,,,pending
+krd_002719_action-verbs,,Yavuze ibiki?,Qu'est-ce qu'il a dit ?,What did he say?,action-verbs,,,,,,,pending
+krd_002720_grammar,,"Yavuze ivy’ukuzuka kwa Kristo abibonye bitaribwabe , yukw atarekewe mu kuzimu, kandi n’umubiri wiwe ata ho wigeze ubora","Il a parlé de la résurrection du Christ, la voyant avant qu'elle ne se produise, qu'il ne serait pas laissé dans la fosse et que son corps ne se décomposerait jamais.","He spoke of the resurrection of Christ, seeing it before it ever happened , that he would not be left in the pit, and his body that it would never decay",grammar,,,,,,,pending
+krd_002721_grammar,,Yavuze ko azoza,Il a dit qu'il viendrait,He said that he will come,grammar,,,,,,,pending
+krd_002722_grammar,,Yemwe bana! ni mureke gutera amabuye!,Vous les enfants ! arrête de jeter des pierres !,You children! stop throwing stones!,grammar,,,,,,,pending
+krd_002723_grammar,,Yesu amenye yuko biburanya”,Jésus sachant qu'ils raisonnaient »,Jesus knowing that they reasoned”,grammar,,,,,,,pending
+krd_002724_grammar,,Yesu azozanana n’abamarayika biwe,Jésus viendra avec ses anges,Jesus will come with his angels,grammar,,,,,,,pending
+krd_002725_grammar,,Yesu ni we Mwami wa bose,Jésus est le Seigneur de tous,Jesus is Lord of all,grammar,,,,,,,pending
+krd_002726_grammar,,Yihereranye ni abiwe bigishwa akabibasobanurira vyose,"Lorsqu'il était seul avec ses propres disciples, il leur expliquait tout.",When he was alone with his own disciples he explained everything to them,grammar,,,,,,,pending
+krd_002727_action-verbs,,Yiruka buri gitondo.,Il court tous les matins.,He runs every morning.,action-verbs,,,,,,,pending
+krd_002728_action-verbs,,Yiruka misi yose mu gatondo.,Il court tous les matins.,He runs every morning.,action-verbs,,,,,,,pending
+krd_002729_grammar,,Yoba akwiye kuvuga,Il aurait dû parler,He would have had to speak,grammar,,,,,,,pending
+krd_002730_grammar,,"Yofashe kw izosi, impene iba ipfuye","S'il l'avait pris par le cou, la chèvre serait morte",If he had taken it by the neck the goat would have died,grammar,,,,,,,pending
+krd_002731_grammar,,"Yohana amaze gushirwa mw ibohero, Yesu aja i Galilaya","Quand Jean fut mis en prison, Jésus se rendit en Galilée","When John had been put in prison, Jesus went to Galilee",grammar,,,,,,,pending
+krd_002732_grammar,,"Yombariye, mba nje","S'il me l'avait dit, je serais venu","If he had told me, I would have come",grammar,,,,,,,pending
+krd_002733_grammar,,"Yongera kugenda ubwa kabiri, arasenga",Il y est retourné une deuxième fois et a prié,He went again the second time and prayed,grammar,,,,,,,pending
+krd_002734_jokes,,Yìíze hé ?,Où a-t-il étudié ?,Where did he get educated? ,jokes,,,,,,,pending
+krd_002735_grammar,,Zana impuzu zose atari izo zibiri,Apportez tous les vêtements sauf ces deux-là,Bring all the clothes except those two,grammar,,,,,,,pending
+krd_002736_grammar,,Zana impuzu zose ukuyemwo izo zibiri,Apportez tous les vêtements sauf ces deux-là,Bring all the clothes except those two,grammar,,,,,,,pending
+krd_002737_grammar,,Zana ivyo bitabo na vyo,Apportez aussi ces livres,"Bring those books, too",grammar,,,,,,,pending
+krd_002738_proverbs,,Zikamwa ayό zitāhánye.,Les vaches produisent du lait en fonction de ce qu'elles ont mangé pendant le pâturage.,Cows produce milk based on what they have eaten during grazing.,proverbs,,,,,,,pending
+krd_002739_action-verbs,,abana barakina hanze.,Les enfants jouent dehors.,The children are playing outside.,action-verbs,,,,,,,pending
+krd_002740_vocabulary,,aka ni agahungarema.,Ceci est un chauve-souris.,This is a bat.,vocabulary,,,,,,,pending
+krd_002741_grammar,,akarya imitsima ari umuziro kuribwa ukuyemwo abaherezi,"et il a mangé du pain dont la consommation est interdite, sauf aux prêtres",and ate bread which is forbidden to be eaten except the priests,grammar,,,,,,,pending
+krd_002742_proverbs,,amazi akanye,L'eau froide.,Cold water.,proverbs,,,,,,,pending
+krd_002743_action-verbs,,araririmba indirimbo.,Elle chante une chanson.,She sings a song.,action-verbs,,,,,,,pending
+krd_002744_general,,aritonda cane,Il est très sympathique.,He is very friendly.,general,,,,,,,pending
+krd_002745_jokes,,"aríko Ubu bakubwīra rimwé, agíze Imâna ntùúvyūmve aba ahîriwe","elles ne vous le disent qu'une fois, et si elles ont de la chance, vous ne les entendez même pas","Today's aunties, however, only tell you once, and if they're lucky, you might not even hear them.",jokes,,,,,,,pending
+krd_002746_action-verbs,,bakwita gute?,Quel est votre nom?,What is your name?,action-verbs,,,,,,,pending
+krd_002747_action-verbs,,bazokora ubugeni mu mwaka uza.,Ils vont se marier l'année prochaine.,They are going to get married next year.,action-verbs,,,,,,,pending
+krd_002748_action-verbs,,birashushe.,C'est chaud.,It's hot.,action-verbs,,,,,,,pending
+krd_002749_action-verbs,,bisaba tugende kare,Nous devons partir tôt.,We have to leave early.,action-verbs,,,,,,,pending
+krd_002750_proverbs,,bose bafise umutekano.,Tout le monde est en sécurité.,Everyone is safe.,proverbs,,,,,,,pending
+krd_002751_action-verbs,,dukeneye umwanya ukwiye.,Nous avons besoin de plus de temps.,We need more time.,action-verbs,,,,,,,pending
+krd_002752_action-verbs,,dutegerezwa gufata ingingo,Nous devons prendre une décision.,We have to make a decision.,action-verbs,,,,,,,pending
+krd_002753_action-verbs,,ego ndibaza,Je pense que oui.,I think so.,action-verbs,,,,,,,pending
+krd_002754_advice,,fata akanya.,Prends ton temps.,Take your time.,advice,,,,,,,pending
+krd_002755_action-verbs,,hamagara igipolisi,Appelez la police!,Call the police!,action-verbs,,,,,,,pending
+krd_002756_vocabulary,,hano hari Inkwavu nyinshi.,Il y a beaucoup de lapin ici.,There are many rabbit here.,vocabulary,,,,,,,pending
+krd_002757_vocabulary,,hano hari Intoke nyinshi.,Il y a beaucoup de doigt ici.,There are many finger here.,vocabulary,,,,,,,pending
+krd_002758_vocabulary,,hano hari amabungo menshi.,Il y a beaucoup de passion fruit ici.,There are many fruit de la passion here.,vocabulary,,,,,,,pending
+krd_002759_vocabulary,,hano hari amaguru menshi.,Il y a beaucoup de jambe ici.,There are many leg here.,vocabulary,,,,,,,pending
+krd_002760_vocabulary,,hano hari amavi menshi.,Il y a beaucoup de genou ici.,There are many knee here.,vocabulary,,,,,,,pending
+krd_002761_vocabulary,,hano hari ca Mama benshi.,Il y a beaucoup de maman ici.,There are many mum here.,vocabulary,,,,,,,pending
+krd_002762_vocabulary,,hano hari ibido nyinshi.,Il y a beaucoup de jerrican ici.,There are many jerrican here.,vocabulary,,,,,,,pending
+krd_002763_vocabulary,,hano hari ibigori vyinshi.,Il y a beaucoup de maÏs ici.,There are many corn here.,vocabulary,,,,,,,pending
+krd_002764_vocabulary,,hano hari ibinyugungyugu vyinshi.,Il y a beaucoup de papillon ici.,There are many butterfly here.,vocabulary,,,,,,,pending
+krd_002765_vocabulary,,hano hari ibitoke vyinshi.,Il y a beaucoup de banane verte ici.,There are many green banana here.,vocabulary,,,,,,,pending
+krd_002766_vocabulary,,hano hari imifuko myinshi.,Il y a beaucoup de sac ici.,There are many sack here.,vocabulary,,,,,,,pending
+krd_002767_vocabulary,,hano hari imiserebanyi myinshi.,Il y a beaucoup de lézard ici.,There are many lizard here.,vocabulary,,,,,,,pending
+krd_002768_vocabulary,,hano hari imyungu myinshi.,Il y a beaucoup de courge ici.,There are many pumpkin here.,vocabulary,,,,,,,pending
+krd_002769_vocabulary,,hano hari inkoko nyinshi.,Il y a beaucoup de poule ici.,There are many chicken here.,vocabulary,,,,,,,pending
+krd_002770_vocabulary,,hano hari ipapayi nyinshi.,Il y a beaucoup de papaye ici.,There are many papaya here.,vocabulary,,,,,,,pending
+krd_002771_vocabulary,,hano hari isoya nyinshi.,Il y a beaucoup de soja ici.,There are many soy here.,vocabulary,,,,,,,pending
+krd_002772_vocabulary,,hano hari utuyabu twinshi.,Il y a beaucoup de chats ici.,There are many cats here.,vocabulary,,,,,,,pending
+krd_002773_vocabulary,,hanohari imeza nyinshi.,Il y a beaucoup de table ici.,There are many table here.,vocabulary,,,,,,,pending
+krd_002774_vocabulary,,ibarabara ni rirerire cane,la route est tres longue,the road is so long,vocabulary,,,,,,,pending
+krd_002775_action-verbs,,ibisi yasinze,J'ai raté le bus.,I missed the bus.,action-verbs,,,,,,,pending
+krd_002776_proverbs,,icirwa kirasanzwe,La réponse est simple.,The answer is simple.,proverbs,,,,,,,pending
+krd_002777_general,,igihe c'imbeho ni kirekire,L'hiver est long et froid.,Winter is long and cold.,general,,,,,,,pending
+krd_002778_grammar,,igihe cose Umwami Yesu yari akiri muri twebwe,"tout le temps, le Seigneur Jésus était encore avec nous",the whole time the Lord Jesus was still with us,grammar,,,,,,,pending
+krd_002779_action-verbs,,igikorwa carakemuste.,Le projet est un succès.,The project is a success.,action-verbs,,,,,,,pending
+krd_002780_proverbs,,ijoro ritanga icigwa,La nuit porte conseil.,The night brings advice.,proverbs,,,,,,,pending
+krd_002781_general,,ijwi ry'imikuba ziraruhura,Le son des vagues est apaisant.,The sound of the waves is calming.,general,,,,,,,pending
+krd_002782_grammar,,imangazini irugaye k'umunsi w'imana.,Le magasin est fermé le dimanche.,The store is closed on Sundays.,grammar,,,,,,,pending
+krd_002783_food,,imfungurwa yari iryoshe,La nourriture était incroyable.,The food was amazing.,food,,,,,,,pending
+krd_002784_adjectives,,imodoka isa nubururu,La voiture est bleue.,The car is blue.,adjectives,,,,,,,pending
+krd_002785_action-verbs,,ingo ufungure,Viens manger.,Come eat.,action-verbs,,,,,,,pending
+krd_002786_adjectives,,insiguro iratahuritse.,L'explication était très claire.,The explanation was very clear.,adjectives,,,,,,,pending
+krd_002787_action-verbs,,inyabwonko yanje irikwega,Mon ordinateur est très lent.,My computer is very slow.,action-verbs,,,,,,,pending
+krd_002788_action-verbs,,ivyakogwa biraheze,Le projet est terminé.,The project is finished.,action-verbs,,,,,,,pending
+krd_002789_grammar,,ivyo bindi biti,ces autres arbres,those other trees,grammar,,,,,,,pending
+krd_002790_idioms,,iyi ndirimbo ni iyihe ?,Quelle est cette chanson?,What is this song?,idioms,,,,,,,pending
+krd_002791_action-verbs,,izuba riraka uyumusi.,Le soleil brille aujourd'hui.,The sun is shining today.,action-verbs,,,,,,,pending
+krd_002792_action-verbs,,ku musenyi hararuhura.,La plage est relaxante.,The beach is relaxing.,action-verbs,,,,,,,pending
+krd_002793_proverbs,,kuba ku gihe birahambaye.,La ponctualité est importante.,Punctuality is important.,proverbs,,,,,,,pending
+krd_002794_proverbs,,kwubahana nico gikuru mu mibano yose.,Le respect est la base de toute relation.,Respect is the basis of any relationship.,proverbs,,,,,,,pending
+krd_002795_action-verbs,,"mbega,turyama hehe??","Alors, où dormons-nous ?",So where do we sleep?,action-verbs,,,,,,,pending
+krd_002796_vocabulary,,mpitamwo imiti yaha iwacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,,pending
+krd_002797_greetings,,mu mwanya.,À plus tard.,See you later.,greetings,,,,,,,pending
+krd_002798_action-verbs,,"mugabo ,nyumviriza .","Mec, écoute-moi.","Dude, listen to me.",action-verbs,,,,,,,pending
+krd_002799_grammar,,muka Petero,la femme de Pierre,the wife of Peter,grammar,,,,,,,pending
+krd_002800_apologies,,murantunga kuri uku gucerwa.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,,pending

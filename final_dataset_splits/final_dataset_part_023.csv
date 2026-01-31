@@ -1,107 +1,107 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_002201_grammar,,"Ukunze, woshobora kumpumanura","Si tu le veux, tu peux me purifier.","If you wantto, you could cleanse me.",grammar,,,,,,
-krd_002202_proverbs,clips/sound_proverb/prov037.mp3,Ukura utabaza ugasaza utamenye.,"Quand on ne pose pas de questions en grandissant, on devient vieux tout en restant ignorant.","When you don’t ask questions while growing up, you become old while still ignorant.",proverbs,,,,,,
-krd_002203_proverbs,clips/sound_proverb/prov031.mp3,Ukuri guca mu ziko ntigusha.,La vérité passe par le feu et ne brûle pas.,The truth passes through fire and does not burn.,proverbs,,,,,,
-krd_002204_proverbs,,Ukurima ntíkubuzá ukurimārima.,Cultiver sa propre nourriture ne vous empêche pas de chercher de l'aide auprès des autres en cas de faim.,Growing your own sustenance doesn't bar you from seeking help from others when hunger strikes.,proverbs,,,,,,
-krd_002205_proverbs,,Ukurimira mū ndâré ní ukuzīnduka.,"Comme un agriculteur prépare le sol en jachère avant de planter, on devrait commencer sa tâche tôt pour réussir.","As a farmer tends to fallow soil ahead of planting, one should start their task early to achieve success.",proverbs,,,,,,
-krd_002206_proverbs,,Ukuvúga ntígukūrá akănka.,On ne peut pas défaire ce qui est fait.,You can't unring a bell.,proverbs,,,,,,
-krd_002207_general,,Ukwabirana kw’abafise igitsina kimwe birabujijwe.,Le mariage homosexuel est interdit.,Same-sex marriage is prohibited.,general,,,,,,
-krd_002208_proverbs,,Ukwabirana niyo nkingi nyayo yemewe n’amategeko,Faire le mariage est le vrai pilier approuvé par la loi,Marriage is the true pillar approved by law,proverbs,,,,,,
-krd_002209_proverbs,,Ukwezi kwa gatanu ni Rusama,Le cinquième mois est Mai,The fifth month is May,proverbs,,,,,,
-krd_002210_proverbs,,"Ukwezi kwa gatatu ni Ntwarante, Ukwezi kw’icenda ni Nyakanga.","Le troisième mois est mars, le neuvième mois est juillet.","The third month is March, the ninth month is July.",proverbs,,,,,,
-krd_002211_vocabulary,,Ukwezi kwa mbere ni Nzero,Le premier mois est Janvier,The first month is January,vocabulary,,,,,,
-krd_002212_proverbs,,Ukwezi kw’icumi na rimwe ni Munyonyo,"Le onzième mois, c'est novembre",The eleventh month is November,proverbs,,,,,,
-krd_002213_proverbs,,Ukwezi kw’indwi ni Mukakaro,Le septième mois est Juillet,The seventh month is July,proverbs,,,,,,
-krd_002214_proverbs,,Ukwezi kw’umunani ni Myandagaro,Le huitième mois est Août,The eighth month is August,proverbs,,,,,,
-krd_002215_grammar,,Ukwiye gukomeza kubikora nk’uko bisanzwe,Vous devez continuer à le faire comme avant,You must continue to do it as it has been,grammar,,,,,,
-krd_002216_idioms,,Ukwizera nirwo rugero rwiza,L'honnêteté est toujours la meilleure politique.,Honesty is always the best policy.,idioms,,,,,,
-krd_002217_proverbs,,Ukwîruka sí ko gushika amahóro.,Courir avec hâte ne garantit pas une arrivée en sécurité.,Running with haste doesn't guarantee a safe arrival.,proverbs,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_002201_grammar,,"Ukunze, woshobora kumpumanura","Si tu le veux, tu peux me purifier.","If you wantto, you could cleanse me.",grammar,,,,,,,pending
+krd_002202_proverbs,clips/proverbs/prov037.mp3,Ukura utabaza ugasaza utamenye.,"Quand on ne pose pas de questions en grandissant, on devient vieux tout en restant ignorant.","When you don’t ask questions while growing up, you become old while still ignorant.",proverbs,,,,,,,recorded
+krd_002203_proverbs,clips/proverbs/prov031.mp3,Ukuri guca mu ziko ntigusha.,La vérité passe par le feu et ne brûle pas.,The truth passes through fire and does not burn.,proverbs,,,,,,,recorded
+krd_002204_proverbs,,Ukurima ntíkubuzá ukurimārima.,Cultiver sa propre nourriture ne vous empêche pas de chercher de l'aide auprès des autres en cas de faim.,Growing your own sustenance doesn't bar you from seeking help from others when hunger strikes.,proverbs,,,,,,,pending
+krd_002205_proverbs,,Ukurimira mū ndâré ní ukuzīnduka.,"Comme un agriculteur prépare le sol en jachère avant de planter, on devrait commencer sa tâche tôt pour réussir.","As a farmer tends to fallow soil ahead of planting, one should start their task early to achieve success.",proverbs,,,,,,,pending
+krd_002206_proverbs,,Ukuvúga ntígukūrá akănka.,On ne peut pas défaire ce qui est fait.,You can't unring a bell.,proverbs,,,,,,,pending
+krd_002207_general,,Ukwabirana kw’abafise igitsina kimwe birabujijwe.,Le mariage homosexuel est interdit.,Same-sex marriage is prohibited.,general,,,,,,,pending
+krd_002208_proverbs,,Ukwabirana niyo nkingi nyayo yemewe n’amategeko,Faire le mariage est le vrai pilier approuvé par la loi,Marriage is the true pillar approved by law,proverbs,,,,,,,pending
+krd_002209_proverbs,,Ukwezi kwa gatanu ni Rusama,Le cinquième mois est Mai,The fifth month is May,proverbs,,,,,,,pending
+krd_002210_proverbs,,"Ukwezi kwa gatatu ni Ntwarante, Ukwezi kw’icenda ni Nyakanga.","Le troisième mois est mars, le neuvième mois est juillet.","The third month is March, the ninth month is July.",proverbs,,,,,,,pending
+krd_002211_vocabulary,,Ukwezi kwa mbere ni Nzero,Le premier mois est Janvier,The first month is January,vocabulary,,,,,,,pending
+krd_002212_proverbs,,Ukwezi kw’icumi na rimwe ni Munyonyo,"Le onzième mois, c'est novembre",The eleventh month is November,proverbs,,,,,,,pending
+krd_002213_proverbs,,Ukwezi kw’indwi ni Mukakaro,Le septième mois est Juillet,The seventh month is July,proverbs,,,,,,,pending
+krd_002214_proverbs,,Ukwezi kw’umunani ni Myandagaro,Le huitième mois est Août,The eighth month is August,proverbs,,,,,,,pending
+krd_002215_grammar,,Ukwiye gukomeza kubikora nk’uko bisanzwe,Vous devez continuer à le faire comme avant,You must continue to do it as it has been,grammar,,,,,,,pending
+krd_002216_idioms,,Ukwizera nirwo rugero rwiza,L'honnêteté est toujours la meilleure politique.,Honesty is always the best policy.,idioms,,,,,,,pending
+krd_002217_proverbs,,Ukwîruka sí ko gushika amahóro.,Courir avec hâte ne garantit pas une arrivée en sécurité.,Running with haste doesn't guarantee a safe arrival.,proverbs,,,,,,,pending
 krd_002218_jokes,,"Ukíri umuyabaga, aba màáma uza wûmva: Sínzōsúbīre kubóna ubwo buhùúngu bukwìíruka inyuma.","Quand tu es encore une jeune fille, ta maman prévient : Je ne veux pas voir ces garçons courir après toi.
 ","When you're just a young girl, your mom warns: I don't want to see those boys  running after you.
-",jokes,,,,,,
-krd_002219_proverbs,,Ukó imvúra ikuvyé sí ko itwārá.,Chaque nuage sombre n'apporte pas de problèmes à tout le monde.,Not every dark cloud brings trouble to everyone.,proverbs,,,,,,
-krd_002220_proverbs,,Ukó yēzé ní ko atemwá.,Traitez les autres comme ils se traitent eux-mêmes.,Treat others as they treat themselves.,proverbs,,,,,,
-krd_002221_proverbs,,Ukó yēzé sí ko atemwá.,"Quand quelque chose est déjà préparé et prêt, il n'y a pas besoin de se précipiter ou de s'inquiéter car il sera disponible et accessible au bon moment.","When something is already prepared and ready, there is no need to rush or worry about it because it will be available and accessible when the right time comes.",proverbs,,,,,,
-krd_002222_proverbs,,Ukó zivugíjwe ní ko zitāmbwá.,"Le commandement d'un leader, qu'il soit juste ou faux, ne devrait pas être remis en question.","A leader's command, be it right or wrong, should not be questioned.",proverbs,,,,,,
-krd_002223_proverbs,,Ukúri kurazirwa.,Dire la vérité peut créer des remous.,Telling the truth may cause waves.,proverbs,,,,,,
-krd_002224_proverbs,,Ukúri ntíkuvugá uwukúze kuvuga uwukûzi.,"Celui qui dit la vérité est défini par la connaissance, non par les cheveux gris.","The speaker of truth is defined by knwoledge, not by gray hair.",proverbs,,,,,,
-krd_002225_jokes,,"Ukūntu mbá mfíse umutíma mwīzá iyó mfisé Amaherá , dúhūye ntáyafíse, uzônyigírwe kure kukó mba ndí uwùúndi mūntu","Quand mon portefeuille est bien garni, je suis l'âme la plus sympathique. Mais attention, quand il est au régime, m'approcher pourrait te faire découvrir mon autre moi.","When my wallet is chubby, I'm the friendliest soul around. But beware, when it's on a diet, approaching me might introduce you to another me.",jokes,,,,,,
-krd_002226_proverbs,,Umanika agatu wîcaye mu kukamanura ugaháguruka.,Une petite fissure peut briser le plus grand miroir.,A tiny crack can shatter the grandest mirror.,proverbs,,,,,,
-krd_002227_grammar,,"Umaze gukora ivyo, tangura gutegura indya","Lorsque vous avez terminé, commencez à préparer la nourriture.","When you have finished doing that, begin to prepare food.",grammar,,,,,,
-krd_002228_grammar,,Umbwire ivya Matayo,Parle-moi de Matthieu,Tell me about Matthew,grammar,,,,,,
-krd_002229_grammar,,Umbwire ivyo kugenda mu gikorane,Parle-moi d'aller à la réunion,Tell me about going to the meeting,grammar,,,,,,
-krd_002230_grammar,,Umubindi uvomyemwo amazi,un pot à eau dans lequel l'eau est transportée,a water-pot in which water is carried,grammar,,,,,,
-krd_002231_grammar,,Umubonye umubwire ko twashitse,"Quand tu le verras, dis-lui que nous sommes arrivés",When you see him tell him we have arrived,grammar,,,,,,
-krd_002232_grammar,,Umubwire ngo azoze ejo,Dis-lui qu'il doit venir demain.,Tell him that he’s to come tomorrow.,grammar,,,,,,
-krd_002233_jokes,,Umubânyi namútīye ipàási aca ambwīra ngo njé kugorōrera iwîwé kubêra kó ipàási yîwé atayitânga.,"Un jour, j'ai demandé à mon voisin de me prêter son fer à repasser, et il a insisté pour que j'aille repasser les vêtements chez lui car il ne laisse pas son fer à repasser sortir de chez lui. ","One day, I asked my neighbor to borrow his iron, and he insisted I go iron the clothes at his place because he doesn't let his iron leave his house.",jokes,,,,,,
-krd_002234_proverbs,,Umubûranyi arahava icăbona kikahagwa.,"En l'absence de l'accusateur, le témoin est en danger.","In the absence of the accuser, the witness is at risk.",proverbs,,,,,,
-krd_002235_proverbs,,Umubĭndi ushira uvyîmvye.,"Silencieusement, l'érosion interne affaiblit même les plus puissants, imperceptible aux autres.","Quietly, internal erosion weakens even the mightiest, imperceptible to others.",proverbs,,,,,,
-krd_002236_action-verbs,,Umucanwa ugira uhere.,La batterie est faible.,The battery is low.,action-verbs,,,,,,
-krd_002237_grammar,,Umucungwe wanje ni muto inyuma y’uwawe,Mon orange est plus petite que la tienne,My orange is smaller than yours,grammar,,,,,,
-krd_002238_proverbs,,Umucúzi w'ímitíma ntíyayírīnganije.,Aider les gens mentalement est un engagement sans fin.,Helping people mentally is an endless commitment.,proverbs,,,,,,
-krd_002239_proverbs,,Umudasigana w’ukuri ni uwuharanira ineza ya bose,Le vrai compagnon c'est celui qui oeuvre pour le bien commun,The true companion is the one who works for the common good,proverbs,,,,,,
-krd_002240_adjectives,,Umuduga usa n'Ubururu.,La voiture est bleue.,The car is blue.,adjectives,,,,,,
+",jokes,,,,,,,pending
+krd_002219_proverbs,,Ukó imvúra ikuvyé sí ko itwārá.,Chaque nuage sombre n'apporte pas de problèmes à tout le monde.,Not every dark cloud brings trouble to everyone.,proverbs,,,,,,,pending
+krd_002220_proverbs,,Ukó yēzé ní ko atemwá.,Traitez les autres comme ils se traitent eux-mêmes.,Treat others as they treat themselves.,proverbs,,,,,,,pending
+krd_002221_proverbs,,Ukó yēzé sí ko atemwá.,"Quand quelque chose est déjà préparé et prêt, il n'y a pas besoin de se précipiter ou de s'inquiéter car il sera disponible et accessible au bon moment.","When something is already prepared and ready, there is no need to rush or worry about it because it will be available and accessible when the right time comes.",proverbs,,,,,,,pending
+krd_002222_proverbs,,Ukó zivugíjwe ní ko zitāmbwá.,"Le commandement d'un leader, qu'il soit juste ou faux, ne devrait pas être remis en question.","A leader's command, be it right or wrong, should not be questioned.",proverbs,,,,,,,pending
+krd_002223_proverbs,,Ukúri kurazirwa.,Dire la vérité peut créer des remous.,Telling the truth may cause waves.,proverbs,,,,,,,pending
+krd_002224_proverbs,,Ukúri ntíkuvugá uwukúze kuvuga uwukûzi.,"Celui qui dit la vérité est défini par la connaissance, non par les cheveux gris.","The speaker of truth is defined by knwoledge, not by gray hair.",proverbs,,,,,,,pending
+krd_002225_jokes,,"Ukūntu mbá mfíse umutíma mwīzá iyó mfisé Amaherá , dúhūye ntáyafíse, uzônyigírwe kure kukó mba ndí uwùúndi mūntu","Quand mon portefeuille est bien garni, je suis l'âme la plus sympathique. Mais attention, quand il est au régime, m'approcher pourrait te faire découvrir mon autre moi.","When my wallet is chubby, I'm the friendliest soul around. But beware, when it's on a diet, approaching me might introduce you to another me.",jokes,,,,,,,pending
+krd_002226_proverbs,,Umanika agatu wîcaye mu kukamanura ugaháguruka.,Une petite fissure peut briser le plus grand miroir.,A tiny crack can shatter the grandest mirror.,proverbs,,,,,,,pending
+krd_002227_grammar,,"Umaze gukora ivyo, tangura gutegura indya","Lorsque vous avez terminé, commencez à préparer la nourriture.","When you have finished doing that, begin to prepare food.",grammar,,,,,,,pending
+krd_002228_grammar,,Umbwire ivya Matayo,Parle-moi de Matthieu,Tell me about Matthew,grammar,,,,,,,pending
+krd_002229_grammar,,Umbwire ivyo kugenda mu gikorane,Parle-moi d'aller à la réunion,Tell me about going to the meeting,grammar,,,,,,,pending
+krd_002230_grammar,,Umubindi uvomyemwo amazi,un pot à eau dans lequel l'eau est transportée,a water-pot in which water is carried,grammar,,,,,,,pending
+krd_002231_grammar,,Umubonye umubwire ko twashitse,"Quand tu le verras, dis-lui que nous sommes arrivés",When you see him tell him we have arrived,grammar,,,,,,,pending
+krd_002232_grammar,,Umubwire ngo azoze ejo,Dis-lui qu'il doit venir demain.,Tell him that he’s to come tomorrow.,grammar,,,,,,,pending
+krd_002233_jokes,,Umubânyi namútīye ipàási aca ambwīra ngo njé kugorōrera iwîwé kubêra kó ipàási yîwé atayitânga.,"Un jour, j'ai demandé à mon voisin de me prêter son fer à repasser, et il a insisté pour que j'aille repasser les vêtements chez lui car il ne laisse pas son fer à repasser sortir de chez lui. ","One day, I asked my neighbor to borrow his iron, and he insisted I go iron the clothes at his place because he doesn't let his iron leave his house.",jokes,,,,,,,pending
+krd_002234_proverbs,,Umubûranyi arahava icăbona kikahagwa.,"En l'absence de l'accusateur, le témoin est en danger.","In the absence of the accuser, the witness is at risk.",proverbs,,,,,,,pending
+krd_002235_proverbs,,Umubĭndi ushira uvyîmvye.,"Silencieusement, l'érosion interne affaiblit même les plus puissants, imperceptible aux autres.","Quietly, internal erosion weakens even the mightiest, imperceptible to others.",proverbs,,,,,,,pending
+krd_002236_action-verbs,,Umucanwa ugira uhere.,La batterie est faible.,The battery is low.,action-verbs,,,,,,,pending
+krd_002237_grammar,,Umucungwe wanje ni muto inyuma y’uwawe,Mon orange est plus petite que la tienne,My orange is smaller than yours,grammar,,,,,,,pending
+krd_002238_proverbs,,Umucúzi w'ímitíma ntíyayírīnganije.,Aider les gens mentalement est un engagement sans fin.,Helping people mentally is an endless commitment.,proverbs,,,,,,,pending
+krd_002239_proverbs,,Umudasigana w’ukuri ni uwuharanira ineza ya bose,Le vrai compagnon c'est celui qui oeuvre pour le bien commun,The true companion is the one who works for the common good,proverbs,,,,,,,pending
+krd_002240_adjectives,,Umuduga usa n'Ubururu.,La voiture est bleue.,The car is blue.,adjectives,,,,,,,pending
 krd_002241_jokes,,"Umudàándaza : Iki kirāto n’íbihūmbi amajana abiri gusa bòósi, Mu Bufaràánsa: Mhh kirazīmvye núkurí .","Le vendeur, 'Cette paire de chaussures est seulement à 40 $, patron.', En France : ""Hmm, c'est un peu cher pour moi.""
 ","The seller goes, 'This shoe is only $40, boss.'
 - In France: ""Hmm, that's a tad pricey for my taste.""
-",jokes,,,,,,
-krd_002242_proverbs,,Umugabo aharítse ahorana Indûrú.,"Avec plusieurs épouses, les disputes se multiplient.","With multiple wives, disputes multiply.",proverbs,,,,,,
-krd_002243_proverbs,,Umugabo ahāga amâzi ayîvōmeye.,"Un homme est satisfait de ce qu'il cherche lui-même, pas de ce qu'on lui donne.","A man is satisfied from what he looked for, himself, not what he is given.",proverbs,,,,,,
-krd_002244_proverbs,,Umugabo ahūra n'úwŭndi.,Les esprits similaires se trouvent dans la foule.,Like minds find each other in the crowd.,proverbs,,,,,,
-krd_002245_proverbs,,Umugabo akira iryó atēwé ntákirá iryó agēndána.,"Fuir le danger est facile, mais échapper à ses démons intérieurs est le vrai défi.","Fleeing danger is easy, but escaping one's inner demons is the real challenge.",proverbs,,,,,,
-krd_002246_proverbs,,Umugabo amira intóre ntámirá ijāmbo.,N'aie jamais peur de dire la vérité de ton cœur.,Never fear speaking your heart's truth.,proverbs,,,,,,
-krd_002247_proverbs,,Umugabo ananira abagabo ntánaníra akōbo.,La force et le pouvoir ne peuvent défier l'attraction de la tombe.,Strength and power cannot defy the pull of the grave.,proverbs,,,,,,
-krd_002248_proverbs,,Umugabo anyāgirwa umubiri ntányāgírwa umutíma.,"La pluie peut tremper votre corps, mais elle ne peut toucher votre cœur.","Rain may drench your body, but it cannot touch your heart.",proverbs,,,,,,
-krd_002249_proverbs,,Umugabo apfāna imigămbi.,L'homme perspicace a toujours un plan.,The discerning man always has a plan.,proverbs,,,,,,
-krd_002250_proverbs,,Umugabo arīnda akăje.,Un homme fort fait face à toutes les adversités de front.,A strong man faces all adversities head-on.,proverbs,,,,,,
-krd_002251_proverbs,,Umugabo ashikwa na rímwe.,Un seul verre peut suffire à troubler le jugement.,A single glass may be enough to cloud one's judgment.,proverbs,,,,,,
-krd_002252_proverbs,,Umugabo asīmba akaziba ntásīmbá akaziri.,Échapper à une goutte ne garantit pas d'éviter le déluge.,Escaping a drop doesn't guarantee avoiding the deluge.,proverbs,,,,,,
-krd_002253_proverbs,,Umugabo atanazi ukuntu twakuze dusangira ubugari.,L'homme ne sait même pas comment nous avons grandi en partageant la patte.,Man doesn't even know how we grew up sharing a paw.,proverbs,,,,,,
-krd_002254_proverbs,,Umugabo atēmba kw'īcúmu ntátēmbá kw'ījāmbo.,"Un homme d'honneur peut trébucher sur la pointe d'une lance, mais sa parole est toujours vraie.","A man of honor may stumble on a spear's point, but his word is always true.",proverbs,,,,,,
-krd_002255_proverbs,,Umugabo atīnya ingwe ntátīnyá iyamwînjiranye.,Le courage d'un homme se multiplie lorsqu'il affronte un lion dans ses propres murs.,A man's courage multiplies when he faces a lion within his own walls.,proverbs,,,,,,
-krd_002256_proverbs,,Umugabo gitó akubita umugóre wîwé.,Seul un homme insensé lève la main sur sa femme.,Only a foolish man raises his hand against his wife.,proverbs,,,,,,
-krd_002257_proverbs,,Umugabo ntákubûra.,Les tâches ménagères ne sont pas une tâche d'homme.,Housekeeping isn't a man's task.,proverbs,,,,,,
-krd_002258_proverbs,,Umugabo ntápfīrá izûba rimwé.,"La chute d'un homme est le résultat de multiples facteurs, pas seulement un.","A man's downfall is the result of multiple factors, not just one.",proverbs,,,,,,
-krd_002259_proverbs,,Umugabo ntátīnyá urukâmvye.,Un vrai homme reste intrépide face à l'adversité.,A real man remains fearless in the face of adversity.,proverbs,,,,,,
-krd_002260_proverbs,,Umugabo ntávūmbá inzóga avūmba ijāmbo.,"La force d'un vrai homme réside dans son caractère, pas dans une bouteille.","A real man's strength lies in his character, not in a bottle.",proverbs,,,,,,
-krd_002261_proverbs,,Umugabo ntíyīcwá n'ínzara yīcwa n'ínzigo.,"Ce n'est pas une assiette vide qui prend une vie, mais un cœur plein de fureur.","It's not an empty plate that takes a life, but a heart full of fury.",proverbs,,,,,,
-krd_002262_proverbs,,Umugabo ntāwé agaya imbόga mu mapfá.,"Quand la famine frappe, les mendiants ne peuvent pas choisir.","When famine strikes, beggars can't be choosers.",proverbs,,,,,,
-krd_002263_proverbs,,Umugabo ní umwâna w'úwŭndi.,"Le visage de l'humanité porte différents masques, prêt à révéler chaleur et blessures.","The face of humanity wears different masks, ready to reveal both warmth and wounds.",proverbs,,,,,,
-krd_002264_proverbs,,Umugabo ní umwūgariro.,Un homme est le bastion de sa famille.,A man is the stronghold of his family.,proverbs,,,,,,
-krd_002265_proverbs,,Umugabo ní uwúrya akarâza.,Un homme sage mange du présent et économise pour les jours invisibles.,A wise man eats from the present and saves for the unseen days.,proverbs,,,,,,
-krd_002266_proverbs,,Umugabo ní uwŏrya akīshura.,"Si tu empruntes, sois prêt à rembourser à temps.","If you borrow, be prepared to repay when due.",proverbs,,,,,,
-krd_002267_proverbs,,Umugabo umwé ntâcá urubănza.,Une main ne peut pas séparer des épées qui s'entrechoquent.,One hand cannot separate clashing swords.,proverbs,,,,,,
-krd_002268_proverbs,,Umugabo w'îséma akubūra mu rutára.,Un faible caractère se reflète dans les actions.,Low character is reflected in one's actions.,proverbs,,,,,,
-krd_002269_proverbs,,Umugabo w'îséma yōngeza umutsíma.,Un homme de valeur s'abstient d'actions avilissantes.,A man of value refrains from demeaning actions.,proverbs,,,,,,
-krd_002270_grammar,,Umugabo yamanye n’umugore umwe,Un homme qui a toujours vécu avec une seule femme.,A man who always lived with one wife.,grammar,,,,,,
-krd_002271_proverbs,,Umugabo yīhīndukiza mu kirago ntíyīhîndukiza mw'ījāmbo.,"Une personne peut changer de position en étant couchée, mais elle doit rester fidèle à ses paroles et engagements.","An individual may adjust his position while lying in bed, but he should remain steadfast in his words and commitments.",proverbs,,,,,,
-krd_002272_proverbs,,Umugabo ijoro atīnya icό vyărihūriyémwo.,"La forêt n'est pas effrayante, mais les rencontres passées à l'intérieur peuvent l'être.","The forest is not daunting, but the past encounters within it may be.",proverbs,,,,,,
-krd_002273_action-verbs,,Umugambi wakunze.,Le projet est un succès.,The project is a success.,action-verbs,,,,,,
-krd_002274_grammar,,Umuganga agira agende i muhira,Le médecin est sur le point de rentrer chez lui,The doctor is about to go home,grammar,,,,,,
-krd_002275_action-verbs,,Umuganga ari ku bitaro.,Il est médecin à l'hôpital.,He is a doctor at the hospital.,action-verbs,,,,,,
-krd_002276_proverbs,clips/sound_proverb/prov039.mp3,Umugizi siwe mugirirwa.,"Malheureusement, parfois, lorsque vous faites de bonnes actions, vous ne serez pas récompensé.",Unfortunately sometimes when you do good deeds you might not be rewarded.,proverbs,,,,,,
-krd_002277_proverbs,clips/sound_proverb/prov004.mp3,Umugore ntasutamanga aba ashaka imyuga ibiri.,Une femme est censée éviter tout comportement susceptible d’éveiller les désirs sexuels des hommes.,A woman is supposed to avoid any behavior that would arouse men's sexual desires.,proverbs,,,,,,
-krd_002278_greetings,,Umugoroba mwiza.,Bonsoir.,Good evening.,greetings,,,,,,
-krd_002279_proverbs,,Umugáni ntûvá ku gíti uva ku mūntu.,"Écoutez les conseils humains, car ils portent le poids de la sagesse et de l'expérience.","Listen to human counsel, for it carries the weight of wisdom and experience.",proverbs,,,,,,
-krd_002280_proverbs,,Umugáni ugana akarího.,Un proverbe reflète la réalité comme un miroir.,A proverb mirrors reality like a clear reflection.,proverbs,,,,,,
-krd_002281_proverbs,,Umugáni ugānīra abarí kumwé.,S'asseoir ensemble allume la flamme de la discussion.,Sitting together sparks the flame of discussion.,proverbs,,,,,,
-krd_002282_proverbs,,Umugáni ungana ingoma.,Les proverbes portent le poids des siècles.,Proverbs hold the weight of centuries.,proverbs,,,,,,
-krd_002283_proverbs,,Umugóre arakáma intáre.,Le charme d'une femme peut faire fondre les cœurs les plus durs.,A woman's charm can melt the hardest hearts.,proverbs,,,,,,
-krd_002284_proverbs,,Umugóre asa n'ûmwâna.,Une femme ressemble à un enfant.,A woman resembles a child.,proverbs,,,,,,
-krd_002285_proverbs,,Umugóre atānwa abâna ntátānwá ibigega.,"Lorsqu'une femme est chassée, elle n'emporte que le poids de ses enfants, pas les richesses du foyer.","When a woman is driven away, she carries only the weight of her children, not the riches of the household.",proverbs,,,,,,
-krd_002286_proverbs,,Umugóre gitó agutātira agúseguye.,"Malgré sa colère, la faveur de votre femme reste inchangée.","Despite her anger, your woman's favor remains unaffected.",proverbs,,,,,,
-krd_002287_proverbs,,Umugóre ntárirîmba aba aríko aracúra intîmba.,"Quand une femme chante, elle pleure ses peines.","When a woman sings, she mourns her sorrows.",proverbs,,,,,,
-krd_002288_proverbs,,Umugóre ntásīmbá urugó aba agômba kurugwa inyuma.,Il n'est pas convenable pour une femme de sauter par-dessus la clôture.,It's not proper for a woman to leap over the fence.,proverbs,,,,,,
-krd_002289_proverbs,,Umugóre ní inkĭngi y'úrugó.,Une bonne épouse est le pilier d'un foyer heureux.,A good wife is the foundation of a happy home.,proverbs,,,,,,
-krd_002290_proverbs,,Umugóre ní ndyāna n'úwějeje.,Une femme est attirée par un homme de moyens.,A woman is drawn to a man of means.,proverbs,,,,,,
-krd_002291_proverbs,,Umugóre ní uwó ukōyé.,Celui que vous épousez est celui que vous appelez vraiment vôtre.,The one you marry is the one you truly call your own.,proverbs,,,,,,
-krd_002292_proverbs,,Umugóre sí akazûru.,Être une bonne maîtresse de maison ne se limite pas à la beauté extérieure.,Being a good housewife is about more than just external beauty.,proverbs,,,,,,
-krd_002293_proverbs,,Umugóre w'întárimá yōnsa isúka.,Un homme paresseux laisse les opportunités lui échapper.,A sluggish man lets opportunities slip through his fingers.,proverbs,,,,,,
-krd_002294_proverbs,,Umugēnzi arakurutira incúti.,Un véritable ami est un trésor inestimable.,A true friend is a priceless treasure.,proverbs,,,,,,
-krd_002295_proverbs,,Umugēnzi ararírēnza.,Un véritable ami écarte tout ce qui pourrait te blesser.,A genuine friend will cast away anything that might hurt you.,proverbs,,,,,,
+",jokes,,,,,,,pending
+krd_002242_proverbs,,Umugabo aharítse ahorana Indûrú.,"Avec plusieurs épouses, les disputes se multiplient.","With multiple wives, disputes multiply.",proverbs,,,,,,,pending
+krd_002243_proverbs,,Umugabo ahāga amâzi ayîvōmeye.,"Un homme est satisfait de ce qu'il cherche lui-même, pas de ce qu'on lui donne.","A man is satisfied from what he looked for, himself, not what he is given.",proverbs,,,,,,,pending
+krd_002244_proverbs,,Umugabo ahūra n'úwŭndi.,Les esprits similaires se trouvent dans la foule.,Like minds find each other in the crowd.,proverbs,,,,,,,pending
+krd_002245_proverbs,,Umugabo akira iryó atēwé ntákirá iryó agēndána.,"Fuir le danger est facile, mais échapper à ses démons intérieurs est le vrai défi.","Fleeing danger is easy, but escaping one's inner demons is the real challenge.",proverbs,,,,,,,pending
+krd_002246_proverbs,,Umugabo amira intóre ntámirá ijāmbo.,N'aie jamais peur de dire la vérité de ton cœur.,Never fear speaking your heart's truth.,proverbs,,,,,,,pending
+krd_002247_proverbs,,Umugabo ananira abagabo ntánaníra akōbo.,La force et le pouvoir ne peuvent défier l'attraction de la tombe.,Strength and power cannot defy the pull of the grave.,proverbs,,,,,,,pending
+krd_002248_proverbs,,Umugabo anyāgirwa umubiri ntányāgírwa umutíma.,"La pluie peut tremper votre corps, mais elle ne peut toucher votre cœur.","Rain may drench your body, but it cannot touch your heart.",proverbs,,,,,,,pending
+krd_002249_proverbs,,Umugabo apfāna imigămbi.,L'homme perspicace a toujours un plan.,The discerning man always has a plan.,proverbs,,,,,,,pending
+krd_002250_proverbs,,Umugabo arīnda akăje.,Un homme fort fait face à toutes les adversités de front.,A strong man faces all adversities head-on.,proverbs,,,,,,,pending
+krd_002251_proverbs,,Umugabo ashikwa na rímwe.,Un seul verre peut suffire à troubler le jugement.,A single glass may be enough to cloud one's judgment.,proverbs,,,,,,,pending
+krd_002252_proverbs,,Umugabo asīmba akaziba ntásīmbá akaziri.,Échapper à une goutte ne garantit pas d'éviter le déluge.,Escaping a drop doesn't guarantee avoiding the deluge.,proverbs,,,,,,,pending
+krd_002253_proverbs,,Umugabo atanazi ukuntu twakuze dusangira ubugari.,L'homme ne sait même pas comment nous avons grandi en partageant la patte.,Man doesn't even know how we grew up sharing a paw.,proverbs,,,,,,,pending
+krd_002254_proverbs,,Umugabo atēmba kw'īcúmu ntátēmbá kw'ījāmbo.,"Un homme d'honneur peut trébucher sur la pointe d'une lance, mais sa parole est toujours vraie.","A man of honor may stumble on a spear's point, but his word is always true.",proverbs,,,,,,,pending
+krd_002255_proverbs,,Umugabo atīnya ingwe ntátīnyá iyamwînjiranye.,Le courage d'un homme se multiplie lorsqu'il affronte un lion dans ses propres murs.,A man's courage multiplies when he faces a lion within his own walls.,proverbs,,,,,,,pending
+krd_002256_proverbs,,Umugabo gitó akubita umugóre wîwé.,Seul un homme insensé lève la main sur sa femme.,Only a foolish man raises his hand against his wife.,proverbs,,,,,,,pending
+krd_002257_proverbs,,Umugabo ntákubûra.,Les tâches ménagères ne sont pas une tâche d'homme.,Housekeeping isn't a man's task.,proverbs,,,,,,,pending
+krd_002258_proverbs,,Umugabo ntápfīrá izûba rimwé.,"La chute d'un homme est le résultat de multiples facteurs, pas seulement un.","A man's downfall is the result of multiple factors, not just one.",proverbs,,,,,,,pending
+krd_002259_proverbs,,Umugabo ntátīnyá urukâmvye.,Un vrai homme reste intrépide face à l'adversité.,A real man remains fearless in the face of adversity.,proverbs,,,,,,,pending
+krd_002260_proverbs,,Umugabo ntávūmbá inzóga avūmba ijāmbo.,"La force d'un vrai homme réside dans son caractère, pas dans une bouteille.","A real man's strength lies in his character, not in a bottle.",proverbs,,,,,,,pending
+krd_002261_proverbs,,Umugabo ntíyīcwá n'ínzara yīcwa n'ínzigo.,"Ce n'est pas une assiette vide qui prend une vie, mais un cœur plein de fureur.","It's not an empty plate that takes a life, but a heart full of fury.",proverbs,,,,,,,pending
+krd_002262_proverbs,,Umugabo ntāwé agaya imbόga mu mapfá.,"Quand la famine frappe, les mendiants ne peuvent pas choisir.","When famine strikes, beggars can't be choosers.",proverbs,,,,,,,pending
+krd_002263_proverbs,,Umugabo ní umwâna w'úwŭndi.,"Le visage de l'humanité porte différents masques, prêt à révéler chaleur et blessures.","The face of humanity wears different masks, ready to reveal both warmth and wounds.",proverbs,,,,,,,pending
+krd_002264_proverbs,,Umugabo ní umwūgariro.,Un homme est le bastion de sa famille.,A man is the stronghold of his family.,proverbs,,,,,,,pending
+krd_002265_proverbs,,Umugabo ní uwúrya akarâza.,Un homme sage mange du présent et économise pour les jours invisibles.,A wise man eats from the present and saves for the unseen days.,proverbs,,,,,,,pending
+krd_002266_proverbs,,Umugabo ní uwŏrya akīshura.,"Si tu empruntes, sois prêt à rembourser à temps.","If you borrow, be prepared to repay when due.",proverbs,,,,,,,pending
+krd_002267_proverbs,,Umugabo umwé ntâcá urubănza.,Une main ne peut pas séparer des épées qui s'entrechoquent.,One hand cannot separate clashing swords.,proverbs,,,,,,,pending
+krd_002268_proverbs,,Umugabo w'îséma akubūra mu rutára.,Un faible caractère se reflète dans les actions.,Low character is reflected in one's actions.,proverbs,,,,,,,pending
+krd_002269_proverbs,,Umugabo w'îséma yōngeza umutsíma.,Un homme de valeur s'abstient d'actions avilissantes.,A man of value refrains from demeaning actions.,proverbs,,,,,,,pending
+krd_002270_grammar,,Umugabo yamanye n’umugore umwe,Un homme qui a toujours vécu avec une seule femme.,A man who always lived with one wife.,grammar,,,,,,,pending
+krd_002271_proverbs,,Umugabo yīhīndukiza mu kirago ntíyīhîndukiza mw'ījāmbo.,"Une personne peut changer de position en étant couchée, mais elle doit rester fidèle à ses paroles et engagements.","An individual may adjust his position while lying in bed, but he should remain steadfast in his words and commitments.",proverbs,,,,,,,pending
+krd_002272_proverbs,,Umugabo ijoro atīnya icό vyărihūriyémwo.,"La forêt n'est pas effrayante, mais les rencontres passées à l'intérieur peuvent l'être.","The forest is not daunting, but the past encounters within it may be.",proverbs,,,,,,,pending
+krd_002273_action-verbs,,Umugambi wakunze.,Le projet est un succès.,The project is a success.,action-verbs,,,,,,,pending
+krd_002274_grammar,,Umuganga agira agende i muhira,Le médecin est sur le point de rentrer chez lui,The doctor is about to go home,grammar,,,,,,,pending
+krd_002275_action-verbs,,Umuganga ari ku bitaro.,Il est médecin à l'hôpital.,He is a doctor at the hospital.,action-verbs,,,,,,,pending
+krd_002276_proverbs,clips/proverbs/prov039.mp3,Umugizi siwe mugirirwa.,"Malheureusement, parfois, lorsque vous faites de bonnes actions, vous ne serez pas récompensé.",Unfortunately sometimes when you do good deeds you might not be rewarded.,proverbs,,,,,,,recorded
+krd_002277_proverbs,clips/proverbs/prov004.mp3,Umugore ntasutamanga aba ashaka imyuga ibiri.,Une femme est censée éviter tout comportement susceptible d’éveiller les désirs sexuels des hommes.,A woman is supposed to avoid any behavior that would arouse men's sexual desires.,proverbs,,,,,,,recorded
+krd_002278_greetings,,Umugoroba mwiza.,Bonsoir.,Good evening.,greetings,,,,,,,pending
+krd_002279_proverbs,,Umugáni ntûvá ku gíti uva ku mūntu.,"Écoutez les conseils humains, car ils portent le poids de la sagesse et de l'expérience.","Listen to human counsel, for it carries the weight of wisdom and experience.",proverbs,,,,,,,pending
+krd_002280_proverbs,,Umugáni ugana akarího.,Un proverbe reflète la réalité comme un miroir.,A proverb mirrors reality like a clear reflection.,proverbs,,,,,,,pending
+krd_002281_proverbs,,Umugáni ugānīra abarí kumwé.,S'asseoir ensemble allume la flamme de la discussion.,Sitting together sparks the flame of discussion.,proverbs,,,,,,,pending
+krd_002282_proverbs,,Umugáni ungana ingoma.,Les proverbes portent le poids des siècles.,Proverbs hold the weight of centuries.,proverbs,,,,,,,pending
+krd_002283_proverbs,,Umugóre arakáma intáre.,Le charme d'une femme peut faire fondre les cœurs les plus durs.,A woman's charm can melt the hardest hearts.,proverbs,,,,,,,pending
+krd_002284_proverbs,,Umugóre asa n'ûmwâna.,Une femme ressemble à un enfant.,A woman resembles a child.,proverbs,,,,,,,pending
+krd_002285_proverbs,,Umugóre atānwa abâna ntátānwá ibigega.,"Lorsqu'une femme est chassée, elle n'emporte que le poids de ses enfants, pas les richesses du foyer.","When a woman is driven away, she carries only the weight of her children, not the riches of the household.",proverbs,,,,,,,pending
+krd_002286_proverbs,,Umugóre gitó agutātira agúseguye.,"Malgré sa colère, la faveur de votre femme reste inchangée.","Despite her anger, your woman's favor remains unaffected.",proverbs,,,,,,,pending
+krd_002287_proverbs,,Umugóre ntárirîmba aba aríko aracúra intîmba.,"Quand une femme chante, elle pleure ses peines.","When a woman sings, she mourns her sorrows.",proverbs,,,,,,,pending
+krd_002288_proverbs,,Umugóre ntásīmbá urugó aba agômba kurugwa inyuma.,Il n'est pas convenable pour une femme de sauter par-dessus la clôture.,It's not proper for a woman to leap over the fence.,proverbs,,,,,,,pending
+krd_002289_proverbs,,Umugóre ní inkĭngi y'úrugó.,Une bonne épouse est le pilier d'un foyer heureux.,A good wife is the foundation of a happy home.,proverbs,,,,,,,pending
+krd_002290_proverbs,,Umugóre ní ndyāna n'úwějeje.,Une femme est attirée par un homme de moyens.,A woman is drawn to a man of means.,proverbs,,,,,,,pending
+krd_002291_proverbs,,Umugóre ní uwó ukōyé.,Celui que vous épousez est celui que vous appelez vraiment vôtre.,The one you marry is the one you truly call your own.,proverbs,,,,,,,pending
+krd_002292_proverbs,,Umugóre sí akazûru.,Être une bonne maîtresse de maison ne se limite pas à la beauté extérieure.,Being a good housewife is about more than just external beauty.,proverbs,,,,,,,pending
+krd_002293_proverbs,,Umugóre w'întárimá yōnsa isúka.,Un homme paresseux laisse les opportunités lui échapper.,A sluggish man lets opportunities slip through his fingers.,proverbs,,,,,,,pending
+krd_002294_proverbs,,Umugēnzi arakurutira incúti.,Un véritable ami est un trésor inestimable.,A true friend is a priceless treasure.,proverbs,,,,,,,pending
+krd_002295_proverbs,,Umugēnzi ararírēnza.,Un véritable ami écarte tout ce qui pourrait te blesser.,A genuine friend will cast away anything that might hurt you.,proverbs,,,,,,,pending
 krd_002296_jokes,,Umugēnzi: Kurí kírya kibázo cā kábiri murí devoir wīshuye gúte?,"
-Un ami : ""Qu'as-tu répondu à la deuxième question du devoir ?""","Friend: ""What did you answer on the second question of the homework?""",jokes,,,,,,
-krd_002297_proverbs,,Umugόre ntíyūríra inzu.,La construction de maisons n'est pas une occupation de femme.,House construction is not a woman's occupation.,proverbs,,,,,,
-krd_002298_proverbs,,Umugόre w'îséma abika umugabo.,Une femme insensée peut prétendre que son mari est mort.,A foolish woman may claim her husband is dead.,proverbs,,,,,,
-krd_002299_proverbs,,"Umuhungu ni uw'iwabo ,umukobwa ni umwari wo mu gahinga","Le fils est  de la maison, la fille est de nulle part","The son is from home, the daughter is from nowhere",proverbs,,,,,,
-krd_002300_proverbs,,Umuhíni mushăsha utēra amabávu.,Les nouveaux départs apportent souvent des défis.,New beginnings often bring challenges.,proverbs,,,,,,
+Un ami : ""Qu'as-tu répondu à la deuxième question du devoir ?""","Friend: ""What did you answer on the second question of the homework?""",jokes,,,,,,,pending
+krd_002297_proverbs,,Umugόre ntíyūríra inzu.,La construction de maisons n'est pas une occupation de femme.,House construction is not a woman's occupation.,proverbs,,,,,,,pending
+krd_002298_proverbs,,Umugόre w'îséma abika umugabo.,Une femme insensée peut prétendre que son mari est mort.,A foolish woman may claim her husband is dead.,proverbs,,,,,,,pending
+krd_002299_proverbs,,"Umuhungu ni uw'iwabo ,umukobwa ni umwari wo mu gahinga","Le fils est  de la maison, la fille est de nulle part","The son is from home, the daughter is from nowhere",proverbs,,,,,,,pending
+krd_002300_proverbs,,Umuhíni mushăsha utēra amabávu.,Les nouveaux départs apportent souvent des défis.,New beginnings often bring challenges.,proverbs,,,,,,,pending

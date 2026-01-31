@@ -1,109 +1,109 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_001201_proverbs,,Meditasiyo irafasha kuruhuka no kwiyumvirako.,La méditation aide à se détendre.,Meditation helps you relax.,proverbs,,,,,,
-krd_001202_proverbs,,Mfise abahungu babiri tuvukana.,J'ai deux frères.,I have two brothers.,proverbs,,,,,,
-krd_001203_proverbs,,Mfise abavukanyi babiri,J'ai deux frères.,I have two brothers.,proverbs,,,,,,
-krd_001204_proverbs,,Mfise basaza banje babiri.,J'ai deux frères.,I have two brothers.,proverbs,,,,,,
-krd_001205_proverbs,,Mfise basazanje babiri,J'ai deux frères.,I have two brothers.,proverbs,,,,,,
-krd_001206_general,,Mfise imyaka mirongo ibiri.,J'ai vingt ans.,I am twenty years old.,general,,,,,,
-krd_001207_emotions,,Mfise itiro,J'ai sommeil.,I'm sleepy.,emotions,,,,,,
-krd_001208_emotions,,Mfise ubwoba,Je suis effrayé,I am afraid,emotions,,,,,,
-krd_001209_grammar,,Micheli yari yaragiye i Bugande ntaragenda iwabo,Michel était parti en Ouganda avant que j'aille chez eux,Michel had gone to Uganda before I went to their place,grammar,,,,,,
-krd_001210_grammar,,Minani ni mwene Yohana,Minani est le fils de John,Minani is John’s son,grammar,,,,,,
-krd_001211_grammar,,Minani ntazi ubwenge nka Gahungu,Minani est moins intelligent que Gahungu,Minani is less intelligent than Gahungu,grammar,,,,,,
-krd_001212_proverbs,,Mpa nūmvé yĭshwe n'úmuráhu.,Celui qui se délecte de chaque plat peut en trouver un mortel.,The one who indulges in every dish may find a deadly one.,proverbs,,,,,,
-krd_001213_jokes,,"Mpejeje kwīshuza māwé amaherá namúgurānye, aca ambwīra ngo mbānze nàánje ndamwìíshure ivyó kuryá vyöse yangáburiye kuva mvûka.","Je viens de demander à ma mère de me rembourser l'argent que je lui ai prêté, devinez sa réponse ! Elle m'a demandé de d'abord lui rembourser également toutes les choses qu'elle m'a données depuis ma naissance.","I just asked my mom to repay the money I lent her, and guess what? She responded by requesting me to first reimburse her for everything she's given me since I was born.",jokes,,,,,,
-krd_001214_action-verbs,,Mpitamwo gutambuka nihuta.,Je préfère la marche rapide.,I prefer brisk walking.,action-verbs,,,,,,
-krd_001215_food,,Mpitamwo umuceri mu kibanza c'Ubugari.,Je préfère le riz au lieu des pâtes.,I prefer rice instead of pasta.,food,,,,,,
-krd_001216_grammar,,Mpora ntangura akazi isaha zibiri,Je commence toujours à travailler à 8h00,I always start work at 8:00,grammar,,,,,,
-krd_001217_jokes,,Mpora nâduka nkatwēnga iyó nībútse ukūntu túkiri abâna bàáduhamagara ngo dutāmbíre abashitsi,"Je me tords de rire à chaque fois que je me souviens de notre enfance, quand on nous appelait pour faire une danse pour les visiteurs.",I burst into laughter every time I recall the days of our childhood when they summoned us to perform a dance routine for the visitors.,jokes,,,,,,
-krd_001218_proverbs,,Mpūngé urw'ăha yakímajije amaguru.,Celui qui fuit les ennuis continue de courir.,He who flees from troubles keeps on running.,proverbs,,,,,,
-krd_001219_jokes,,"Mu Burùúndi bákubwīye kó mupfāná ikīntu n'úmūntu murí mu kigero kimwé , icó mwōbá múpfāna cöse, ubwo nyéne muca múhīnduka abavyâra.","Au Burundi, si on te dit que tu es lié à quelqu'un, et que cette personne est dans la même tranche d'âge que toi, vous devenez automatiquement cousins, peu importe la nature réelle du lien","In Burundi, if they tell you that you are related to someone, and that someone is in the same age group as you, you automatically become cousins, no matter what actually connects you.",jokes,,,,,,
-krd_001220_jokes,,Mu Burùúndi nihó hônyené nyoko wāwe ashobóra kugúkubita ikòófe kubêra uríko urizwa n'íkòófe yaguhàáye.,C'est seulement au Burundi où ta maman pourrait te gifler parce que tu pleures à cause de la gifle qu'elle vient de te donner.,"Only in Burundi, where your mom might slap you for crying because of the slap she just gave you.",jokes,,,,,,
-krd_001221_jokes,,"Mu Burùúndi nihó hāntu hônyené ushobóra gusânga sówàányu cânké nyokwàányu, umúsūmvya imyâka.",C'est une situation unique au Burundi de découvrir que vous êtes plus âgé que votre oncle ou votre tante.,It's a unique Burundian scenario to discover that you are older than your uncle or aunt.,jokes,,,,,,
-krd_001222_grammar,,Mu bisanzwe amashure yisumbuye agizwe n'ibice bibiri,Les écoles secondaires sont généralement divisées en deux parties,Secondary schools are generally divided into two parts,grammar,,,,,,
-krd_001223_proverbs,,Mu buzima ni ukwitonda,Dans le vie il faut rester humble,In life you have to stay humble,proverbs,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_001201_proverbs,,Meditasiyo irafasha kuruhuka no kwiyumvirako.,La méditation aide à se détendre.,Meditation helps you relax.,proverbs,,,,,,,pending
+krd_001202_proverbs,,Mfise abahungu babiri tuvukana.,J'ai deux frères.,I have two brothers.,proverbs,,,,,,,pending
+krd_001203_proverbs,,Mfise abavukanyi babiri,J'ai deux frères.,I have two brothers.,proverbs,,,,,,,pending
+krd_001204_proverbs,,Mfise basaza banje babiri.,J'ai deux frères.,I have two brothers.,proverbs,,,,,,,pending
+krd_001205_proverbs,,Mfise basazanje babiri,J'ai deux frères.,I have two brothers.,proverbs,,,,,,,pending
+krd_001206_general,,Mfise imyaka mirongo ibiri.,J'ai vingt ans.,I am twenty years old.,general,,,,,,,pending
+krd_001207_emotions,,Mfise itiro,J'ai sommeil.,I'm sleepy.,emotions,,,,,,,pending
+krd_001208_emotions,,Mfise ubwoba,Je suis effrayé,I am afraid,emotions,,,,,,,pending
+krd_001209_grammar,,Micheli yari yaragiye i Bugande ntaragenda iwabo,Michel était parti en Ouganda avant que j'aille chez eux,Michel had gone to Uganda before I went to their place,grammar,,,,,,,pending
+krd_001210_grammar,,Minani ni mwene Yohana,Minani est le fils de John,Minani is John’s son,grammar,,,,,,,pending
+krd_001211_grammar,,Minani ntazi ubwenge nka Gahungu,Minani est moins intelligent que Gahungu,Minani is less intelligent than Gahungu,grammar,,,,,,,pending
+krd_001212_proverbs,,Mpa nūmvé yĭshwe n'úmuráhu.,Celui qui se délecte de chaque plat peut en trouver un mortel.,The one who indulges in every dish may find a deadly one.,proverbs,,,,,,,pending
+krd_001213_jokes,,"Mpejeje kwīshuza māwé amaherá namúgurānye, aca ambwīra ngo mbānze nàánje ndamwìíshure ivyó kuryá vyöse yangáburiye kuva mvûka.","Je viens de demander à ma mère de me rembourser l'argent que je lui ai prêté, devinez sa réponse ! Elle m'a demandé de d'abord lui rembourser également toutes les choses qu'elle m'a données depuis ma naissance.","I just asked my mom to repay the money I lent her, and guess what? She responded by requesting me to first reimburse her for everything she's given me since I was born.",jokes,,,,,,,pending
+krd_001214_action-verbs,,Mpitamwo gutambuka nihuta.,Je préfère la marche rapide.,I prefer brisk walking.,action-verbs,,,,,,,pending
+krd_001215_food,,Mpitamwo umuceri mu kibanza c'Ubugari.,Je préfère le riz au lieu des pâtes.,I prefer rice instead of pasta.,food,,,,,,,pending
+krd_001216_grammar,,Mpora ntangura akazi isaha zibiri,Je commence toujours à travailler à 8h00,I always start work at 8:00,grammar,,,,,,,pending
+krd_001217_jokes,,Mpora nâduka nkatwēnga iyó nībútse ukūntu túkiri abâna bàáduhamagara ngo dutāmbíre abashitsi,"Je me tords de rire à chaque fois que je me souviens de notre enfance, quand on nous appelait pour faire une danse pour les visiteurs.",I burst into laughter every time I recall the days of our childhood when they summoned us to perform a dance routine for the visitors.,jokes,,,,,,,pending
+krd_001218_proverbs,,Mpūngé urw'ăha yakímajije amaguru.,Celui qui fuit les ennuis continue de courir.,He who flees from troubles keeps on running.,proverbs,,,,,,,pending
+krd_001219_jokes,,"Mu Burùúndi bákubwīye kó mupfāná ikīntu n'úmūntu murí mu kigero kimwé , icó mwōbá múpfāna cöse, ubwo nyéne muca múhīnduka abavyâra.","Au Burundi, si on te dit que tu es lié à quelqu'un, et que cette personne est dans la même tranche d'âge que toi, vous devenez automatiquement cousins, peu importe la nature réelle du lien","In Burundi, if they tell you that you are related to someone, and that someone is in the same age group as you, you automatically become cousins, no matter what actually connects you.",jokes,,,,,,,pending
+krd_001220_jokes,,Mu Burùúndi nihó hônyené nyoko wāwe ashobóra kugúkubita ikòófe kubêra uríko urizwa n'íkòófe yaguhàáye.,C'est seulement au Burundi où ta maman pourrait te gifler parce que tu pleures à cause de la gifle qu'elle vient de te donner.,"Only in Burundi, where your mom might slap you for crying because of the slap she just gave you.",jokes,,,,,,,pending
+krd_001221_jokes,,"Mu Burùúndi nihó hāntu hônyené ushobóra gusânga sówàányu cânké nyokwàányu, umúsūmvya imyâka.",C'est une situation unique au Burundi de découvrir que vous êtes plus âgé que votre oncle ou votre tante.,It's a unique Burundian scenario to discover that you are older than your uncle or aunt.,jokes,,,,,,,pending
+krd_001222_grammar,,Mu bisanzwe amashure yisumbuye agizwe n'ibice bibiri,Les écoles secondaires sont généralement divisées en deux parties,Secondary schools are generally divided into two parts,grammar,,,,,,,pending
+krd_001223_proverbs,,Mu buzima ni ukwitonda,Dans le vie il faut rester humble,In life you have to stay humble,proverbs,,,,,,,pending
 krd_001224_jokes,,"Mu bìíndi bihúgu: mukûnzi nātāshe ,Mu Burùúndi rēró: Hewée...","dans d'autres pays: Mon amour, je suis à la maison, Au Burundi : Heyy...","in other countries: My love, I am home.
-In Burundi: Heyy... ",jokes,,,,,,
-krd_001225_proverbs,,Mu ci ni ho ikawa bayamura bakayijana ku masoko abegereye.,Pendant l'été c'est là où on cueille le café et l'amenant à des marchés près,During the summer this is where coffee is picked and taken to nearby markets,proverbs,,,,,,
-krd_001226_grammar,,Mu gice ca mbere abana bamara imyaka ine ku ntebe y'ishure,"Dans la première partie, les enfants passent quatre ans à l'école","In the first part, the children spend four years at school",grammar,,,,,,
-krd_001227_proverbs,,"Mu gihe c’intambara, abana bategerezwa gukingirwa.","En temps de guerre, les enfants doivent être protégés.","In times of war, children must be protected.",proverbs,,,,,,
-krd_001228_action-verbs,,"Mu kiringo gito cane, twoba twabonye ihinduka.","En très peu de temps, nous aurions constaté un changement.","In a very short time, we would have seen a change.",action-verbs,,,,,,
-krd_001229_grammar,,Mu kwezi kwa kane azoba yarasubiye i wabo,"En avril, il sera rentré chez lui",In April he will have gone home,grammar,,,,,,
-krd_001230_grammar,,Mu mwaka ugira icumi na gatanu Kayisari ari ku ngoma,année où César était sur le trône,year Caesar was on the throne,grammar,,,,,,
+In Burundi: Heyy... ",jokes,,,,,,,pending
+krd_001225_proverbs,,Mu ci ni ho ikawa bayamura bakayijana ku masoko abegereye.,Pendant l'été c'est là où on cueille le café et l'amenant à des marchés près,During the summer this is where coffee is picked and taken to nearby markets,proverbs,,,,,,,pending
+krd_001226_grammar,,Mu gice ca mbere abana bamara imyaka ine ku ntebe y'ishure,"Dans la première partie, les enfants passent quatre ans à l'école","In the first part, the children spend four years at school",grammar,,,,,,,pending
+krd_001227_proverbs,,"Mu gihe c’intambara, abana bategerezwa gukingirwa.","En temps de guerre, les enfants doivent être protégés.","In times of war, children must be protected.",proverbs,,,,,,,pending
+krd_001228_action-verbs,,"Mu kiringo gito cane, twoba twabonye ihinduka.","En très peu de temps, nous aurions constaté un changement.","In a very short time, we would have seen a change.",action-verbs,,,,,,,pending
+krd_001229_grammar,,Mu kwezi kwa kane azoba yarasubiye i wabo,"En avril, il sera rentré chez lui",In April he will have gone home,grammar,,,,,,,pending
+krd_001230_grammar,,Mu mwaka ugira icumi na gatanu Kayisari ari ku ngoma,année où César était sur le trône,year Caesar was on the throne,grammar,,,,,,,pending
 krd_001231_jokes,,"Mu vy’úkurí  ntā wùúndi kíretse,
 
 Abarùúndi : Ico gitûmburá cā 200 nāngâhé ??","Personne.
 Les Burundais : ""Ce pain de 200 francs burundais, coûte combien ?""","Absolutely no one.
-Burundians: ""How much does that BIF 200 bread cost?""",jokes,,,,,,
+Burundians: ""How much does that BIF 200 bread cost?""",jokes,,,,,,,pending
 krd_001232_jokes,,"Mu vy’úkurí ntāwùúndi kíretse : umumàáma w'úmurùúndi avûye kugura iterémūsi kubêra iya kêra, umwâna yayimenyé
 ""Ehe tôra musubîre mumené.""","Seule une maman burundaise : Qui revient à la maison avec un nouveau thermos juste parce que l'ancien a été cassé par son enfant.
 ""Voici un autre et casse-le.""","Only a Burundian mom: Coming home with a new thermos just because the old one got broken by her child.
-""Here is another one, break it.""",jokes,,,,,,
-krd_001233_location,,Muba hehe?,Où habitez-vous?,Where do you live?,location,,,,,,
-krd_001234_grammar,,Mubikoze neza nzobashima,"Si tu le fais bien, je te féliciterai","If you do it well, I’ll praise you",grammar,,,,,,
-krd_001235_proverbs,,"Muco, habaye iki?","Muco, que se passe-t-il ?","Muco, what is happening?",proverbs,,,,,,
-krd_001236_proverbs,,"Muco, hariko haba iki?","Muco, que se passe-t-il ?","Muco, what is happening?",proverbs,,,,,,
-krd_001237_action-verbs,,Mufise imyaka ingahe?,Quel âge avez-vous?,How old are you?,action-verbs,,,,,,
-krd_001238_emotions,,Mufise umutima mwiza.,Vous êtes très gentil.,You are very kind.,emotions,,,,,,
-krd_001239_proverbs,,Mukúru w'íjāmbo ní irĭndi.,Un rassemblement devient captivant à mesure que les discours s'enchaînent.,A gathering becomes captivating as speeches flow in succession.,proverbs,,,,,,
-krd_001240_apologies,,Mumbabarire ko nacerewe.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,
-krd_001241_apologies,,Mumbarire kuba nacerewe,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,
-krd_001242_action-verbs,,"Mumpe fagitire, nyabuneka.","L'addition, s'il vous plaît.","The check, please.",action-verbs,,,,,,
-krd_001243_grammar,,Mumufashe ku co azogomba cose,Aide-la dans tout ce qu'elle veut,Help her in whatever she wants,grammar,,,,,,
-krd_001244_grammar,,Mupfa iki?,Sur quoi êtes-vous en désaccord ?,What are you disagreeing about?,grammar,,,,,,
-krd_001245_action-verbs,,Murafise bashikanyu ?,Avez-vous des sœurs?,Do you have sisters?,action-verbs,,,,,,
-krd_001246_proverbs,,Murafise ikintu kizimbutse?,Avez-vous quelque chose de moins cher?,Do you have something cheaper?,proverbs,,,,,,
-krd_001247_emotions,,Murafise indero cane.,Vous êtes très gentil.,You are very kind.,emotions,,,,,,
-krd_001248_politeness,,Murakoze cane,Merci beaucoup.,Thank you so much.,politeness,,,,,,
-krd_001249_politeness,,Murakoze kwiri murikwa.,Merci pour cette présentation.,Thank you for this presentation.,politeness,,,,,,
-krd_001250_apologies,,Murantunga.,Je suis désolé.,I'm sorry.,apologies,,,,,,
-krd_001251_apologies,,Muranyinganira ku gucerwa.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,
-krd_001252_proverbs,,Murashaka icayi?,Vous voulez du thé ?,Do you want some tea?,proverbs,,,,,,
-krd_001253_action-verbs,,Murashobora gukora kino kintu.,Pouvez-vous réparer cela?,Can you fix this?,action-verbs,,,,,,
-krd_001254_action-verbs,,Murashobora gusubiza ku ntango ijambo kabanga?,Pouvez-vous réinitialiser le mot de passe?,Can you reset the password?,action-verbs,,,,,,
-krd_001255_action-verbs,,Murashobora gusubiza kuntango igiharuro kabanga canje.,Pouvez-vous réinitialiser le mot de passe?,Can you reset the password?,action-verbs,,,,,,
-krd_001256_action-verbs,,Murashobora kuduharurira ivyo twihereje duheze turihe.,"L'addition, s'il vous plaît.","The check, please.",action-verbs,,,,,,
-krd_001257_action-verbs,,Murashobora kugabanya ijwi?,Pouvez-vous baisser le volume?,Can you turn down the volume?,action-verbs,,,,,,
-krd_001258_politeness,,"Murashobora kumfasha, ndabasavye?","Pouvez-vous m'aider, s'il vous plaît?","Can you help me, please?",politeness,,,,,,
-krd_001259_language,,Muravuga Icongereza?,Parlez-vous anglais?,Do you speak English?,language,,,,,,
-krd_001260_grammar,,Murazogenda i Gitega!,Allez à Gitega !,Go to Gitega!,grammar,,,,,,
-krd_001261_general,,Mureha gute?,Quelle taille faites-vous?,What size are you?,general,,,,,,
-krd_001262_general,,Murehe gute ?,Quelle taille faites-vous?,What size are you?,general,,,,,,
-krd_001263_proverbs,,Muri Butoyi?,Vous êtes Butoyi ?,Are you Butoyi?,proverbs,,,,,,
-krd_001264_grammar,,Muri abo bagabo twahora tugendana utanguriye ku kubatiza kwa Yohana ukageza ku musi yadukuriwemwo,Parmi ces hommes avec qui nous étions toujours depuis le baptême de Jean jusqu'au jour où il nous a été enlevé,Among those men we were always with from the baptism of John until the day he was taken away from us,grammar,,,,,,
-krd_001265_grammar,,Muri ico gihe sinari nkirima,A cette époque je ne binais plus,At that time I was no longer hoeing,grammar,,,,,,
-krd_001266_emotions,,"Muri vyose, hagiyemwo agahaze mu biganiro vyabo","Dans l'ensemble, il y a une satisfaction dans leurs discussions","Overall, there is satisfaction in their discussions",emotions,,,,,,
-krd_001267_apologies,,Murihangana,Je suis désolé.,I'm sorry.,apologies,,,,,,
-krd_001268_action-verbs,,Murumunanje ni umuririmvyi.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,
-krd_001269_jokes,,"Murí afriká iyó urí mw'īkosá, Só wāwe akagukānkamira, uca wîtōra ikosá, aríko nyoko wāwe akúrāvye gusa, uca wîkosōra.","En Afrique, si tu commets une erreur à la maison, dès que ton père te réprimande, tu prends conscience de ton erreur. Cependant, si ta mère te lance simplement un regard sévère, tu t'infliges toi-même ta propre punition.","In Africa, if you make a mistake at home, the moment your dad scolds you, you instantly realize your error. However, if your mom merely gives you a stern look, you start doling out your own punishment.",jokes,,,,,,
-krd_001270_jokes,,"Murí iyi mìísi, umushitsi yajé iwâwé arīndīra kó afūngúra kugíra agēndé, nàáwe ukarīndīra kó agēndá kugíra ufūngúre.","De nos jours, quand un visiteur vient chez vous, il attend que vous commenciez à manger pour pouvoir partir, et vous, vous attendez qu'il parte pour enfin commencer à manger.","Nowadays, when a guest arrives at your home, they wait for you to begin eating so they can make their exit. Meanwhile, you're waiting for them to leave so you can finally start enjoying your meal",jokes,,,,,,
-krd_001271_action-verbs,,Musanzanje ni umuririmvyi,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,
-krd_001272_action-verbs,,Musaza wanje ni Umunyamuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,
-krd_001273_action-verbs,,Musazanje ni umuvuza umuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,
-krd_001274_action-verbs,,Musazanje ni Umunyamuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,
-krd_001275_action-verbs,,Musazanje ni incabwenge,Mon frère est intelligent.,My brother is smart.,action-verbs,,,,,,
-krd_001276_action-verbs,,Mushikanje ariga cane,Ma sœur étudie beaucoup.,My sister studies a lot.,action-verbs,,,,,,
-krd_001277_action-verbs,,Mushiki wanje ariga cane.,Ma sœur étudie beaucoup.,My sister studies a lot.,action-verbs,,,,,,
-krd_001278_action-verbs,,Mushiki wanje numushikiriza manza.,Ma sœur est avocate.,My sister is a lawyer.,action-verbs,,,,,,
-krd_001279_idioms,,"Muti none yoba ikomoka hehe, isigura iki?","D'où vient-il, qu'est-ce que cela signifie ?","Where does it come from, what does it mean?",idioms,,,,,,
-krd_001280_grammar,,"Muzohabwa ubushobozi, Mpwemu Mweranda ni yabazako",Vous recevrez de la puissance lorsque le Saint-Esprit viendra sur vous,You will receive power when the Holy Spirit comes on you,grammar,,,,,,
-krd_001281_grammar,,Mw ishuli ry’abana twasohoka isaha sita,A l'école primaire on sortait toujours à midi,In the elementary school we always went out at noon,grammar,,,,,,
-krd_001282_grammar,,Mwa bagore ni mwumvirize!,"Vous les femmes, écoutez !","You women, listen!",grammar,,,,,,
-krd_001283_grammar,,"Mwa bana b’inzoka mwe, ni nde yababuriye ngo muhunge uburake buzoza?","Vous, enfants de serpents, qui vous a averti de fuir la colère à venir ?","You children of snakes, who warned you to flee from the wrath to come?",grammar,,,,,,
-krd_001284_grammar,,Mwa bana mukora iki?,"Vous les enfants, que faites-vous ?","You children, what are you doing?",grammar,,,,,,
-krd_001285_grammar,,"Mwananje, ni iki gituma ukora urtyo?","Mon enfant, pourquoi fais-tu ça ?","My child, why are you doing that?",grammar,,,,,,
-krd_001286_greetings,,Mwaramutse!,Bonjour!,Good morning!,greetings,,,,,,
-krd_001287_greetings,,"Mwaramutse, amakuru yanyu??","Bonjour, comment allez-vous?","Good morning, how are you doing?",greetings,,,,,,
-krd_001288_general,,Mwaramutse? Murakomeye? Twebwe tumeze neza.,Bonjour? Vous allez bien? Nous nous allons bien,Good morning? Are you doing well? We are fine,general,,,,,,
-krd_001289_action-verbs,,Mwaronse ubutumwa bwanje?,Avez-vous reçu mon message?,Did you receive my message?,action-verbs,,,,,,
-krd_001290_action-verbs,,Mwaronse ubutumwa?,Avez-vous reçu mon message?,Did you receive my message?,action-verbs,,,,,,
-krd_001291_action-verbs,,Mwenewacu ni Incabwenge.,Mon frère est intelligent.,My brother is smart.,action-verbs,,,,,,
-krd_001292_politeness,,Mwobisigura neza ataco musimvye?,Pouvez-vous expliquer cela en détail?,Can you explain this in detail?,politeness,,,,,,
-krd_001293_action-verbs,,Mwokugara iryo dirisha,Veuillez fermer la fenêtre.,Please close the window.,action-verbs,,,,,,
-krd_001294_action-verbs,,Mwokwugara idirisha.,Veuillez fermer la fenêtre.,Please close the window.,action-verbs,,,,,,
-krd_001295_general,,"Mwoshobora gusubiramwo, ndabasavye?","Pouvez-vous répéter, s'il vous plaît?","Can you repeat, please?",general,,,,,,
-krd_001296_politeness,,"Mwoshobora kunfasha, ndabasavye?","Pouvez-vous m'aider, s'il vous plaît?","Can you help me, please?",politeness,,,,,,
-krd_001297_grammar,,Mwoye gutinya,N'ayez pas peur !,Don’t be afraid!,grammar,,,,,,
-krd_001298_jokes,,Mwàáhūriye hé ?, Où vous êtes-vous rencontrés ? ,Where did you bump into each other? ,jokes,,,,,,
-krd_001299_proverbs,,Mwāramutse ntákūrá akăramutse ku mutíma.,Offrir un bonjour ne dissipe pas les fardeaux portés depuis hier.,Offering a good morning doesn't dispel the burdens carried from yesterday.,proverbs,,,,,,
-krd_001300_proverbs,,Mwěne nāká yōkuzirika ku cătsi.,"Un adversaire inconnu exige de la prudence, il pourrait émerger victorieux si vous choisissez de le confronter.","An unknown adversary demands caution, they might emerge victorious if you choose to confront them.",proverbs,,,,,,
+""Here is another one, break it.""",jokes,,,,,,,pending
+krd_001233_location,,Muba hehe?,Où habitez-vous?,Where do you live?,location,,,,,,,pending
+krd_001234_grammar,,Mubikoze neza nzobashima,"Si tu le fais bien, je te féliciterai","If you do it well, I’ll praise you",grammar,,,,,,,pending
+krd_001235_proverbs,,"Muco, habaye iki?","Muco, que se passe-t-il ?","Muco, what is happening?",proverbs,,,,,,,pending
+krd_001236_proverbs,,"Muco, hariko haba iki?","Muco, que se passe-t-il ?","Muco, what is happening?",proverbs,,,,,,,pending
+krd_001237_action-verbs,,Mufise imyaka ingahe?,Quel âge avez-vous?,How old are you?,action-verbs,,,,,,,pending
+krd_001238_emotions,,Mufise umutima mwiza.,Vous êtes très gentil.,You are very kind.,emotions,,,,,,,pending
+krd_001239_proverbs,,Mukúru w'íjāmbo ní irĭndi.,Un rassemblement devient captivant à mesure que les discours s'enchaînent.,A gathering becomes captivating as speeches flow in succession.,proverbs,,,,,,,pending
+krd_001240_apologies,,Mumbabarire ko nacerewe.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,,pending
+krd_001241_apologies,,Mumbarire kuba nacerewe,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,,pending
+krd_001242_action-verbs,,"Mumpe fagitire, nyabuneka.","L'addition, s'il vous plaît.","The check, please.",action-verbs,,,,,,,pending
+krd_001243_grammar,,Mumufashe ku co azogomba cose,Aide-la dans tout ce qu'elle veut,Help her in whatever she wants,grammar,,,,,,,pending
+krd_001244_grammar,,Mupfa iki?,Sur quoi êtes-vous en désaccord ?,What are you disagreeing about?,grammar,,,,,,,pending
+krd_001245_action-verbs,,Murafise bashikanyu ?,Avez-vous des sœurs?,Do you have sisters?,action-verbs,,,,,,,pending
+krd_001246_proverbs,,Murafise ikintu kizimbutse?,Avez-vous quelque chose de moins cher?,Do you have something cheaper?,proverbs,,,,,,,pending
+krd_001247_emotions,,Murafise indero cane.,Vous êtes très gentil.,You are very kind.,emotions,,,,,,,pending
+krd_001248_politeness,,Murakoze cane,Merci beaucoup.,Thank you so much.,politeness,,,,,,,pending
+krd_001249_politeness,,Murakoze kwiri murikwa.,Merci pour cette présentation.,Thank you for this presentation.,politeness,,,,,,,pending
+krd_001250_apologies,,Murantunga.,Je suis désolé.,I'm sorry.,apologies,,,,,,,pending
+krd_001251_apologies,,Muranyinganira ku gucerwa.,Veuillez m'excuser pour le retard.,Please forgive me for the delay.,apologies,,,,,,,pending
+krd_001252_proverbs,,Murashaka icayi?,Vous voulez du thé ?,Do you want some tea?,proverbs,,,,,,,pending
+krd_001253_action-verbs,,Murashobora gukora kino kintu.,Pouvez-vous réparer cela?,Can you fix this?,action-verbs,,,,,,,pending
+krd_001254_action-verbs,,Murashobora gusubiza ku ntango ijambo kabanga?,Pouvez-vous réinitialiser le mot de passe?,Can you reset the password?,action-verbs,,,,,,,pending
+krd_001255_action-verbs,,Murashobora gusubiza kuntango igiharuro kabanga canje.,Pouvez-vous réinitialiser le mot de passe?,Can you reset the password?,action-verbs,,,,,,,pending
+krd_001256_action-verbs,,Murashobora kuduharurira ivyo twihereje duheze turihe.,"L'addition, s'il vous plaît.","The check, please.",action-verbs,,,,,,,pending
+krd_001257_action-verbs,,Murashobora kugabanya ijwi?,Pouvez-vous baisser le volume?,Can you turn down the volume?,action-verbs,,,,,,,pending
+krd_001258_politeness,,"Murashobora kumfasha, ndabasavye?","Pouvez-vous m'aider, s'il vous plaît?","Can you help me, please?",politeness,,,,,,,pending
+krd_001259_language,,Muravuga Icongereza?,Parlez-vous anglais?,Do you speak English?,language,,,,,,,pending
+krd_001260_grammar,,Murazogenda i Gitega!,Allez à Gitega !,Go to Gitega!,grammar,,,,,,,pending
+krd_001261_general,,Mureha gute?,Quelle taille faites-vous?,What size are you?,general,,,,,,,pending
+krd_001262_general,,Murehe gute ?,Quelle taille faites-vous?,What size are you?,general,,,,,,,pending
+krd_001263_proverbs,,Muri Butoyi?,Vous êtes Butoyi ?,Are you Butoyi?,proverbs,,,,,,,pending
+krd_001264_grammar,,Muri abo bagabo twahora tugendana utanguriye ku kubatiza kwa Yohana ukageza ku musi yadukuriwemwo,Parmi ces hommes avec qui nous étions toujours depuis le baptême de Jean jusqu'au jour où il nous a été enlevé,Among those men we were always with from the baptism of John until the day he was taken away from us,grammar,,,,,,,pending
+krd_001265_grammar,,Muri ico gihe sinari nkirima,A cette époque je ne binais plus,At that time I was no longer hoeing,grammar,,,,,,,pending
+krd_001266_emotions,,"Muri vyose, hagiyemwo agahaze mu biganiro vyabo","Dans l'ensemble, il y a une satisfaction dans leurs discussions","Overall, there is satisfaction in their discussions",emotions,,,,,,,pending
+krd_001267_apologies,,Murihangana,Je suis désolé.,I'm sorry.,apologies,,,,,,,pending
+krd_001268_action-verbs,,Murumunanje ni umuririmvyi.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,,pending
+krd_001269_jokes,,"Murí afriká iyó urí mw'īkosá, Só wāwe akagukānkamira, uca wîtōra ikosá, aríko nyoko wāwe akúrāvye gusa, uca wîkosōra.","En Afrique, si tu commets une erreur à la maison, dès que ton père te réprimande, tu prends conscience de ton erreur. Cependant, si ta mère te lance simplement un regard sévère, tu t'infliges toi-même ta propre punition.","In Africa, if you make a mistake at home, the moment your dad scolds you, you instantly realize your error. However, if your mom merely gives you a stern look, you start doling out your own punishment.",jokes,,,,,,,pending
+krd_001270_jokes,,"Murí iyi mìísi, umushitsi yajé iwâwé arīndīra kó afūngúra kugíra agēndé, nàáwe ukarīndīra kó agēndá kugíra ufūngúre.","De nos jours, quand un visiteur vient chez vous, il attend que vous commenciez à manger pour pouvoir partir, et vous, vous attendez qu'il parte pour enfin commencer à manger.","Nowadays, when a guest arrives at your home, they wait for you to begin eating so they can make their exit. Meanwhile, you're waiting for them to leave so you can finally start enjoying your meal",jokes,,,,,,,pending
+krd_001271_action-verbs,,Musanzanje ni umuririmvyi,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,,pending
+krd_001272_action-verbs,,Musaza wanje ni Umunyamuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,,pending
+krd_001273_action-verbs,,Musazanje ni umuvuza umuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,,pending
+krd_001274_action-verbs,,Musazanje ni Umunyamuziki.,Mon frère est musicien.,My brother is a musician.,action-verbs,,,,,,,pending
+krd_001275_action-verbs,,Musazanje ni incabwenge,Mon frère est intelligent.,My brother is smart.,action-verbs,,,,,,,pending
+krd_001276_action-verbs,,Mushikanje ariga cane,Ma sœur étudie beaucoup.,My sister studies a lot.,action-verbs,,,,,,,pending
+krd_001277_action-verbs,,Mushiki wanje ariga cane.,Ma sœur étudie beaucoup.,My sister studies a lot.,action-verbs,,,,,,,pending
+krd_001278_action-verbs,,Mushiki wanje numushikiriza manza.,Ma sœur est avocate.,My sister is a lawyer.,action-verbs,,,,,,,pending
+krd_001279_idioms,,"Muti none yoba ikomoka hehe, isigura iki?","D'où vient-il, qu'est-ce que cela signifie ?","Where does it come from, what does it mean?",idioms,,,,,,,pending
+krd_001280_grammar,,"Muzohabwa ubushobozi, Mpwemu Mweranda ni yabazako",Vous recevrez de la puissance lorsque le Saint-Esprit viendra sur vous,You will receive power when the Holy Spirit comes on you,grammar,,,,,,,pending
+krd_001281_grammar,,Mw ishuli ry’abana twasohoka isaha sita,A l'école primaire on sortait toujours à midi,In the elementary school we always went out at noon,grammar,,,,,,,pending
+krd_001282_grammar,,Mwa bagore ni mwumvirize!,"Vous les femmes, écoutez !","You women, listen!",grammar,,,,,,,pending
+krd_001283_grammar,,"Mwa bana b’inzoka mwe, ni nde yababuriye ngo muhunge uburake buzoza?","Vous, enfants de serpents, qui vous a averti de fuir la colère à venir ?","You children of snakes, who warned you to flee from the wrath to come?",grammar,,,,,,,pending
+krd_001284_grammar,,Mwa bana mukora iki?,"Vous les enfants, que faites-vous ?","You children, what are you doing?",grammar,,,,,,,pending
+krd_001285_grammar,,"Mwananje, ni iki gituma ukora urtyo?","Mon enfant, pourquoi fais-tu ça ?","My child, why are you doing that?",grammar,,,,,,,pending
+krd_001286_greetings,,Mwaramutse!,Bonjour!,Good morning!,greetings,,,,,,,pending
+krd_001287_greetings,,"Mwaramutse, amakuru yanyu??","Bonjour, comment allez-vous?","Good morning, how are you doing?",greetings,,,,,,,pending
+krd_001288_general,,Mwaramutse? Murakomeye? Twebwe tumeze neza.,Bonjour? Vous allez bien? Nous nous allons bien,Good morning? Are you doing well? We are fine,general,,,,,,,pending
+krd_001289_action-verbs,,Mwaronse ubutumwa bwanje?,Avez-vous reçu mon message?,Did you receive my message?,action-verbs,,,,,,,pending
+krd_001290_action-verbs,,Mwaronse ubutumwa?,Avez-vous reçu mon message?,Did you receive my message?,action-verbs,,,,,,,pending
+krd_001291_action-verbs,,Mwenewacu ni Incabwenge.,Mon frère est intelligent.,My brother is smart.,action-verbs,,,,,,,pending
+krd_001292_politeness,,Mwobisigura neza ataco musimvye?,Pouvez-vous expliquer cela en détail?,Can you explain this in detail?,politeness,,,,,,,pending
+krd_001293_action-verbs,,Mwokugara iryo dirisha,Veuillez fermer la fenêtre.,Please close the window.,action-verbs,,,,,,,pending
+krd_001294_action-verbs,,Mwokwugara idirisha.,Veuillez fermer la fenêtre.,Please close the window.,action-verbs,,,,,,,pending
+krd_001295_general,,"Mwoshobora gusubiramwo, ndabasavye?","Pouvez-vous répéter, s'il vous plaît?","Can you repeat, please?",general,,,,,,,pending
+krd_001296_politeness,,"Mwoshobora kunfasha, ndabasavye?","Pouvez-vous m'aider, s'il vous plaît?","Can you help me, please?",politeness,,,,,,,pending
+krd_001297_grammar,,Mwoye gutinya,N'ayez pas peur !,Don’t be afraid!,grammar,,,,,,,pending
+krd_001298_jokes,,Mwàáhūriye hé ?, Où vous êtes-vous rencontrés ? ,Where did you bump into each other? ,jokes,,,,,,,pending
+krd_001299_proverbs,,Mwāramutse ntákūrá akăramutse ku mutíma.,Offrir un bonjour ne dissipe pas les fardeaux portés depuis hier.,Offering a good morning doesn't dispel the burdens carried from yesterday.,proverbs,,,,,,,pending
+krd_001300_proverbs,,Mwěne nāká yōkuzirika ku cătsi.,"Un adversaire inconnu exige de la prudence, il pourrait émerger victorieux si vous choisissez de le confronter.","An unknown adversary demands caution, they might emerge victorious if you choose to confront them.",proverbs,,,,,,,pending

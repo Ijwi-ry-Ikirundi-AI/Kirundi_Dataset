@@ -1,105 +1,105 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
 krd_002301_jokes,,"Umuhùúngu yatámiye umuceri mwìínshi asānga urashûshe, arakóma indûrú, Nàátwe tuti : Cīraaaaa!!","Quelqu'un a englouti une quantité substantielle de riz pour se rendre compte qu'il était encore brûlant.
 Nous : Recrache-le ! ","Someone devoured a substantial amount of rice only to discover it was still scalding hot.
-Us: Spit it out!",jokes,,,,,,
-krd_002302_proverbs,,Umuhĭgi arí kure ntávuná imbwá.,Un chasseur distant atteint rarement la cible.,A distant hunter seldom hits the target.,proverbs,,,,,,
-krd_002303_jokes,clips/sound_humour/h18.mp3,Umukecuru bamukandagiye mu gisebe araheza aravuga ati ibwami nahora mbona bahakunda sinari bwamenye yuko bahakura ibintu vyiza bisa bityo!,"""J'ai réalisé avec quelle joie nous fréquentons le tribunal, mais je ne savais pas que nous avions l'occasion d'y recevoir des choses aussi excellentes"", dit la vieille dont le pied blessé venait d'être écrasé !","""I realized how willingly we frequent the court, but I didn't know we had the opportunity to receive such excellent things there,"" said the old woman whose wounded foot had just been crushed!",jokes,,,,,,
-krd_002304_jokes,clips/sound_humour/h21.mp3,"Umukecuru yasinziriye yasamye, imbeba imuta amasyegege mu kanwa ati igihe c'ukurya umwaka cageze!","""Le moment est venu de célébrer la fête des prémices"", comme disait la vieille femme après qu'un rat lui ait laissé tomber ses crottes dans la bouche alors qu'elle dormait la bouche béante !","""The time has come to celebrate the feast of the firstfruits"", as the old woman used to say after a rat dropped her droppings in her mouth while she slept with gaping mouth!",jokes,,,,,,
-krd_002305_jokes,clips/sound_humour/h26.mp3,Umukecuru yatsitariye imbere y'ikinogo ati ntaco umpamagara ndaje!,"""Pas besoin de m'appeler, j'arrive"", comme disait la vieille femme qui avait trébuché au bord d'un gouffre !","""No need to call me, I'm coming,"" as the old woman, who had stumbled at the edge of a pit, said!",jokes,,,,,,
-krd_002306_action-verbs,,Umukiriya ntiyanyuzwe.,Le client n'est pas satisfait.,The customer is not satisfied.,action-verbs,,,,,,
-krd_002307_action-verbs,,Umukobwa tuvukana ni umushingwamanza.,Ma sœur est avocate.,My sister is a lawyer.,action-verbs,,,,,,
-krd_002308_action-verbs,,Umukoresha wanje arababaye,Mon patron est en colère.,My boss is angry.,action-verbs,,,,,,
-krd_002309_action-verbs,,Umukoresha wanje arakerebutse.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,
-krd_002310_action-verbs,,Umukoresha wanje ari ku rutonde.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,
-krd_002311_action-verbs,,Umukoresha wanje ari kurutonde.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,
-krd_002312_grammar,,"Umukwe akurwe muri bo, bazoca bisonzesha uwo musi","Quand l'époux leur sera enlevé, ils jeûneront immédiatement ce jour-là.","When the bridegroom is taken from them, at once they will fast on that day",grammar,,,,,,
-krd_002313_proverbs,,Umukwé w'îsόni ahāmbwa abόna.,Les âmes timides portent des blessures sans dire un mot.,Shy souls bear wounds without a word.,proverbs,,,,,,
-krd_002314_proverbs,,Umukéne na nyina aramwânka.,"Quand un pauvre frappe à la porte, même ses parents regardent par le judas.","When a poor man comes knocking, even his relatives look through the peephole.",proverbs,,,,,,
-krd_002315_proverbs,,Umukéne ní ntā jāmbo.,"Dans la pauvreté, l'influence d'une proposition est limitée.","In poverty, one's influence in proposing is limited.",proverbs,,,,,,
+Us: Spit it out!",jokes,,,,,,,pending
+krd_002302_proverbs,,Umuhĭgi arí kure ntávuná imbwá.,Un chasseur distant atteint rarement la cible.,A distant hunter seldom hits the target.,proverbs,,,,,,,pending
+krd_002303_jokes,clips/jokes/h18.mp3,Umukecuru bamukandagiye mu gisebe araheza aravuga ati ibwami nahora mbona bahakunda sinari bwamenye yuko bahakura ibintu vyiza bisa bityo!,"""J'ai réalisé avec quelle joie nous fréquentons le tribunal, mais je ne savais pas que nous avions l'occasion d'y recevoir des choses aussi excellentes"", dit la vieille dont le pied blessé venait d'être écrasé !","""I realized how willingly we frequent the court, but I didn't know we had the opportunity to receive such excellent things there,"" said the old woman whose wounded foot had just been crushed!",jokes,,,,,,,recorded
+krd_002304_jokes,clips/jokes/h21.mp3,"Umukecuru yasinziriye yasamye, imbeba imuta amasyegege mu kanwa ati igihe c'ukurya umwaka cageze!","""Le moment est venu de célébrer la fête des prémices"", comme disait la vieille femme après qu'un rat lui ait laissé tomber ses crottes dans la bouche alors qu'elle dormait la bouche béante !","""The time has come to celebrate the feast of the firstfruits"", as the old woman used to say after a rat dropped her droppings in her mouth while she slept with gaping mouth!",jokes,,,,,,,recorded
+krd_002305_jokes,clips/jokes/h26.mp3,Umukecuru yatsitariye imbere y'ikinogo ati ntaco umpamagara ndaje!,"""Pas besoin de m'appeler, j'arrive"", comme disait la vieille femme qui avait trébuché au bord d'un gouffre !","""No need to call me, I'm coming,"" as the old woman, who had stumbled at the edge of a pit, said!",jokes,,,,,,,recorded
+krd_002306_action-verbs,,Umukiriya ntiyanyuzwe.,Le client n'est pas satisfait.,The customer is not satisfied.,action-verbs,,,,,,,pending
+krd_002307_action-verbs,,Umukobwa tuvukana ni umushingwamanza.,Ma sœur est avocate.,My sister is a lawyer.,action-verbs,,,,,,,pending
+krd_002308_action-verbs,,Umukoresha wanje arababaye,Mon patron est en colère.,My boss is angry.,action-verbs,,,,,,,pending
+krd_002309_action-verbs,,Umukoresha wanje arakerebutse.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,,pending
+krd_002310_action-verbs,,Umukoresha wanje ari ku rutonde.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,,pending
+krd_002311_action-verbs,,Umukoresha wanje ari kurutonde.,Mon patron est strict.,My boss is strict.,action-verbs,,,,,,,pending
+krd_002312_grammar,,"Umukwe akurwe muri bo, bazoca bisonzesha uwo musi","Quand l'époux leur sera enlevé, ils jeûneront immédiatement ce jour-là.","When the bridegroom is taken from them, at once they will fast on that day",grammar,,,,,,,pending
+krd_002313_proverbs,,Umukwé w'îsόni ahāmbwa abόna.,Les âmes timides portent des blessures sans dire un mot.,Shy souls bear wounds without a word.,proverbs,,,,,,,pending
+krd_002314_proverbs,,Umukéne na nyina aramwânka.,"Quand un pauvre frappe à la porte, même ses parents regardent par le judas.","When a poor man comes knocking, even his relatives look through the peephole.",proverbs,,,,,,,pending
+krd_002315_proverbs,,Umukéne ní ntā jāmbo.,"Dans la pauvreté, l'influence d'une proposition est limitée.","In poverty, one's influence in proposing is limited.",proverbs,,,,,,,pending
 krd_002316_jokes,,"Umukòóbwa mwīza , yāmbáye umwāmbaro wó murí bàánki, yāmbáye ubudéde höse ku mabóko, nó mw'īzosi...","Une belle fille, portant des colliers partout, aux bras et au cou...
 ","A beautiful girl, wearing beautiful necklaces everywhere, on her arms and neck...
-",jokes,,,,,,
-krd_002317_jokes,,Umukòóbwa wa rúguru ntushobóra kumwûmvisha kó uzí gufotora nêzá mugihe utumôga nêzá tw'ígihūmbi yari yìísīze ataríko aratwûmva kw'īfoto.,On ne peut pas convaincre une fille du village que l'on est photographe professionnel quand elle ne peut pas sentir le parfum bon marché qu'elle avait mis sur elle,You can't convince a village girl that you are a professional photographer when she can't smell the cheap perfume she had put on herself,jokes,,,,,,
-krd_002318_proverbs,,Umukózi abērwa n'împêmbo.,Un travailleur assidu mérite un salaire équitable.,A diligent worker deserves a fair wage.,proverbs,,,,,,
-krd_002319_proverbs,,Umukúru yōva iyό ubá.,Un leader devrait venir de la même cour.,A leader should come from the same backyard.,proverbs,,,,,,
-krd_002320_proverbs,,Umukěngesha w'ímpōngo ayihīgīsha iróbe.,Essayer d'attraper une proie avec les mauvais outils est un signe clair de sous-estimation de la tâche à accomplir.,Trying to catch a prey with the wrong tools is a clear sign of underestimating the task at hand and not giving it the attention it deserves.,proverbs,,,,,,
-krd_002321_proverbs,,Umukŏbwa akura kwā sêbukwé ntákurá kwā sé.,"Une fille mûrit pleinement chez ses beaux-parents, pas dans la maison de son père.","A daughter matures fully in her in-law's home, not in her father's house.",proverbs,,,,,,
-krd_002322_vocabulary,,Umunara muremure wa Eiffel uratangaje.,La Tour Eiffel est magnifique.,The Eiffel Tower is magnificent.,vocabulary,,,,,,
-krd_002323_emotions,,Umunsi w'amavuko mwiza!,Joyeux anniversaire!,Happy birthday!,emotions,,,,,,
-krd_002324_grammar,,Umuntu umwe ashima umusi umwe kuwurutisha iyindi,Un homme estime un jour plus que les autres,One man esteems one day more than others,grammar,,,,,,
-krd_002325_grammar,,Umuntu wese abatizwe mubone guharirwa ivyaha,Que tout le monde se fasse baptiser afin que vos péchés vous soient pardonnés,Let every one be baptized that you may be able to be forgiven your sins,grammar,,,,,,
-krd_002326_proverbs,,Umuntu wese ategerezwa gukingira amatungo y’igihugu.,Tout le monde est censé protéger le biens du pays.,Everyone is supposed to protect the country's property.,proverbs,,,,,,
-krd_002327_grammar,,"Umunyu, iy’ushize uburyohe, uba ukiryoshwa n’iki?","Si le sel a perdu sa saveur, il sera aromatisé avec quoi ?","If salt has lost its flavor, it would be flavored with what?”",grammar,,,,,,
-krd_002328_grammar,,"Umupasitori ahanura abantu, araheza arabasezera","Le pasteur a réprimandé les gens, puis il leur a dit au revoir","The pastor admonished the people, then he bid them goodbye",grammar,,,,,,
-krd_002329_proverbs,,Umupfú ntáburá uwumúpfunya.,Les disparus ne sont jamais sans assistants.,The departed are never without attendants.,proverbs,,,,,,
-krd_002330_proverbs,,Umupfú ntíyīnûkira.,"Vous ne pouvez pas voir vos propres défauts, il faut que d'autres les pointent du doigt.","You can't see your own flaws, it takes others to point them out.",proverbs,,,,,,
-krd_002331_vocabulary,,Umuriro mu ziko utanga amahoro.,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,
-krd_002332_vocabulary,,Umuriro mubwotezo biraruhura,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,
-krd_002333_vocabulary,,Umuriro urakwiye.,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,
-krd_002334_proverbs,,Umuryâmbwá aba umwé agatukīsha umuryāngo.,Les actions de l'un peuvent tacher l'honneur de toute la famille.,The actions of one can stain the honor of the whole family.,proverbs,,,,,,
-krd_002335_proverbs,,Umuryāngo ntúbuzá umuryângo w'ínzu kuva.,"L'amour familial peut être fort, mais il ne peut pas toujours empêcher le mal à la maison.","A family's love may be strong, but it cannot always prevent wrong in the home.",proverbs,,,,,,
-krd_002336_proverbs,,Umuryāngo uba ku muryângo.,La valeur de la famille se voit dans son soutien inébranlable.,Family's worth is seen in their unwavering support.,proverbs,,,,,,
-krd_002337_proverbs,,Umuryāngo ujá guhóna ubāndwa wöse.,Trop de mains dans une marmite gâcheront la soupe.,Too many hands in a pot will spoil the soup.,proverbs,,,,,,
-krd_002338_proverbs,,Umuryāngo umwé ntíwūríza umwămi umugwa.,Un seul clan ne peut porter le poids du progrès du roi.,A single clan cannot bear the weight of the king's progress.,proverbs,,,,,,
-krd_002339_proverbs,,Umuryāngo uryānyé urarîka.,Une famille avec des conflits internes est vulnérable à la destruction.,A family with internal conflicts is vulnerable to destruction.,proverbs,,,,,,
-krd_002340_proverbs,,Umuryāngo uryōha uryâna.,Les désaccords familiaux occasionnels renforcent le lien à long terme.,Occasional family disagreements make the bond stronger in the long run.,proverbs,,,,,,
-krd_002341_proverbs,,Umuryāngo utaziríriza urazíma.,Une famille qui ne parvient pas à enseigner ce qu'il ne faut pas faire pourrait disparaître.,A family failing to teach the don'ts might face extinction.,proverbs,,,,,,
-krd_002342_jokes,,"Umurùúndi aratêka ibifùúngurwa ,akabimarira mū nkóno.",Un Burundais pourrait continuer à grignoter la nourriture qu'il est en train de préparer.,A Burundian might continue munching on the food they're preparing.,jokes,,,,,,
-krd_002343_jokes,,Umurùúndi: Kubita göse Inyuma ica ikóra,"- Un Burundais : ""Frappe fort à l'arrière, ça va marcher.""","- A Burundian: ""Hit it hard on the back, it will work.""",jokes,,,,,,
-krd_002344_proverbs,,Umusavyi ntárutá shêbuja.,La main qui donne est au-dessus de la main qui reçoit.,The hand that gives is above the hand that receives.,proverbs,,,,,,
-krd_002345_proverbs,,Umusavyi w'ûrwânko agabana n'íngoga.,"Cherchez des ennuis, et les ennuis vous trouveront.","Look for trouble, and trouble will find you.",proverbs,,,,,,
-krd_002346_jokes,clips/sound_humour/h25.mp3,Umusaza ahuye n'inkumi ati amasho Vyansize!,"""Bonjour Madame, je-n'en peux plus !"" dit le vieil homme lorsqu'il rencontra une jeune fille.","""Hello, Mrs I-can't-anymore!"" said the old man when he met a young girl.",jokes,,,,,,
-krd_002347_jokes,clips/sound_humour/h39.mp3,Umusazi yasomeye amase n'amaganga ati s'umutsima s'imboga vyose ni hamwe!,"""Pas seulement la pâte mais même la sauce, tout ne fait qu'un"", comme disait le fou en absorbant du fumier saupoudré de fumier !","""Not only the dough but even the sauce, everything is one"", as the madman said while absorbing dung sprinkled with manure!",jokes,,,,,,
-krd_002348_proverbs,,Umusega uryāna ugáramye.,Un renard endormi ne attrape pas de volaille.,A sleeping fox catches no poultry.,proverbs,,,,,,
-krd_002349_jokes,clips/sound_humour/h45.mp3,Umuserebanyi ku nzu uti iyo buca ngo nisenyere!,"""J'ai hâte qu'il fasse jour pour pouvoir tranquillement glaner du bois de chauffage"", comme disait le lézard qui paressait sur le toit de la cabane !","""I can't wait for it to be daylight so that I can quietly glean firewood,"" as the lizard lazing on the roof of the hut said!",jokes,,,,,,
-krd_002350_emotions,,Umushaha Wiwe warakomeretse.,Son âme a été blessé.,His soul was wounded.,emotions,,,,,,
-krd_002351_proverbs,,Umushikíriza w'ígitútsi ní we mutúkanyi.,Porter un message insultant fait du messager un complice.,Carrying an insulting message makes the messenger an accomplice.,proverbs,,,,,,
-krd_002352_proverbs,,Umushitsi mwīzá arîzimāna.,Un visiteur prévenant apporte son propre plat à table.,A considerate visitor brings their own dish to the table.,proverbs,,,,,,
-krd_002353_action-verbs,,Umusi mukuru war'uryoshe.,La fête était amusante.,The party was fun.,action-verbs,,,,,,
-krd_002354_greetings,,Umusi mwiza!,Bonne journée!,Good day!,greetings,,,,,,
-krd_002355_time,,Umusi uhera 18h.,La journée se termine à 18h.,The day ends at 6 p.m.,time,,,,,,
-krd_002356_proverbs,,Umusóre umuhana aváyo ntúmuhána ajáyo.,"Permettez à votre enfant de suivre son chemin, même s'il est mauvais. À son retour, laissez les conséquences lui enseigner la leçon nécessaire.","Permit your child's path, even if it's wrong. Upon their return, let consequences teach the needed lesson.",proverbs,,,,,,
-krd_002357_general,,Umutegetsi yemeza kandi ko Amategeko akurikizwa.,Le dirigeant veille également à ce que la Loi soit respectée.,The manager also ensures that the Law is respected.,general,,,,,,
-krd_002358_proverbs,,Umutsíma w'Îmâna urya abarâmbije abarâmbiwe bátāshe.,Les patients goûtent la douceur des bénédictions de Dieu.,The patient ones taste the sweetness of God's blessings.,proverbs,,,,,,
-krd_002359_proverbs,clips/sound_proverb/prov046.mp3,Umutwe umwe ntiwigira inama,Deux mains valent mieux qu'une,Two hands are better than one,proverbs,,,,,,
-krd_002360_proverbs,,Umutwé umwé ntíwīgîra inâma.,Le jugement d'une personne sur elle-même est souvent voilé.,A person's judgment of themselves is often clouded.,proverbs,,,,,,
-krd_002361_proverbs,,Umutwé umwé wīfasha gusara ntíwīfásha gusaba.,Deux têtes valent mieux qu'une.,Two heads are better than one.,proverbs,,,,,,
-krd_002362_proverbs,,Umutwăre atwārira böse agatūngāniriza böse.,"Un leader dirige avec équité et égalité, non avec favoritisme.","A leader leads with fairness and equality, not favoritism.",proverbs,,,,,,
-krd_002363_proverbs,,Umutwăre ntâbá umwâna.,On ne devrait jamais juger un leader par son âge.,A leader should never be judged by their age.,proverbs,,,,,,
-krd_002364_proverbs,,Umutâga wīmukira ijoro.,Le jour fait place à la nuit.,The day makes room for the night.,proverbs,,,,,,
-krd_002365_proverbs,,Umutíma ntúgirá igúfa.,Un cœur n'a pas d'os.,A heart has no bones.,proverbs,,,,,,
-krd_002366_proverbs,,Umutíma ntûbá mwôro.,"Le cœur reste riche, toujours rempli de êtres chers.","The heart remains wealthy, filled with beloved ones always.",proverbs,,,,,,
-krd_002367_proverbs,,Umutíma uva ku mutsíma.,L'affection est arrosée par les cadeaux que nous partageons.,Affection is watered by the gifts we share.,proverbs,,,,,,
-krd_002368_proverbs,,Umutīndi ntákizá uwŭndi.,Quelqu'un accablé par la misère ne peut aider un autre dans la même situation.,Someone overwhelmed by misery cannot provide assistance to another in the same situation.,proverbs,,,,,,
-krd_002369_proverbs,,Umutīndi w'înká atuka uwayímutīje.,Un chien idiot mord la main qui le nourrit.,A foolish dog bites the hand that feeds it.,proverbs,,,,,,
-krd_002370_proverbs,,Umuvyêyi agaba ukó ashāká.,Les parents offrent des cadeaux selon leurs propres désirs.,Parents bestow gifts according to their own desires.,proverbs,,,,,,
-krd_002371_proverbs,,Umuvyêyi ahakurira ku rutaro akarīra ku rutoke.,Les parents profitent du peu qu'ils ont après avoir tout donné à leurs enfants.,Parents enjoy the little they have left after giving all to their children.,proverbs,,,,,,
-krd_002372_proverbs,,Umuvyêyi atarí nyoko agushīmira inda yā mbere.,La première grossesse pourrait vous valoir une immense gratitude de votre belle-mère.,The first pregnancy might earn you immense gratitude from your mother-in-law.,proverbs,,,,,,
-krd_002373_proverbs,,Umuyaga uba ari mwinshi banawita umuyaga w’impeshi.,Le vent est fort et on l’appelle vent de printemps.,The wind is strong and it is called spring wind.,proverbs,,,,,,
-krd_002374_adjectives,,Umuziki urakomeye cane.,La musique est trop forte.,The music is too loud.,adjectives,,,,,,
-krd_002375_proverbs,,Umuzímu urīra ku muzima.,L'essence spectrale du fantôme se nourrit de la vie des vivants.,The ghost's spectral essence feeds upon the life of the living.,proverbs,,,,,,
-krd_002376_action-verbs,,Umva musore,Ecoute mec,Listen man,action-verbs,,,,,,
-krd_002377_action-verbs,,Umviriza akaririmbo k'inyoni.,Écoute le chant des oiseaux.,Listen to the birdsong.,action-verbs,,,,,,
-krd_002378_action-verbs,,Umviriza uturirimbo tw'Inyoni.,Écoute le chant des oiseaux.,Listen to the birdsong.,action-verbs,,,,,,
-krd_002379_general,,Umwaka mushasha!,Bonne année!,Good year!,general,,,,,,
-krd_002380_general,,Umwaka mwiza,Bonne année!,Good year!,general,,,,,,
-krd_002381_vocabulary,,Umwaka umara amezi cumi n’abiri.,Une année se compose de douze mois.,A year is made up of twelve months.,vocabulary,,,,,,
-krd_002382_proverbs,,Umwami Ntare yari intwari yaguye imbibe z'Uburundi,"Le Roi Ntare était brave, Il a agrandi le territoire du Burundi","King Ntare was brave, he expanded the territory of Burundi",proverbs,,,,,,
-krd_002383_grammar,,Umwana agoye itegeka,un enfant difficile à commander,a child who is difficult to command,grammar,,,,,,
-krd_002384_action-verbs,,Umwana ararira.,Le bébé pleure.,The baby is crying.,action-verbs,,,,,,
-krd_002385_action-verbs,,Umwana ararize,Le bébé pleure.,The baby is crying.,action-verbs,,,,,,
-krd_002386_grammar,,Umwana wanje nyakuri mu kwizera,Mon véritable enfant dans la foi,My true child in the faith,grammar,,,,,,
-krd_002387_proverbs,clips/sound_proverb/prov001.mp3,"Umwansi agucira icobo, Imana ikagucira icanzo.","Lorsque l’ennemi creuse une tombe pour vous, Dieu vous donne une issue de secours.","When the enemy digs a grave for you, God gives you an emergency exit.",proverbs,,,,,,
-krd_002388_proverbs,,Umwâka w'ákănka ubúro burabûngwa.,"Face à l'adversité, tout s'effondre.","In the face of adversity, everything falls apart.",proverbs,,,,,,
-krd_002389_proverbs,,Umwâna ahora atînya ikára arítōye.,Un enfant brûlé craint le feu.,A burned child dreads the fire.,proverbs,,,,,,
-krd_002390_proverbs,,Umwâna akura i bŭse ntákurá i bŭnyina.,"La présence d'un père nourrit la force d'un enfant, et les soins d'une mère enveloppent leur cœur.","A father's presence nurtures a child's strength, and a mother's care envelops their heart .",proverbs,,,,,,
-krd_002391_proverbs,,Umwâna arahôngoka nyina akâsama.,"Dans le royaume de l'adversité, l'amour d'une mère est inébranlable.","In the realm of adversity, a mother's love is unwavering.",proverbs,,,,,,
-krd_002392_proverbs,,Umwâna arya inkóko nyina akayiruka amŏya.,"Les péchés des parents retombent sur eux-mêmes, mais les enfants ont profité du voyage.","The sins of parents fall upon themeselves, but the children enjoyed the ride.",proverbs,,,,,,
-krd_002393_proverbs,,Umwâna asa na nyina.,Un enfant porte la marque de sa mère.,A child bears the mark of their mothe.,proverbs,,,,,,
-krd_002394_proverbs,,Umwâna murizi ntátōrwá urutózi.,Celui qui crie au loup par jeu ne sera pas entendu quand le loup sera réel.,He who cries wolf in jest won't be heard when the wolf is real.,proverbs,,,,,,
-krd_002395_proverbs,,Umwâna ntáhābwá ubugabo arabwîhá.,"Pour être reconnu comme un homme, il faut le montrer par des actes.","To be recognized as a man, one must show it through deeds.",proverbs,,,,,,
-krd_002396_proverbs,,Umwâna ntíyānká kwŏnka nyina ngo arwāye amahere.,"Un enfant ne doit pas abandonner sa mère, même dans ses imperfections.","A child should not forsake their mother, even in her imperfections.",proverbs,,,,,,
-krd_002397_proverbs,,Umwâna ní umutwăre.,Les jeunes peuvent aussi être des leaders.,The young can be leaders too.,proverbs,,,,,,
-krd_002398_proverbs,,Umwâna ní uw'Úburŭndi.,Un enfant est un cadeau pour la nation.,A child is a gift to the nation.,proverbs,,,,,,
-krd_002399_proverbs,,Umwâna sí se.,"La pomme ne tombe pas loin de l'arbre, mais elle peut rouler dans une direction différente.","The apple doesn't fall far from the tree, but it may roll in a different direction.",proverbs,,,,,,
-krd_002400_proverbs,,Umwâna sí uw'ŭmwe.,Il faut tout un village pour élever un enfant.,It takes a village to raise a child.,proverbs,,,,,,
+",jokes,,,,,,,pending
+krd_002317_jokes,,Umukòóbwa wa rúguru ntushobóra kumwûmvisha kó uzí gufotora nêzá mugihe utumôga nêzá tw'ígihūmbi yari yìísīze ataríko aratwûmva kw'īfoto.,On ne peut pas convaincre une fille du village que l'on est photographe professionnel quand elle ne peut pas sentir le parfum bon marché qu'elle avait mis sur elle,You can't convince a village girl that you are a professional photographer when she can't smell the cheap perfume she had put on herself,jokes,,,,,,,pending
+krd_002318_proverbs,,Umukózi abērwa n'împêmbo.,Un travailleur assidu mérite un salaire équitable.,A diligent worker deserves a fair wage.,proverbs,,,,,,,pending
+krd_002319_proverbs,,Umukúru yōva iyό ubá.,Un leader devrait venir de la même cour.,A leader should come from the same backyard.,proverbs,,,,,,,pending
+krd_002320_proverbs,,Umukěngesha w'ímpōngo ayihīgīsha iróbe.,Essayer d'attraper une proie avec les mauvais outils est un signe clair de sous-estimation de la tâche à accomplir.,Trying to catch a prey with the wrong tools is a clear sign of underestimating the task at hand and not giving it the attention it deserves.,proverbs,,,,,,,pending
+krd_002321_proverbs,,Umukŏbwa akura kwā sêbukwé ntákurá kwā sé.,"Une fille mûrit pleinement chez ses beaux-parents, pas dans la maison de son père.","A daughter matures fully in her in-law's home, not in her father's house.",proverbs,,,,,,,pending
+krd_002322_vocabulary,,Umunara muremure wa Eiffel uratangaje.,La Tour Eiffel est magnifique.,The Eiffel Tower is magnificent.,vocabulary,,,,,,,pending
+krd_002323_emotions,,Umunsi w'amavuko mwiza!,Joyeux anniversaire!,Happy birthday!,emotions,,,,,,,pending
+krd_002324_grammar,,Umuntu umwe ashima umusi umwe kuwurutisha iyindi,Un homme estime un jour plus que les autres,One man esteems one day more than others,grammar,,,,,,,pending
+krd_002325_grammar,,Umuntu wese abatizwe mubone guharirwa ivyaha,Que tout le monde se fasse baptiser afin que vos péchés vous soient pardonnés,Let every one be baptized that you may be able to be forgiven your sins,grammar,,,,,,,pending
+krd_002326_proverbs,,Umuntu wese ategerezwa gukingira amatungo y’igihugu.,Tout le monde est censé protéger le biens du pays.,Everyone is supposed to protect the country's property.,proverbs,,,,,,,pending
+krd_002327_grammar,,"Umunyu, iy’ushize uburyohe, uba ukiryoshwa n’iki?","Si le sel a perdu sa saveur, il sera aromatisé avec quoi ?","If salt has lost its flavor, it would be flavored with what?”",grammar,,,,,,,pending
+krd_002328_grammar,,"Umupasitori ahanura abantu, araheza arabasezera","Le pasteur a réprimandé les gens, puis il leur a dit au revoir","The pastor admonished the people, then he bid them goodbye",grammar,,,,,,,pending
+krd_002329_proverbs,,Umupfú ntáburá uwumúpfunya.,Les disparus ne sont jamais sans assistants.,The departed are never without attendants.,proverbs,,,,,,,pending
+krd_002330_proverbs,,Umupfú ntíyīnûkira.,"Vous ne pouvez pas voir vos propres défauts, il faut que d'autres les pointent du doigt.","You can't see your own flaws, it takes others to point them out.",proverbs,,,,,,,pending
+krd_002331_vocabulary,,Umuriro mu ziko utanga amahoro.,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,,pending
+krd_002332_vocabulary,,Umuriro mubwotezo biraruhura,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,,pending
+krd_002333_vocabulary,,Umuriro urakwiye.,Le feu dans la cheminée est confortable.,The fire in the fireplace is cozy.,vocabulary,,,,,,,pending
+krd_002334_proverbs,,Umuryâmbwá aba umwé agatukīsha umuryāngo.,Les actions de l'un peuvent tacher l'honneur de toute la famille.,The actions of one can stain the honor of the whole family.,proverbs,,,,,,,pending
+krd_002335_proverbs,,Umuryāngo ntúbuzá umuryângo w'ínzu kuva.,"L'amour familial peut être fort, mais il ne peut pas toujours empêcher le mal à la maison.","A family's love may be strong, but it cannot always prevent wrong in the home.",proverbs,,,,,,,pending
+krd_002336_proverbs,,Umuryāngo uba ku muryângo.,La valeur de la famille se voit dans son soutien inébranlable.,Family's worth is seen in their unwavering support.,proverbs,,,,,,,pending
+krd_002337_proverbs,,Umuryāngo ujá guhóna ubāndwa wöse.,Trop de mains dans une marmite gâcheront la soupe.,Too many hands in a pot will spoil the soup.,proverbs,,,,,,,pending
+krd_002338_proverbs,,Umuryāngo umwé ntíwūríza umwămi umugwa.,Un seul clan ne peut porter le poids du progrès du roi.,A single clan cannot bear the weight of the king's progress.,proverbs,,,,,,,pending
+krd_002339_proverbs,,Umuryāngo uryānyé urarîka.,Une famille avec des conflits internes est vulnérable à la destruction.,A family with internal conflicts is vulnerable to destruction.,proverbs,,,,,,,pending
+krd_002340_proverbs,,Umuryāngo uryōha uryâna.,Les désaccords familiaux occasionnels renforcent le lien à long terme.,Occasional family disagreements make the bond stronger in the long run.,proverbs,,,,,,,pending
+krd_002341_proverbs,,Umuryāngo utaziríriza urazíma.,Une famille qui ne parvient pas à enseigner ce qu'il ne faut pas faire pourrait disparaître.,A family failing to teach the don'ts might face extinction.,proverbs,,,,,,,pending
+krd_002342_jokes,,"Umurùúndi aratêka ibifùúngurwa ,akabimarira mū nkóno.",Un Burundais pourrait continuer à grignoter la nourriture qu'il est en train de préparer.,A Burundian might continue munching on the food they're preparing.,jokes,,,,,,,pending
+krd_002343_jokes,,Umurùúndi: Kubita göse Inyuma ica ikóra,"- Un Burundais : ""Frappe fort à l'arrière, ça va marcher.""","- A Burundian: ""Hit it hard on the back, it will work.""",jokes,,,,,,,pending
+krd_002344_proverbs,,Umusavyi ntárutá shêbuja.,La main qui donne est au-dessus de la main qui reçoit.,The hand that gives is above the hand that receives.,proverbs,,,,,,,pending
+krd_002345_proverbs,,Umusavyi w'ûrwânko agabana n'íngoga.,"Cherchez des ennuis, et les ennuis vous trouveront.","Look for trouble, and trouble will find you.",proverbs,,,,,,,pending
+krd_002346_jokes,clips/jokes/h25.mp3,Umusaza ahuye n'inkumi ati amasho Vyansize!,"""Bonjour Madame, je-n'en peux plus !"" dit le vieil homme lorsqu'il rencontra une jeune fille.","""Hello, Mrs I-can't-anymore!"" said the old man when he met a young girl.",jokes,,,,,,,recorded
+krd_002347_jokes,clips/jokes/h39.mp3,Umusazi yasomeye amase n'amaganga ati s'umutsima s'imboga vyose ni hamwe!,"""Pas seulement la pâte mais même la sauce, tout ne fait qu'un"", comme disait le fou en absorbant du fumier saupoudré de fumier !","""Not only the dough but even the sauce, everything is one"", as the madman said while absorbing dung sprinkled with manure!",jokes,,,,,,,recorded
+krd_002348_proverbs,,Umusega uryāna ugáramye.,Un renard endormi ne attrape pas de volaille.,A sleeping fox catches no poultry.,proverbs,,,,,,,pending
+krd_002349_jokes,clips/jokes/h45.mp3,Umuserebanyi ku nzu uti iyo buca ngo nisenyere!,"""J'ai hâte qu'il fasse jour pour pouvoir tranquillement glaner du bois de chauffage"", comme disait le lézard qui paressait sur le toit de la cabane !","""I can't wait for it to be daylight so that I can quietly glean firewood,"" as the lizard lazing on the roof of the hut said!",jokes,,,,,,,recorded
+krd_002350_emotions,,Umushaha Wiwe warakomeretse.,Son âme a été blessé.,His soul was wounded.,emotions,,,,,,,pending
+krd_002351_proverbs,,Umushikíriza w'ígitútsi ní we mutúkanyi.,Porter un message insultant fait du messager un complice.,Carrying an insulting message makes the messenger an accomplice.,proverbs,,,,,,,pending
+krd_002352_proverbs,,Umushitsi mwīzá arîzimāna.,Un visiteur prévenant apporte son propre plat à table.,A considerate visitor brings their own dish to the table.,proverbs,,,,,,,pending
+krd_002353_action-verbs,,Umusi mukuru war'uryoshe.,La fête était amusante.,The party was fun.,action-verbs,,,,,,,pending
+krd_002354_greetings,,Umusi mwiza!,Bonne journée!,Good day!,greetings,,,,,,,pending
+krd_002355_time,,Umusi uhera 18h.,La journée se termine à 18h.,The day ends at 6 p.m.,time,,,,,,,pending
+krd_002356_proverbs,,Umusóre umuhana aváyo ntúmuhána ajáyo.,"Permettez à votre enfant de suivre son chemin, même s'il est mauvais. À son retour, laissez les conséquences lui enseigner la leçon nécessaire.","Permit your child's path, even if it's wrong. Upon their return, let consequences teach the needed lesson.",proverbs,,,,,,,pending
+krd_002357_general,,Umutegetsi yemeza kandi ko Amategeko akurikizwa.,Le dirigeant veille également à ce que la Loi soit respectée.,The manager also ensures that the Law is respected.,general,,,,,,,pending
+krd_002358_proverbs,,Umutsíma w'Îmâna urya abarâmbije abarâmbiwe bátāshe.,Les patients goûtent la douceur des bénédictions de Dieu.,The patient ones taste the sweetness of God's blessings.,proverbs,,,,,,,pending
+krd_002359_proverbs,clips/proverbs/prov046.mp3,Umutwe umwe ntiwigira inama,Deux mains valent mieux qu'une,Two hands are better than one,proverbs,,,,,,,recorded
+krd_002360_proverbs,,Umutwé umwé ntíwīgîra inâma.,Le jugement d'une personne sur elle-même est souvent voilé.,A person's judgment of themselves is often clouded.,proverbs,,,,,,,pending
+krd_002361_proverbs,,Umutwé umwé wīfasha gusara ntíwīfásha gusaba.,Deux têtes valent mieux qu'une.,Two heads are better than one.,proverbs,,,,,,,pending
+krd_002362_proverbs,,Umutwăre atwārira böse agatūngāniriza böse.,"Un leader dirige avec équité et égalité, non avec favoritisme.","A leader leads with fairness and equality, not favoritism.",proverbs,,,,,,,pending
+krd_002363_proverbs,,Umutwăre ntâbá umwâna.,On ne devrait jamais juger un leader par son âge.,A leader should never be judged by their age.,proverbs,,,,,,,pending
+krd_002364_proverbs,,Umutâga wīmukira ijoro.,Le jour fait place à la nuit.,The day makes room for the night.,proverbs,,,,,,,pending
+krd_002365_proverbs,,Umutíma ntúgirá igúfa.,Un cœur n'a pas d'os.,A heart has no bones.,proverbs,,,,,,,pending
+krd_002366_proverbs,,Umutíma ntûbá mwôro.,"Le cœur reste riche, toujours rempli de êtres chers.","The heart remains wealthy, filled with beloved ones always.",proverbs,,,,,,,pending
+krd_002367_proverbs,,Umutíma uva ku mutsíma.,L'affection est arrosée par les cadeaux que nous partageons.,Affection is watered by the gifts we share.,proverbs,,,,,,,pending
+krd_002368_proverbs,,Umutīndi ntákizá uwŭndi.,Quelqu'un accablé par la misère ne peut aider un autre dans la même situation.,Someone overwhelmed by misery cannot provide assistance to another in the same situation.,proverbs,,,,,,,pending
+krd_002369_proverbs,,Umutīndi w'înká atuka uwayímutīje.,Un chien idiot mord la main qui le nourrit.,A foolish dog bites the hand that feeds it.,proverbs,,,,,,,pending
+krd_002370_proverbs,,Umuvyêyi agaba ukó ashāká.,Les parents offrent des cadeaux selon leurs propres désirs.,Parents bestow gifts according to their own desires.,proverbs,,,,,,,pending
+krd_002371_proverbs,,Umuvyêyi ahakurira ku rutaro akarīra ku rutoke.,Les parents profitent du peu qu'ils ont après avoir tout donné à leurs enfants.,Parents enjoy the little they have left after giving all to their children.,proverbs,,,,,,,pending
+krd_002372_proverbs,,Umuvyêyi atarí nyoko agushīmira inda yā mbere.,La première grossesse pourrait vous valoir une immense gratitude de votre belle-mère.,The first pregnancy might earn you immense gratitude from your mother-in-law.,proverbs,,,,,,,pending
+krd_002373_proverbs,,Umuyaga uba ari mwinshi banawita umuyaga w’impeshi.,Le vent est fort et on l’appelle vent de printemps.,The wind is strong and it is called spring wind.,proverbs,,,,,,,pending
+krd_002374_adjectives,,Umuziki urakomeye cane.,La musique est trop forte.,The music is too loud.,adjectives,,,,,,,pending
+krd_002375_proverbs,,Umuzímu urīra ku muzima.,L'essence spectrale du fantôme se nourrit de la vie des vivants.,The ghost's spectral essence feeds upon the life of the living.,proverbs,,,,,,,pending
+krd_002376_action-verbs,,Umva musore,Ecoute mec,Listen man,action-verbs,,,,,,,pending
+krd_002377_action-verbs,,Umviriza akaririmbo k'inyoni.,Écoute le chant des oiseaux.,Listen to the birdsong.,action-verbs,,,,,,,pending
+krd_002378_action-verbs,,Umviriza uturirimbo tw'Inyoni.,Écoute le chant des oiseaux.,Listen to the birdsong.,action-verbs,,,,,,,pending
+krd_002379_general,,Umwaka mushasha!,Bonne année!,Good year!,general,,,,,,,pending
+krd_002380_general,,Umwaka mwiza,Bonne année!,Good year!,general,,,,,,,pending
+krd_002381_vocabulary,,Umwaka umara amezi cumi n’abiri.,Une année se compose de douze mois.,A year is made up of twelve months.,vocabulary,,,,,,,pending
+krd_002382_proverbs,,Umwami Ntare yari intwari yaguye imbibe z'Uburundi,"Le Roi Ntare était brave, Il a agrandi le territoire du Burundi","King Ntare was brave, he expanded the territory of Burundi",proverbs,,,,,,,pending
+krd_002383_grammar,,Umwana agoye itegeka,un enfant difficile à commander,a child who is difficult to command,grammar,,,,,,,pending
+krd_002384_action-verbs,,Umwana ararira.,Le bébé pleure.,The baby is crying.,action-verbs,,,,,,,pending
+krd_002385_action-verbs,,Umwana ararize,Le bébé pleure.,The baby is crying.,action-verbs,,,,,,,pending
+krd_002386_grammar,,Umwana wanje nyakuri mu kwizera,Mon véritable enfant dans la foi,My true child in the faith,grammar,,,,,,,pending
+krd_002387_proverbs,clips/proverbs/prov001.mp3,"Umwansi agucira icobo, Imana ikagucira icanzo.","Lorsque l’ennemi creuse une tombe pour vous, Dieu vous donne une issue de secours.","When the enemy digs a grave for you, God gives you an emergency exit.",proverbs,,,,,,,recorded
+krd_002388_proverbs,,Umwâka w'ákănka ubúro burabûngwa.,"Face à l'adversité, tout s'effondre.","In the face of adversity, everything falls apart.",proverbs,,,,,,,pending
+krd_002389_proverbs,,Umwâna ahora atînya ikára arítōye.,Un enfant brûlé craint le feu.,A burned child dreads the fire.,proverbs,,,,,,,pending
+krd_002390_proverbs,,Umwâna akura i bŭse ntákurá i bŭnyina.,"La présence d'un père nourrit la force d'un enfant, et les soins d'une mère enveloppent leur cœur.","A father's presence nurtures a child's strength, and a mother's care envelops their heart .",proverbs,,,,,,,pending
+krd_002391_proverbs,,Umwâna arahôngoka nyina akâsama.,"Dans le royaume de l'adversité, l'amour d'une mère est inébranlable.","In the realm of adversity, a mother's love is unwavering.",proverbs,,,,,,,pending
+krd_002392_proverbs,,Umwâna arya inkóko nyina akayiruka amŏya.,"Les péchés des parents retombent sur eux-mêmes, mais les enfants ont profité du voyage.","The sins of parents fall upon themeselves, but the children enjoyed the ride.",proverbs,,,,,,,pending
+krd_002393_proverbs,,Umwâna asa na nyina.,Un enfant porte la marque de sa mère.,A child bears the mark of their mothe.,proverbs,,,,,,,pending
+krd_002394_proverbs,,Umwâna murizi ntátōrwá urutózi.,Celui qui crie au loup par jeu ne sera pas entendu quand le loup sera réel.,He who cries wolf in jest won't be heard when the wolf is real.,proverbs,,,,,,,pending
+krd_002395_proverbs,,Umwâna ntáhābwá ubugabo arabwîhá.,"Pour être reconnu comme un homme, il faut le montrer par des actes.","To be recognized as a man, one must show it through deeds.",proverbs,,,,,,,pending
+krd_002396_proverbs,,Umwâna ntíyānká kwŏnka nyina ngo arwāye amahere.,"Un enfant ne doit pas abandonner sa mère, même dans ses imperfections.","A child should not forsake their mother, even in her imperfections.",proverbs,,,,,,,pending
+krd_002397_proverbs,,Umwâna ní umutwăre.,Les jeunes peuvent aussi être des leaders.,The young can be leaders too.,proverbs,,,,,,,pending
+krd_002398_proverbs,,Umwâna ní uw'Úburŭndi.,Un enfant est un cadeau pour la nation.,A child is a gift to the nation.,proverbs,,,,,,,pending
+krd_002399_proverbs,,Umwâna sí se.,"La pomme ne tombe pas loin de l'arbre, mais elle peut rouler dans une direction différente.","The apple doesn't fall far from the tree, but it may roll in a different direction.",proverbs,,,,,,,pending
+krd_002400_proverbs,,Umwâna sí uw'ŭmwe.,Il faut tout un village pour élever un enfant.,It takes a village to raise a child.,proverbs,,,,,,,pending

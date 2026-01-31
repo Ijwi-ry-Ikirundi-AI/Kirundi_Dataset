@@ -1,105 +1,105 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_000401_proverbs,,Bukêbuké bukomeza igihonyi.,"Pas à pas, on progresse.","Step by step, progress is made.",proverbs,,,,,,
-krd_000402_proverbs,,Bukêbuké bushikana umusíba ku mugezi.,Rome ne s'est pas construite en un jour.,Rome wasn't built in a day.,proverbs,,,,,,
-krd_000403_proverbs,,Bukêbuké ni rwó rugēndo.,"Pas à pas, le voyage se termine.","Step by step, the journey is completed.",proverbs,,,,,,
-krd_000404_emotions,,Buraruhura cane.,C'est très relaxant.,It's very relaxing.,emotions,,,,,,
-krd_000405_proverbs,,Buri kantu gato gafise akamaro.,Chaque petit geste compte.,Every little gesture counts.,proverbs,,,,,,
-krd_000406_proverbs,clips/sound_proverb/prov012.mp3,Burira ntibutera ku mpeshi.,La nuit ne dure qu'à la belle saison.,The night does not last until the good season.,proverbs,,,,,,
-krd_000407_geography,,Bururi ni intara yo mu bumanuko bw'igihugu c'Uburundi,Bururi est une province du sud du pays du Burundi,Bururi is a province in the south of the country of Burundi,geography,,,,,,
-krd_000408_proverbs,,Burya ikirundi si ururimi gusa,Le Kirundi n'est pas seulement qu'une langue,Kirundi is not just a language,proverbs,,,,,,
-krd_000409_grammar,,"Buzoca, mugire muti: Iyo bwira!",Le matin tu diras : Si seulement il faisait nuit !,In the morning you will say: If only it were night!,grammar,,,,,,
-krd_000410_grammar,,Bwakeye ga Bwana!,Bonjour Monsieur!,"Good morning, Sir!",grammar,,,,,,
-krd_000411_proverbs,,Bwākêye ntíbuzá uwukwânka.,Saluer un ennemi ne fait pas fondre son cœur.,Offering greetings to a foe doesn't melt their heart.,proverbs,,,,,,
-krd_000412_jokes,,"Bágīye kugura ikīntu, umudàándaza arashóbora kubábwīra ibihumbi mirongo itanu, nabó bakamuha ibihūmbi bitatu, kàándi báshimitse.","Quand elles vont acheter quelque chose et que le vendeur annonce le prix à cinquante mille, elles n'hésitent pas à négocier jusqu'à cinq mille. Et elles peuvent être tout à fait sérieuses à ce sujet.","When they go to buy something and the seller quotes the price as fifty thousand, they confidently negotiate it down to five thousand. And they can be dead serious about it.",jokes,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_000401_proverbs,,Bukêbuké bukomeza igihonyi.,"Pas à pas, on progresse.","Step by step, progress is made.",proverbs,,,,,,,pending
+krd_000402_proverbs,,Bukêbuké bushikana umusíba ku mugezi.,Rome ne s'est pas construite en un jour.,Rome wasn't built in a day.,proverbs,,,,,,,pending
+krd_000403_proverbs,,Bukêbuké ni rwó rugēndo.,"Pas à pas, le voyage se termine.","Step by step, the journey is completed.",proverbs,,,,,,,pending
+krd_000404_emotions,,Buraruhura cane.,C'est très relaxant.,It's very relaxing.,emotions,,,,,,,pending
+krd_000405_proverbs,,Buri kantu gato gafise akamaro.,Chaque petit geste compte.,Every little gesture counts.,proverbs,,,,,,,pending
+krd_000406_proverbs,clips/proverbs/prov012.mp3,Burira ntibutera ku mpeshi.,La nuit ne dure qu'à la belle saison.,The night does not last until the good season.,proverbs,,,,,,,recorded
+krd_000407_geography,,Bururi ni intara yo mu bumanuko bw'igihugu c'Uburundi,Bururi est une province du sud du pays du Burundi,Bururi is a province in the south of the country of Burundi,geography,,,,,,,pending
+krd_000408_proverbs,,Burya ikirundi si ururimi gusa,Le Kirundi n'est pas seulement qu'une langue,Kirundi is not just a language,proverbs,,,,,,,pending
+krd_000409_grammar,,"Buzoca, mugire muti: Iyo bwira!",Le matin tu diras : Si seulement il faisait nuit !,In the morning you will say: If only it were night!,grammar,,,,,,,pending
+krd_000410_grammar,,Bwakeye ga Bwana!,Bonjour Monsieur!,"Good morning, Sir!",grammar,,,,,,,pending
+krd_000411_proverbs,,Bwākêye ntíbuzá uwukwânka.,Saluer un ennemi ne fait pas fondre son cœur.,Offering greetings to a foe doesn't melt their heart.,proverbs,,,,,,,pending
+krd_000412_jokes,,"Bágīye kugura ikīntu, umudàándaza arashóbora kubábwīra ibihumbi mirongo itanu, nabó bakamuha ibihūmbi bitatu, kàándi báshimitse.","Quand elles vont acheter quelque chose et que le vendeur annonce le prix à cinquante mille, elles n'hésitent pas à négocier jusqu'à cinq mille. Et elles peuvent être tout à fait sérieuses à ce sujet.","When they go to buy something and the seller quotes the price as fifty thousand, they confidently negotiate it down to five thousand. And they can be dead serious about it.",jokes,,,,,,,pending
 krd_000413_jokes,,"Bèénshi bákiri abâna, hari ijāmbo ryàábakūramwó umutíma
 Māwé: Impa yâ maherá wagárukana ejó kw'ībútìíke.","Il y a une phrase de l'enfance qui donne encore des frissons.""
 Maman : ""Remets l'argent qui reste de la mission d'épicerie d'hier.""","There's a sentence from childhood that still sends shivers down the spine.
-Mom: ""Hand over the leftover cash from yesterday's grocery mission.""",jokes,,,,,,
-krd_000414_proverbs,,Bā Bwênge bări babiri umwé arapfá.,"Deux esprits astucieux ont commencé le voyage, mais un seul est parti.","Two clever minds started the journey, but only one left.",proverbs,,,,,,
-krd_000415_jokes,,"Bā mâwé bâcu bônyené nibó bashobóra kukurūngikira ubutumwá bw'ámajwí  kugíra bakubwìíre ""Sawá""",Seules nos mamans peuvent envoyer un message audio juste pour dire 'Ok.',Only our moms can send an audio message just to say 'Ok.',jokes,,,,,,
-krd_000416_proverbs,,Běne Imâna baruta běne imâri.,La richesse de la foi est plus grande que les possessions matérielles.,The wealth of faith is greater than material possessions.,proverbs,,,,,,
-krd_000417_proverbs,,Běne vyó ni bó běne inămbu.,L'abondance engendre les désirs les plus vifs.,Abundance breeds the keenest cravings.,proverbs,,,,,,
-krd_000418_action-verbs,,Ca ngaha !,Par ici !,This way!,action-verbs,,,,,,
-krd_000419_geography,,Cankuzo ni igisagara kimwe mubisagara bigize Uburundi,Cankuzo est l'une des villes du Burundi.,Cankuzo is one of the cities of Burundi.,geography,,,,,,
-krd_000420_proverbs,,"Data na mama bagiye gukora, Bayaga aherekeje keza","Papa et Maman vont travailler, Bayaga accompagne Keza","Mom and Dad go to work, Bayaga accompanies Keza",proverbs,,,,,,
-krd_000421_action-verbs,,Data ni umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,
-krd_000422_action-verbs,,Data wanje ni umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,
-krd_000423_action-verbs,,Dawe wanje ni Umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,
-krd_000424_grammar,,Duhuriye hehe ga Yesu Munyanazareti?,"Qu’avons-nous en commun, toi Jésus de Nazareth ?","What have we in common, you Jesus of Nazareth?",grammar,,,,,,
-krd_000425_action-verbs,,Dukwiye gutangura ubu nyene.,Nous devons agir maintenant.,We must act now.,action-verbs,,,,,,
-krd_000426_action-verbs,,Dusabwa gufata ingingo.,Nous devons prendre une décision.,We have to make a decision.,action-verbs,,,,,,
-krd_000427_general,,Dusubiye kwemeza ko twemera gushira imbere amahoro.,Nous réaffirmons notre engagement en faveur de la paix.,We reaffirm our commitment to peace.,general,,,,,,
-krd_000428_action-verbs,,Dutambuka buhorobuhoro.,Nous marchons lentement.,We walk slowly.,action-verbs,,,,,,
-krd_000429_action-verbs,,Dutambuka bukebuke.,Nous marchons lentement.,We walk slowly.,action-verbs,,,,,,
-krd_000430_action-verbs,,Dutangure Inama.,Commençons la réunion.,Let's start the meeting.,action-verbs,,,,,,
-krd_000431_proverbs,,Dutegerezwa gukingira ibidukikije,Nous devons protéger l'environnement.,We must protect the environment.,proverbs,,,,,,
-krd_000432_action-verbs,,Dutegerezwa gutezimbere igisata cacu,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,
-krd_000433_action-verbs,,Dutegerezwa kubishitsa ubunyene.,Nous devons agir maintenant.,We must act now.,action-verbs,,,,,,
-krd_000434_action-verbs,,Dutegerezwa kugenda kare,Nous devons partir tôt.,We have to leave early.,action-verbs,,,,,,
-krd_000435_grammar,,Ejo nzozanana ni abakozi babatu,Demain je me retrouverai avec trois ouvriers,Tomorrow I’ll come together with three workmen,grammar,,,,,,
-krd_000436_grammar,,Ejo uzorima? Sinkarime!,Tu vas biner demain ? Je ne le ferai certainement pas !,Will you hoe tomorrow? I certainly will not!,grammar,,,,,,
-krd_000437_jokes,,Ejó mu gatôndo tuzōzīnduka twôngereza amaherá y'ínzu.,"Demain matin, nous prévoyons une augmentation de loyer.","Tomorrow morning, we're planning a rent increase.",jokes,,,,,,
-krd_000438_jokes,,"Ejó muzôzīndúke múja kurōndera ahàándi mujá kubá, umukûnzi wānje yambwīye kó isí yöse arí iy'íwàácu túri babiri gusa.","Demain, vous devez trouver un autre endroit où vivre. Mon petit ami vient de m'informer que la terre est enfin pour nous.","Tomorrow, you guys need to find another planet to live on. My boyfriend just promised me that the earth is finally ours.",jokes,,,,,,
-krd_000439_jokes,,"Ejó nabwîye māwé kó ndíko nūmva inzara, aca ambwīra ngo nzibíre amatwí nca ndéka kuyûmva.","J'ai raconté à mon chat que je pouvais entendre son ronronnement trop fort. Il m'a regardé avec dédain, comme pour dire : 'Gère tes oreilles, humain.","I told my cat that I could hear her purring too loudly. He looked at me with disdain, as if to say, 'Manage your ears, human.",jokes,,,,,,
+Mom: ""Hand over the leftover cash from yesterday's grocery mission.""",jokes,,,,,,,pending
+krd_000414_proverbs,,Bā Bwênge bări babiri umwé arapfá.,"Deux esprits astucieux ont commencé le voyage, mais un seul est parti.","Two clever minds started the journey, but only one left.",proverbs,,,,,,,pending
+krd_000415_jokes,,"Bā mâwé bâcu bônyené nibó bashobóra kukurūngikira ubutumwá bw'ámajwí  kugíra bakubwìíre ""Sawá""",Seules nos mamans peuvent envoyer un message audio juste pour dire 'Ok.',Only our moms can send an audio message just to say 'Ok.',jokes,,,,,,,pending
+krd_000416_proverbs,,Běne Imâna baruta běne imâri.,La richesse de la foi est plus grande que les possessions matérielles.,The wealth of faith is greater than material possessions.,proverbs,,,,,,,pending
+krd_000417_proverbs,,Běne vyó ni bó běne inămbu.,L'abondance engendre les désirs les plus vifs.,Abundance breeds the keenest cravings.,proverbs,,,,,,,pending
+krd_000418_action-verbs,,Ca ngaha !,Par ici !,This way!,action-verbs,,,,,,,pending
+krd_000419_geography,,Cankuzo ni igisagara kimwe mubisagara bigize Uburundi,Cankuzo est l'une des villes du Burundi.,Cankuzo is one of the cities of Burundi.,geography,,,,,,,pending
+krd_000420_proverbs,,"Data na mama bagiye gukora, Bayaga aherekeje keza","Papa et Maman vont travailler, Bayaga accompagne Keza","Mom and Dad go to work, Bayaga accompanies Keza",proverbs,,,,,,,pending
+krd_000421_action-verbs,,Data ni umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,,pending
+krd_000422_action-verbs,,Data wanje ni umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,,pending
+krd_000423_action-verbs,,Dawe wanje ni Umurimyi.,Mon père est agriculteur.,My father is a farmer.,action-verbs,,,,,,,pending
+krd_000424_grammar,,Duhuriye hehe ga Yesu Munyanazareti?,"Qu’avons-nous en commun, toi Jésus de Nazareth ?","What have we in common, you Jesus of Nazareth?",grammar,,,,,,,pending
+krd_000425_action-verbs,,Dukwiye gutangura ubu nyene.,Nous devons agir maintenant.,We must act now.,action-verbs,,,,,,,pending
+krd_000426_action-verbs,,Dusabwa gufata ingingo.,Nous devons prendre une décision.,We have to make a decision.,action-verbs,,,,,,,pending
+krd_000427_general,,Dusubiye kwemeza ko twemera gushira imbere amahoro.,Nous réaffirmons notre engagement en faveur de la paix.,We reaffirm our commitment to peace.,general,,,,,,,pending
+krd_000428_action-verbs,,Dutambuka buhorobuhoro.,Nous marchons lentement.,We walk slowly.,action-verbs,,,,,,,pending
+krd_000429_action-verbs,,Dutambuka bukebuke.,Nous marchons lentement.,We walk slowly.,action-verbs,,,,,,,pending
+krd_000430_action-verbs,,Dutangure Inama.,Commençons la réunion.,Let's start the meeting.,action-verbs,,,,,,,pending
+krd_000431_proverbs,,Dutegerezwa gukingira ibidukikije,Nous devons protéger l'environnement.,We must protect the environment.,proverbs,,,,,,,pending
+krd_000432_action-verbs,,Dutegerezwa gutezimbere igisata cacu,Nous devons améliorer notre service.,We need to improve our service.,action-verbs,,,,,,,pending
+krd_000433_action-verbs,,Dutegerezwa kubishitsa ubunyene.,Nous devons agir maintenant.,We must act now.,action-verbs,,,,,,,pending
+krd_000434_action-verbs,,Dutegerezwa kugenda kare,Nous devons partir tôt.,We have to leave early.,action-verbs,,,,,,,pending
+krd_000435_grammar,,Ejo nzozanana ni abakozi babatu,Demain je me retrouverai avec trois ouvriers,Tomorrow I’ll come together with three workmen,grammar,,,,,,,pending
+krd_000436_grammar,,Ejo uzorima? Sinkarime!,Tu vas biner demain ? Je ne le ferai certainement pas !,Will you hoe tomorrow? I certainly will not!,grammar,,,,,,,pending
+krd_000437_jokes,,Ejó mu gatôndo tuzōzīnduka twôngereza amaherá y'ínzu.,"Demain matin, nous prévoyons une augmentation de loyer.","Tomorrow morning, we're planning a rent increase.",jokes,,,,,,,pending
+krd_000438_jokes,,"Ejó muzôzīndúke múja kurōndera ahàándi mujá kubá, umukûnzi wānje yambwīye kó isí yöse arí iy'íwàácu túri babiri gusa.","Demain, vous devez trouver un autre endroit où vivre. Mon petit ami vient de m'informer que la terre est enfin pour nous.","Tomorrow, you guys need to find another planet to live on. My boyfriend just promised me that the earth is finally ours.",jokes,,,,,,,pending
+krd_000439_jokes,,"Ejó nabwîye māwé kó ndíko nūmva inzara, aca ambwīra ngo nzibíre amatwí nca ndéka kuyûmva.","J'ai raconté à mon chat que je pouvais entendre son ronronnement trop fort. Il m'a regardé avec dédain, comme pour dire : 'Gère tes oreilles, humain.","I told my cat that I could hear her purring too loudly. He looked at me with disdain, as if to say, 'Manage your ears, human.",jokes,,,,,,,pending
 krd_000440_jokes,,Ejó twàári mu mùúsi mukurú n'úmugēnzi wānje twâborewe.,"Hier, mon ami et moi avons bien bu à une fête. 
-","Yesterday, my friend and I got quite drunk at a party. ",jokes,,,,,,
-krd_000441_grammar,,Eka na mba!,pas du tout!,not a bit!,grammar,,,,,,
-krd_000442_grammar,,Erega iyo tuba twapfumye tuguma hakurya!,Si seulement nous avions accepté de rester de l’autre côté !,If only we had been willing to stay on the other side!,grammar,,,,,,
-krd_000443_proverbs,,"Ese Gisanumwavu ngo aratwenze! Amenyo umengo ni yo atonoza ibitoke. Aguhumekeyeko, wota ukiruka.",Eeh quand Gisanumwavu souris! On dirait que ses dents épluchent les bananes. Et tu pourrais t'enfuir quand tu sens son haleine,Eeh when Gisanumwavu smiles! His teeth look like they're peeling bananas. And you might run away when you smell his breath,proverbs,,,,,,
-krd_000444_proverbs,,Ewe Bayaga urabazagiza,"Ô Bayaga, tu aimé posé des questions","O Bayaga, you liked to ask questions",proverbs,,,,,,
-krd_000445_action-verbs,,"Ewe, Ntega ugutwi.","Mec, écoute-moi.","Dude, listen to me.",action-verbs,,,,,,
-krd_000446_action-verbs,,Fata iyi ngendeshwa rusangi.,Prenez ce bus.,Take this bus.,action-verbs,,,,,,
-krd_000447_action-verbs,,Fata iyo ngendeshwa.,Prenez ce bus.,Take this bus.,action-verbs,,,,,,
-krd_000448_advice,,Fata umwanya ugomba.,Prends ton temps.,Take your time.,advice,,,,,,
-krd_000449_advice,,Fata umwanya wawe.,Prends ton temps.,Take your time.,advice,,,,,,
-krd_000450_proverbs,,Gatό karakúra.,Même le plus petit poisson peut devenir un géant dans l'océan.,Even the smallest fish can grow into a giant in the ocean.,proverbs,,,,,,
-krd_000451_action-verbs,,Genda kuryama,Va dormir,Go to sleep,action-verbs,,,,,,
-krd_000452_grammar,,"Genda ubibwire Yohana, kibuze umuhamagare aze ino","Va en parler à John, ou bien appelle-le pour qu'il vienne ici","Go tell John about it, or else call him to come here",grammar,,,,,,
-krd_000453_idioms,,Gerageza kudasesagura.,Essaient de ne pas le gaspiller.,Try not to waste it.,idioms,,,,,,
-krd_000454_geography,,Gitega ni intara iri hagati mu gihugu c’Uburundi,Gitega est une province au milieu du Burundi,Gitega is a province in the middle of Burundi,geography,,,,,,
-krd_000455_proverbs,,Gucá bugúfi bica inzira ntíbicá umugôngo.,"L'humilité ouvre les portes à de plus grandes opportunités, pas l'humiliation.","Humility opens doors to greater opportunities, not humiliation.",proverbs,,,,,,
-krd_000456_proverbs,,Gucá mu zîko ní ukunyáruka.,"Face à un défi, agissez rapidement pour éviter d'autres complications.","When facing a challenge, act swiftly to avoid further complications.",proverbs,,,,,,
-krd_000457_jokes,,Gusa iyó ndōnsé amaherá nsubīra kwībuka yâ migàámbi arí ukó ahezé.," Cependant, lorsque l'argent arrive, je ne me souviens de ce plan qu'une fois qu'il est épuisé.","However, when the money comes, I only seem to recall that plan once it's all finished.",jokes,,,,,,
-krd_000458_proverbs,,Gushika kugihe ni nkenerwa.,La ponctualité est importante.,Punctuality is important.,proverbs,,,,,,
-krd_000459_proverbs,,Gusubiramwo ivyapfuye ni nkenerwa.,Recycler est important.,Recycling is important.,proverbs,,,,,,
-krd_000460_proverbs,,Gute ushobora gukora ibi?,Comment oses- tu?,How dare you?,proverbs,,,,,,
-krd_000461_proverbs,,Gutāha gutūnga umugabo.,Revenir dans l'étreinte de la maison ravive l'esprit d'un homme.,Coming back to the embrace of home revives a man's spirit.,proverbs,,,,,,
-krd_000462_proverbs,,Ha kunigwa n'ijambo wonigwa n'uwo uribwiye.,"Soyez assez courageux pour partager vos opinions, même si cela conduit à la confrontation.","Be brave enough to share your opinions, even if it leads to confrontation.",proverbs,,,,,,
-krd_000463_vocabulary,,Haba harimwo n’imiburiburi ibice mirongo itatu ku Ijana vy’abagore.,Il y en a environ trente pour cent de femmes.,There are around thirty percent women.,vocabulary,,,,,,
-krd_000464_grammar,,Habaye iki?,ce qui s'est passé?,what happened?,grammar,,,,,,
-krd_000465_proverbs,,Habaye isanganya.,Il y a eu un accident.,There has been an accident.,proverbs,,,,,,
-krd_000466_proverbs,,Haguma umwămi ingoma irabāzwa.,"La véritable défense d'un royaume réside dans la force de son roi, non dans les boucliers fabriqués à la main.","A kingdom's true defense lies in the strength of its king, not in shields crafted by hands.",proverbs,,,,,,
-krd_000467_grammar,,"Hagumyeho ukwizera n’ivyizigiro n’urukundo, ivyo uko ari bitatu","Restent la foi, l'espérance et l'amour, ceux-là étant trois","There remain faith, hope and love, those being three",grammar,,,,,,
-krd_000468_general,,Haguye imvura nyinshi.,Il pleut très fort.,It's raining very hard.,general,,,,,,
-krd_000469_grammar,,"Haheze imisi mikeya, twagiye i Bugande",Après quelques jours nous sommes allés en Ouganda,After a few days we went to Uganda,grammar,,,,,,
-krd_000470_grammar,,Haheze umwaka tuzogaruka,"Après un an, nous reviendrons",After a year we will return,grammar,,,,,,
-krd_000471_grammar,,Haje abantu bangahe? Ibiri na babiri,Combien de personnes sont venues ? Vingt-deux,How many people came? Twenty-two,grammar,,,,,,
-krd_000472_grammar,,Haje abantu batari bamwe,Il y avait pas mal de monde,There came quite a few people,grammar,,,,,,
-krd_000473_idioms,,Hakosha umuntu.,L'erreur est humaine.,To err is human.,idioms,,,,,,
-krd_000474_grammar,,"Hamagara abakobwa, be n’abahungu na bo","Appelle les filles, et les garçons aussi","Call the girls, and the boys as well",grammar,,,,,,
-krd_000475_action-verbs,,Hamagara ubutabazi.,Appelez la police!,Call the police!,action-verbs,,,,,,
-krd_000476_grammar,,"Hamwe twakubona, wari uja hehe?","Quand on t'a vu, où allais-tu ?","When we saw you, where wereyou going?",grammar,,,,,,
-krd_000477_grammar,,Hamwe wamubona ejo yari agiye i Gitega,Quand tu l'as vu hier il venait de partir à Gitega,When you saw him yesterday he had just gone to Gitega,grammar,,,,,,
-krd_000478_general,,Hangwe umuriro,Au feu!,Fire!,general,,,,,,
-krd_000479_vocabulary,,Hano hari Indogoba nyinshi.,Il y a beaucoup de cheval ici.,There are many horse here.,vocabulary,,,,,,
-krd_000480_vocabulary,,Hano hari Ingo nyinshi.,Il y a beaucoup de foyer ici.,There are many fireplace here.,vocabulary,,,,,,
-krd_000481_vocabulary,,Hano hari ibifyera vyinshi.,Il y a beaucoup de escargot ici.,There are many snail here.,vocabulary,,,,,,
-krd_000482_vocabulary,,Hano hari imbogo nyinshi.,Il y a beaucoup de buffle ici.,There are many buffalo here.,vocabulary,,,,,,
-krd_000483_vocabulary,,Hano hari imikate myinshi.,Il y a beaucoup de pain ici.,There are many bread here.,vocabulary,,,,,,
-krd_000484_vocabulary,,Hano hari imisumbarembe myinshi.,Il y a beaucoup de girafe ici.,There are many giraffe here.,vocabulary,,,,,,
-krd_000485_vocabulary,,Hano hari imodoka nyinshi.,Il y a beaucoup de voiture ici.,There are many car here.,vocabulary,,,,,,
-krd_000486_vocabulary,,Hano hari imvubu nyinshi.,Il y a beaucoup de hippopotame ici.,There are many hipopotamus here.,vocabulary,,,,,,
-krd_000487_vocabulary,,Hano hari ingamiya nyinshi.,Il y a beaucoup de chameau ici.,There are many camel here.,vocabulary,,,,,,
-krd_000488_vocabulary,,Hano hari ingurube nyinshi.,Il y a beaucoup de cochon ici.,There are many pig here.,vocabulary,,,,,,
-krd_000489_vocabulary,,Hano hari intore nyinshi.,Il y a beaucoup de aubergine ici.,There are many eggplant here.,vocabulary,,,,,,
-krd_000490_vocabulary,,Hano hari inyoni nyinshi.,Il y a beaucoup d'oiseaux par ici.,There are many birds here.,vocabulary,,,,,,
-krd_000491_vocabulary,,Hano hari isaha nyinshi.,Il y a beaucoup de horloge ici.,There are many clock here.,vocabulary,,,,,,
-krd_000492_vocabulary,,Hano hari isazi nyinshi.,Il y a beaucoup de mouche ici.,There are many fly here.,vocabulary,,,,,,
-krd_000493_vocabulary,,Hano hariho ibizinu vyinshi.,Il y a beaucoup de champignon ici.,There are many mushroom here.,vocabulary,,,,,,
-krd_000494_vocabulary,,Hano hariho ikaroti nyinshi.,Il y a beaucoup de carotte ici.,There are many carrot here.,vocabulary,,,,,,
-krd_000495_proverbs,,"Hano iwacu mu Burundi, twarahiriwe","Ici au Burundi, nous avons la chance","Here in Burundi, we are lucky",proverbs,,,,,,
-krd_000496_proverbs,,Hapfa uwavûtse.,Tout le monde mourra.,Everyone will die.,proverbs,,,,,,
-krd_000497_proverbs,,Hari abana bavuka bakabura ba Se.,Il y a des enfants qui naissent et perdent leur pères.,There are children who are born and lose their fathers.,proverbs,,,,,,
-krd_000498_action-verbs,,Harakanye cane iki gitondo.,Il fait froid ce matin.,It's cold this morning.,action-verbs,,,,,,
-krd_000499_action-verbs,,Harakanye kano gatondo.,Il fait froid ce matin.,It's cold this morning.,action-verbs,,,,,,
-krd_000500_adjectives,,Harashushe cane uyu musi.,Il fait très chaud aujourd'hui.,Today it's very hot.,adjectives,,,,,,
+","Yesterday, my friend and I got quite drunk at a party. ",jokes,,,,,,,pending
+krd_000441_grammar,,Eka na mba!,pas du tout!,not a bit!,grammar,,,,,,,pending
+krd_000442_grammar,,Erega iyo tuba twapfumye tuguma hakurya!,Si seulement nous avions accepté de rester de l’autre côté !,If only we had been willing to stay on the other side!,grammar,,,,,,,pending
+krd_000443_proverbs,,"Ese Gisanumwavu ngo aratwenze! Amenyo umengo ni yo atonoza ibitoke. Aguhumekeyeko, wota ukiruka.",Eeh quand Gisanumwavu souris! On dirait que ses dents épluchent les bananes. Et tu pourrais t'enfuir quand tu sens son haleine,Eeh when Gisanumwavu smiles! His teeth look like they're peeling bananas. And you might run away when you smell his breath,proverbs,,,,,,,pending
+krd_000444_proverbs,,Ewe Bayaga urabazagiza,"Ô Bayaga, tu aimé posé des questions","O Bayaga, you liked to ask questions",proverbs,,,,,,,pending
+krd_000445_action-verbs,,"Ewe, Ntega ugutwi.","Mec, écoute-moi.","Dude, listen to me.",action-verbs,,,,,,,pending
+krd_000446_action-verbs,,Fata iyi ngendeshwa rusangi.,Prenez ce bus.,Take this bus.,action-verbs,,,,,,,pending
+krd_000447_action-verbs,,Fata iyo ngendeshwa.,Prenez ce bus.,Take this bus.,action-verbs,,,,,,,pending
+krd_000448_advice,,Fata umwanya ugomba.,Prends ton temps.,Take your time.,advice,,,,,,,pending
+krd_000449_advice,,Fata umwanya wawe.,Prends ton temps.,Take your time.,advice,,,,,,,pending
+krd_000450_proverbs,,Gatό karakúra.,Même le plus petit poisson peut devenir un géant dans l'océan.,Even the smallest fish can grow into a giant in the ocean.,proverbs,,,,,,,pending
+krd_000451_action-verbs,,Genda kuryama,Va dormir,Go to sleep,action-verbs,,,,,,,pending
+krd_000452_grammar,,"Genda ubibwire Yohana, kibuze umuhamagare aze ino","Va en parler à John, ou bien appelle-le pour qu'il vienne ici","Go tell John about it, or else call him to come here",grammar,,,,,,,pending
+krd_000453_idioms,,Gerageza kudasesagura.,Essaient de ne pas le gaspiller.,Try not to waste it.,idioms,,,,,,,pending
+krd_000454_geography,,Gitega ni intara iri hagati mu gihugu c’Uburundi,Gitega est une province au milieu du Burundi,Gitega is a province in the middle of Burundi,geography,,,,,,,pending
+krd_000455_proverbs,,Gucá bugúfi bica inzira ntíbicá umugôngo.,"L'humilité ouvre les portes à de plus grandes opportunités, pas l'humiliation.","Humility opens doors to greater opportunities, not humiliation.",proverbs,,,,,,,pending
+krd_000456_proverbs,,Gucá mu zîko ní ukunyáruka.,"Face à un défi, agissez rapidement pour éviter d'autres complications.","When facing a challenge, act swiftly to avoid further complications.",proverbs,,,,,,,pending
+krd_000457_jokes,,Gusa iyó ndōnsé amaherá nsubīra kwībuka yâ migàámbi arí ukó ahezé.," Cependant, lorsque l'argent arrive, je ne me souviens de ce plan qu'une fois qu'il est épuisé.","However, when the money comes, I only seem to recall that plan once it's all finished.",jokes,,,,,,,pending
+krd_000458_proverbs,,Gushika kugihe ni nkenerwa.,La ponctualité est importante.,Punctuality is important.,proverbs,,,,,,,pending
+krd_000459_proverbs,,Gusubiramwo ivyapfuye ni nkenerwa.,Recycler est important.,Recycling is important.,proverbs,,,,,,,pending
+krd_000460_proverbs,,Gute ushobora gukora ibi?,Comment oses- tu?,How dare you?,proverbs,,,,,,,pending
+krd_000461_proverbs,,Gutāha gutūnga umugabo.,Revenir dans l'étreinte de la maison ravive l'esprit d'un homme.,Coming back to the embrace of home revives a man's spirit.,proverbs,,,,,,,pending
+krd_000462_proverbs,,Ha kunigwa n'ijambo wonigwa n'uwo uribwiye.,"Soyez assez courageux pour partager vos opinions, même si cela conduit à la confrontation.","Be brave enough to share your opinions, even if it leads to confrontation.",proverbs,,,,,,,pending
+krd_000463_vocabulary,,Haba harimwo n’imiburiburi ibice mirongo itatu ku Ijana vy’abagore.,Il y en a environ trente pour cent de femmes.,There are around thirty percent women.,vocabulary,,,,,,,pending
+krd_000464_grammar,,Habaye iki?,ce qui s'est passé?,what happened?,grammar,,,,,,,pending
+krd_000465_proverbs,,Habaye isanganya.,Il y a eu un accident.,There has been an accident.,proverbs,,,,,,,pending
+krd_000466_proverbs,,Haguma umwămi ingoma irabāzwa.,"La véritable défense d'un royaume réside dans la force de son roi, non dans les boucliers fabriqués à la main.","A kingdom's true defense lies in the strength of its king, not in shields crafted by hands.",proverbs,,,,,,,pending
+krd_000467_grammar,,"Hagumyeho ukwizera n’ivyizigiro n’urukundo, ivyo uko ari bitatu","Restent la foi, l'espérance et l'amour, ceux-là étant trois","There remain faith, hope and love, those being three",grammar,,,,,,,pending
+krd_000468_general,,Haguye imvura nyinshi.,Il pleut très fort.,It's raining very hard.,general,,,,,,,pending
+krd_000469_grammar,,"Haheze imisi mikeya, twagiye i Bugande",Après quelques jours nous sommes allés en Ouganda,After a few days we went to Uganda,grammar,,,,,,,pending
+krd_000470_grammar,,Haheze umwaka tuzogaruka,"Après un an, nous reviendrons",After a year we will return,grammar,,,,,,,pending
+krd_000471_grammar,,Haje abantu bangahe? Ibiri na babiri,Combien de personnes sont venues ? Vingt-deux,How many people came? Twenty-two,grammar,,,,,,,pending
+krd_000472_grammar,,Haje abantu batari bamwe,Il y avait pas mal de monde,There came quite a few people,grammar,,,,,,,pending
+krd_000473_idioms,,Hakosha umuntu.,L'erreur est humaine.,To err is human.,idioms,,,,,,,pending
+krd_000474_grammar,,"Hamagara abakobwa, be n’abahungu na bo","Appelle les filles, et les garçons aussi","Call the girls, and the boys as well",grammar,,,,,,,pending
+krd_000475_action-verbs,,Hamagara ubutabazi.,Appelez la police!,Call the police!,action-verbs,,,,,,,pending
+krd_000476_grammar,,"Hamwe twakubona, wari uja hehe?","Quand on t'a vu, où allais-tu ?","When we saw you, where wereyou going?",grammar,,,,,,,pending
+krd_000477_grammar,,Hamwe wamubona ejo yari agiye i Gitega,Quand tu l'as vu hier il venait de partir à Gitega,When you saw him yesterday he had just gone to Gitega,grammar,,,,,,,pending
+krd_000478_general,,Hangwe umuriro,Au feu!,Fire!,general,,,,,,,pending
+krd_000479_vocabulary,,Hano hari Indogoba nyinshi.,Il y a beaucoup de cheval ici.,There are many horse here.,vocabulary,,,,,,,pending
+krd_000480_vocabulary,,Hano hari Ingo nyinshi.,Il y a beaucoup de foyer ici.,There are many fireplace here.,vocabulary,,,,,,,pending
+krd_000481_vocabulary,,Hano hari ibifyera vyinshi.,Il y a beaucoup de escargot ici.,There are many snail here.,vocabulary,,,,,,,pending
+krd_000482_vocabulary,,Hano hari imbogo nyinshi.,Il y a beaucoup de buffle ici.,There are many buffalo here.,vocabulary,,,,,,,pending
+krd_000483_vocabulary,,Hano hari imikate myinshi.,Il y a beaucoup de pain ici.,There are many bread here.,vocabulary,,,,,,,pending
+krd_000484_vocabulary,,Hano hari imisumbarembe myinshi.,Il y a beaucoup de girafe ici.,There are many giraffe here.,vocabulary,,,,,,,pending
+krd_000485_vocabulary,,Hano hari imodoka nyinshi.,Il y a beaucoup de voiture ici.,There are many car here.,vocabulary,,,,,,,pending
+krd_000486_vocabulary,,Hano hari imvubu nyinshi.,Il y a beaucoup de hippopotame ici.,There are many hipopotamus here.,vocabulary,,,,,,,pending
+krd_000487_vocabulary,,Hano hari ingamiya nyinshi.,Il y a beaucoup de chameau ici.,There are many camel here.,vocabulary,,,,,,,pending
+krd_000488_vocabulary,,Hano hari ingurube nyinshi.,Il y a beaucoup de cochon ici.,There are many pig here.,vocabulary,,,,,,,pending
+krd_000489_vocabulary,,Hano hari intore nyinshi.,Il y a beaucoup de aubergine ici.,There are many eggplant here.,vocabulary,,,,,,,pending
+krd_000490_vocabulary,,Hano hari inyoni nyinshi.,Il y a beaucoup d'oiseaux par ici.,There are many birds here.,vocabulary,,,,,,,pending
+krd_000491_vocabulary,,Hano hari isaha nyinshi.,Il y a beaucoup de horloge ici.,There are many clock here.,vocabulary,,,,,,,pending
+krd_000492_vocabulary,,Hano hari isazi nyinshi.,Il y a beaucoup de mouche ici.,There are many fly here.,vocabulary,,,,,,,pending
+krd_000493_vocabulary,,Hano hariho ibizinu vyinshi.,Il y a beaucoup de champignon ici.,There are many mushroom here.,vocabulary,,,,,,,pending
+krd_000494_vocabulary,,Hano hariho ikaroti nyinshi.,Il y a beaucoup de carotte ici.,There are many carrot here.,vocabulary,,,,,,,pending
+krd_000495_proverbs,,"Hano iwacu mu Burundi, twarahiriwe","Ici au Burundi, nous avons la chance","Here in Burundi, we are lucky",proverbs,,,,,,,pending
+krd_000496_proverbs,,Hapfa uwavûtse.,Tout le monde mourra.,Everyone will die.,proverbs,,,,,,,pending
+krd_000497_proverbs,,Hari abana bavuka bakabura ba Se.,Il y a des enfants qui naissent et perdent leur pères.,There are children who are born and lose their fathers.,proverbs,,,,,,,pending
+krd_000498_action-verbs,,Harakanye cane iki gitondo.,Il fait froid ce matin.,It's cold this morning.,action-verbs,,,,,,,pending
+krd_000499_action-verbs,,Harakanye kano gatondo.,Il fait froid ce matin.,It's cold this morning.,action-verbs,,,,,,,pending
+krd_000500_adjectives,,Harashushe cane uyu musi.,Il fait très chaud aujourd'hui.,Today it's very hot.,adjectives,,,,,,,pending

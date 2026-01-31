@@ -1,105 +1,105 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_001701_action-verbs,,Nigira mu makosa yanje.,J'apprends de mes erreurs.,I learn from my mistakes.,action-verbs,,,,,,
-krd_001702_idioms,,Nigute bavuga iki mugifaransa,Comment dit-on cela en français?,How do you say this in French?,idioms,,,,,,
-krd_001703_location,,Nihehe hari akaguriro k'Imiti aha hafi?,Où est la pharmacie la plus proche?,Where is the nearest pharmacy?,location,,,,,,
-krd_001704_action-verbs,,Nihehe hari ikibanza co kwoga?,Où est la salle de bain?,Where is the bathroom?,action-verbs,,,,,,
-krd_001705_action-verbs,,Nihehe waguriye iyi koti.,Où as-tu acheté cette veste?,Where did you buy this jacket?,action-verbs,,,,,,
-krd_001706_time,,Niho nzoba ndi Isha z'ine z'agatondo,Je serai là à dix heures.,I'll be there at ten o'clock.,time,,,,,,
-krd_001707_time,,Niho nzoba ndi isaha zine.,Je serai là à dix heures.,I'll be there at ten o'clock.,time,,,,,,
-krd_001708_action-verbs,,Nikangira isaha zitandatu.,Je me réveille à six heures.,I wake up at six o'clock.,action-verbs,,,,,,
-krd_001709_action-verbs,,Niki ukumbuye?,Qu'est-ce qui t'a manqué?,What did you miss?,action-verbs,,,,,,
-krd_001710_action-verbs,,Nimuhamagare inyamiramabi!,Appelez la police!,Call the police!,action-verbs,,,,,,
-krd_001711_location,,Ninde atanga ama karata.,Où est le distributeur de billets?,Where is the ATM?,location,,,,,,
-krd_001712_action-verbs,,Nipfuza kuvugana hamwe n’umunyeshure.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,
-krd_001713_emotions,,Niryari tuzongera kubonana ?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,
-krd_001714_proverbs,,"Nitwa Rugwe, ndakunda imihwi.","Je m'appelle Rugwe , j'aime les bananes mûrs","My name is Rugwe, I like ripe bananas",proverbs,,,,,,
-krd_001715_proverbs,,Nivyiza ku magara,C'est bon pour la santé.,It's good for your health.,proverbs,,,,,,
-krd_001716_action-verbs,,Niyihe ngingo ya mbere ya ivyigwa?,Quel est le premier point à l'ordre du jour?,What is the first item on the agenda?,action-verbs,,,,,,
-krd_001717_action-verbs,,Niyihe reresi ukunda cane?,Quel est ton film préféré?,What is your favorite movie?,action-verbs,,,,,,
-krd_001718_emotions,,Niyumva neza iki gitondo.,Je me sens mieux ce matin.,I feel better this morning.,emotions,,,,,,
-krd_001719_action-verbs,,Nizera ko nzomubona kandi.,J'espère la revoir.,I hope to see her again.,action-verbs,,,,,,
-krd_001720_grammar,,Nkaba ngarutse,Si seulement j'étais revenu,If only I had returned,grammar,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_001701_action-verbs,,Nigira mu makosa yanje.,J'apprends de mes erreurs.,I learn from my mistakes.,action-verbs,,,,,,,pending
+krd_001702_idioms,,Nigute bavuga iki mugifaransa,Comment dit-on cela en français?,How do you say this in French?,idioms,,,,,,,pending
+krd_001703_location,,Nihehe hari akaguriro k'Imiti aha hafi?,Où est la pharmacie la plus proche?,Where is the nearest pharmacy?,location,,,,,,,pending
+krd_001704_action-verbs,,Nihehe hari ikibanza co kwoga?,Où est la salle de bain?,Where is the bathroom?,action-verbs,,,,,,,pending
+krd_001705_action-verbs,,Nihehe waguriye iyi koti.,Où as-tu acheté cette veste?,Where did you buy this jacket?,action-verbs,,,,,,,pending
+krd_001706_time,,Niho nzoba ndi Isha z'ine z'agatondo,Je serai là à dix heures.,I'll be there at ten o'clock.,time,,,,,,,pending
+krd_001707_time,,Niho nzoba ndi isaha zine.,Je serai là à dix heures.,I'll be there at ten o'clock.,time,,,,,,,pending
+krd_001708_action-verbs,,Nikangira isaha zitandatu.,Je me réveille à six heures.,I wake up at six o'clock.,action-verbs,,,,,,,pending
+krd_001709_action-verbs,,Niki ukumbuye?,Qu'est-ce qui t'a manqué?,What did you miss?,action-verbs,,,,,,,pending
+krd_001710_action-verbs,,Nimuhamagare inyamiramabi!,Appelez la police!,Call the police!,action-verbs,,,,,,,pending
+krd_001711_location,,Ninde atanga ama karata.,Où est le distributeur de billets?,Where is the ATM?,location,,,,,,,pending
+krd_001712_action-verbs,,Nipfuza kuvugana hamwe n’umunyeshure.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,,pending
+krd_001713_emotions,,Niryari tuzongera kubonana ?,Quand nous reverrons-nous?,When will we see each other again?,emotions,,,,,,,pending
+krd_001714_proverbs,,"Nitwa Rugwe, ndakunda imihwi.","Je m'appelle Rugwe , j'aime les bananes mûrs","My name is Rugwe, I like ripe bananas",proverbs,,,,,,,pending
+krd_001715_proverbs,,Nivyiza ku magara,C'est bon pour la santé.,It's good for your health.,proverbs,,,,,,,pending
+krd_001716_action-verbs,,Niyihe ngingo ya mbere ya ivyigwa?,Quel est le premier point à l'ordre du jour?,What is the first item on the agenda?,action-verbs,,,,,,,pending
+krd_001717_action-verbs,,Niyihe reresi ukunda cane?,Quel est ton film préféré?,What is your favorite movie?,action-verbs,,,,,,,pending
+krd_001718_emotions,,Niyumva neza iki gitondo.,Je me sens mieux ce matin.,I feel better this morning.,emotions,,,,,,,pending
+krd_001719_action-verbs,,Nizera ko nzomubona kandi.,J'espère la revoir.,I hope to see her again.,action-verbs,,,,,,,pending
+krd_001720_grammar,,Nkaba ngarutse,Si seulement j'étais revenu,If only I had returned,grammar,,,,,,,pending
 krd_001721_jokes,,"Nkaca ntângura gufūngura, Máze gutângura gufūngura, māwé agaca yôngerakó: ""iyâbá wîga cāne nkûkó ufūngúra uba urônka amanotá mēzá""
-Abavyêyi b’ábarùúndi ní abā mbere núkurí .","Plus tard, alors que je commence à manger : Maman : ""Si seulement tu avais étudié aussi assidûment que tu dévores ce repas, tu aurais eu de bonnes notes."" Les mamans burundaises sont les meilleures."," Later, as I start to eat: - Mom: ""If only you had studied as diligently as you're devouring that meal, you would have received good grades."" Burundian moms are the best.",jokes,,,,,,
-krd_001722_action-verbs,,Nkeneye Imiti.,J'ai besoin de médicaments.,I need medicine.,action-verbs,,,,,,
-krd_001723_vocabulary,,Nkeneye ifu hamwe n'Isukari.,J'ai besoin de farine et de sucre.,I need flour and sugar.,vocabulary,,,,,,
-krd_001724_action-verbs,,Nkeneye ko bantwara.,J'ai besoin qu'on m'emmène.,I need a ride.,action-verbs,,,,,,
-krd_001725_action-verbs,,Nkeneye muganga,J'ai besoin d'un médecin.,I need a doctor.,action-verbs,,,,,,
-krd_001726_action-verbs,,Nkeneye nyabwonko nshasha.,J'ai besoin d'un nouvel ordinateur.,I need a new computer.,action-verbs,,,,,,
-krd_001727_general,,Nkeneye ubufasha.,J'ai besoin d'aide.,I need help.,general,,,,,,
-krd_001728_grammar,,Nkiri umwana nakora mu mirima imisi yose,"Quand j'étais enfant, j'ai toujours travaillé dans les jardins",While I was a child I always worked in the gardens,grammar,,,,,,
-krd_001729_vocabulary,,Nkunda ibicuruzwa vyo mu gihugu cacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,
-krd_001730_grammar,,Nk’uko Dawidi na we yavuze,Comme David l'a également dit,As David also said,grammar,,,,,,
-krd_001731_grammar,,"Nk’uko Kristo yazuwe mu bapfuye n’ubwiza bwa Data wa twese, abe ari ko natwe tugendana ubugingo busha","Comme Christ est ressuscité des morts par la gloire du Père, afin que nous puissions nous aussi marcher dans une vie nouvelle","As Christ was raised from the dead by the glory of the Father, that we also may walk in a new life",grammar,,,,,,
-krd_001732_grammar,,Nk’uko mwaha imibiri yanyu ibiteye isoni ...abe ari ko na none muha ukugororoka imibiri yanyu,Tout comme vous avez livré votre corps à des choses honteuses... ainsi maintenant donnez votre corps à la justice.,Just as you gave your bodies to shameful things ... so now give your bodies to righteousness,grammar,,,,,,
+Abavyêyi b’ábarùúndi ní abā mbere núkurí .","Plus tard, alors que je commence à manger : Maman : ""Si seulement tu avais étudié aussi assidûment que tu dévores ce repas, tu aurais eu de bonnes notes."" Les mamans burundaises sont les meilleures."," Later, as I start to eat: - Mom: ""If only you had studied as diligently as you're devouring that meal, you would have received good grades."" Burundian moms are the best.",jokes,,,,,,,pending
+krd_001722_action-verbs,,Nkeneye Imiti.,J'ai besoin de médicaments.,I need medicine.,action-verbs,,,,,,,pending
+krd_001723_vocabulary,,Nkeneye ifu hamwe n'Isukari.,J'ai besoin de farine et de sucre.,I need flour and sugar.,vocabulary,,,,,,,pending
+krd_001724_action-verbs,,Nkeneye ko bantwara.,J'ai besoin qu'on m'emmène.,I need a ride.,action-verbs,,,,,,,pending
+krd_001725_action-verbs,,Nkeneye muganga,J'ai besoin d'un médecin.,I need a doctor.,action-verbs,,,,,,,pending
+krd_001726_action-verbs,,Nkeneye nyabwonko nshasha.,J'ai besoin d'un nouvel ordinateur.,I need a new computer.,action-verbs,,,,,,,pending
+krd_001727_general,,Nkeneye ubufasha.,J'ai besoin d'aide.,I need help.,general,,,,,,,pending
+krd_001728_grammar,,Nkiri umwana nakora mu mirima imisi yose,"Quand j'étais enfant, j'ai toujours travaillé dans les jardins",While I was a child I always worked in the gardens,grammar,,,,,,,pending
+krd_001729_vocabulary,,Nkunda ibicuruzwa vyo mu gihugu cacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,,pending
+krd_001730_grammar,,Nk’uko Dawidi na we yavuze,Comme David l'a également dit,As David also said,grammar,,,,,,,pending
+krd_001731_grammar,,"Nk’uko Kristo yazuwe mu bapfuye n’ubwiza bwa Data wa twese, abe ari ko natwe tugendana ubugingo busha","Comme Christ est ressuscité des morts par la gloire du Père, afin que nous puissions nous aussi marcher dans une vie nouvelle","As Christ was raised from the dead by the glory of the Father, that we also may walk in a new life",grammar,,,,,,,pending
+krd_001732_grammar,,Nk’uko mwaha imibiri yanyu ibiteye isoni ...abe ari ko na none muha ukugororoka imibiri yanyu,Tout comme vous avez livré votre corps à des choses honteuses... ainsi maintenant donnez votre corps à la justice.,Just as you gave your bodies to shameful things ... so now give your bodies to righteousness,grammar,,,,,,,pending
 krd_001733_jokes,,"Nk’ákarorero, iyó umenyé isáhàáni uca wûmva  ngo: ""Gēnda utōré n’ízìíndi zirí mukabàáti uzimené""
 Twese turazi ico aba ashatse kukubwira"," Par exemple, après avoir cassé une assiette, ils pourraient dire :""Va en prendre d'autres et casse-les aussi.""
 On sait tous ce qu'elle veux vraiment dire.","For instance, after breaking a glass, they might say:""Go and take others and break them too.""
-We all know what they really meant.",jokes,,,,,,
-krd_001734_grammar,,Noba ngiye,je serais parti,I would have gone,grammar,,,,,,
-krd_001735_grammar,,Nobesha?,Est-ce que je mentirais ?,Would I tell a lie?,grammar,,,,,,
-krd_001736_grammar,,Nobishobora?,Serais-je capable de le faire ?,Would I be able to do it?,grammar,,,,,,
-krd_001737_grammar,,Nogiye kurima ariko simfise isuka,"Je serais allé voir une pute, mais je n'ai pas de pute","I would have gone to hoe, but i don’t have a hoe",grammar,,,,,,
-krd_001738_grammar,,Nokunze kumubona ariko sinari i muhira,"J'aurais aimé le voir, mais je n'étais pas chez moi","I would like to have seen him, but I wasn‘t at home",grammar,,,,,,
-krd_001739_action-verbs,,None bakimenye ata mwanya bagihaye,Est-ce qu’il ont progressé sans se donner du temps,Did they progress without giving themselves time?,action-verbs,,,,,,
-krd_001740_idioms,,None boba babikuye hehe?,où pourraient-ils les obtenir?,where could they get them?,idioms,,,,,,
-krd_001741_proverbs,,None wewe ntubona ko batubeshe?,Est ce que toi tu vois pas qu'ils nous on menti ?,Don't you see that they lied to us?,proverbs,,,,,,
-krd_001742_proverbs,,None wokunda igihugu utazi ivyaco gute?,Comment peut-on aimer le pays sans le connaître ?,How can you love the country without knowing it?,proverbs,,,,,,
-krd_001743_general,,Norihisha ikarata?,Puis-je payer par carte?,Can I pay by card?,general,,,,,,
-krd_001744_grammar,,Noshimye ivyo mba nabibonye,J'aurais aimé ces choses si je les avais vues,I would have liked those things if I had seen them,grammar,,,,,,
-krd_001745_proverbs,,Noshobora kubikora nawe ubishatse.,Je peux le faire avec toi si tu préfère.,I can do it with you if you prefer.,proverbs,,,,,,
-krd_001746_vocabulary,,Notora ibihingurirwa iwacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,
-krd_001747_grammar,,Noza i wanyu ejo uzoba ukora ?,"Si je viens chez toi demain, est-ce que tu travailleras ?",If I come to your house tomorrow will you be working?,grammar,,,,,,
-krd_001748_grammar,,Noza i wanyu ejo uzoba uriko urakora?,"Si je devais venir chez toi demain, est-ce que tu travaillerais ?",If I should come to your house tomorrow would you be working?,grammar,,,,,,
-krd_001749_grammar,,"Noza i wanyu hatoya, woba uriko urabiba uburo?","Si je devais venir chez vous maintenant, planteriez-vous du mil ?",If I should come to your house presently would you be planting millet?,grammar,,,,,,
-krd_001750_grammar,,"Noza i wanyu hatoya, woba uriko urakora?","Si je devais venir chez toi dans peu de temps, est-ce que tu travaillerais ?",If I should come to your house in a little while would you be working?,grammar,,,,,,
-krd_001751_action-verbs,,Noze mukiyaga,J'ai nagé dans le lac.,I swam in the lake.,action-verbs,,,,,,
-krd_001752_general,,Nrwaho Umuriro!,Au feu!,Fire!,general,,,,,,
-krd_001753_action-verbs,,Nshaka akaruhuko.,J'ai besoin de repos.,I need rest.,action-verbs,,,,,,
-krd_001754_action-verbs,,Nshaka amazi.,Je veux de l'eau.,I want water.,action-verbs,,,,,,
-krd_001755_action-verbs,,Nshaka gufungura inrya.,Je veux manger de la nourriture.,I want to eat food.,action-verbs,,,,,,
-krd_001756_action-verbs,,Nshaka guhindura akazi.,Je vais changer de travail.,I'm going to change jobs.,action-verbs,,,,,,
-krd_001757_action-verbs,,Nshaka gukora ikintu gishasha.,Je veux faire quelque chose de créatif.,I want to do something creative.,action-verbs,,,,,,
-krd_001758_general,,Nshaka gutembera Paris.,Je veux visiter Paris.,I want to visit Paris.,general,,,,,,
-krd_001759_action-verbs,,Nshaka ibirato bishasha.,J'ai besoin de nouvelles chaussures.,I need new shoes.,action-verbs,,,,,,
-krd_001760_action-verbs,,Nshaka ibiruhuko.,J'ai besoin de vacances.,I need a vacation.,action-verbs,,,,,,
-krd_001761_action-verbs,,Nshaka imiti.,J'ai besoin de médicaments.,I need medicine.,action-verbs,,,,,,
-krd_001762_emotions,,Nshaka impanuro.,J'ai besoin d'un conseil.,I need advice.,emotions,,,,,,
-krd_001763_language,,Nshaka kumenya igifaransa.,Je veux apprendre le français.,I want to learn French.,language,,,,,,
-krd_001764_action-verbs,,Nshaka kurya ivyo kurya.,Je veux manger de la nourriture.,I want to eat food.,action-verbs,,,,,,
-krd_001765_action-verbs,,Nshaka kuryama.,Je veux dormir.,I want to sleep.,action-verbs,,,,,,
-krd_001766_action-verbs,,Nshaka kuvugana n'Umunyeshure.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,
-krd_001767_action-verbs,,Nshaka kuvugana n'umunyeshure wa kaminuza.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,
-krd_001768_action-verbs,,Nshaka kuvugana na umunyeshure,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,
-krd_001769_language,,Nshaka kwiga igifaransa.,Je veux apprendre le français.,I want to learn French.,language,,,,,,
-krd_001770_action-verbs,,Nshaka kwiyumvira .,J'ai besoin de me concentrer.,I need to concentrate.,action-verbs,,,,,,
-krd_001771_action-verbs,,Nshaka mudasobwa nshasha.,J'ai besoin d'un nouvel ordinateur.,I need a new computer.,action-verbs,,,,,,
-krd_001772_action-verbs,,Nshaka umuganga.,J'ai besoin d'un médecin.,I need a doctor.,action-verbs,,,,,,
-krd_001773_proverbs,,Nshaka umusegetera.,J'ai besoin d'une moustiquaire.,I need a mosquito net.,proverbs,,,,,,
-krd_001774_action-verbs,,Nshika nacerewe.,J'arriverai en retard.,I will arrive late.,action-verbs,,,,,,
-krd_001775_grammar,,"Nshitseyo, yari agiye","Quand je suis arrivé, il venait juste de partir",When I got there he had just gone,grammar,,,,,,
-krd_001776_grammar,,"Nshitseyo, yari yaragiye","Quand je suis arrivé, il était parti",When I got there he had gone,grammar,,,,,,
-krd_001777_grammar,,"Nshitseyo, yari yāgiye","Quand je suis arrivé, il était parti",When I got there he had gone,grammar,,,,,,
-krd_001778_jokes,,"Nshāka kumenya ingéne abìígīsha bamenyá ivyó nīzé, Kugíra ngo mu kibázo bāmé bâzana ivyó ntītéze.","Je veux savoir comment les enseignants savent ce que j'ai étudié et ce que je n'ai pas, juste pour toujours inclure ce que je n'ai pas étudié, dans l'examen.","I want to know how the teachers know what I studied and what I didn't, just so they could always include what I didn't study, in the exam.",jokes,,,,,,
-krd_001779_proverbs,,Nsinywa inzoga.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,
-krd_001780_grammar,,Nta cabaye,rien ne s'est passé,nothing happened,grammar,,,,,,
-krd_001781_grammar,,Nta co azoba,rien ne lui arrivera,nothing will happen to him,grammar,,,,,,
-krd_001782_grammar,,Nta co nzoba,il ne m'arrivera rien.,nothing will happen to me.,grammar,,,,,,
-krd_001783_grammar,,Nta ho azokwigera abikora,Il ne le fera jamais,He will never do it,grammar,,,,,,
-krd_001784_grammar,,Nta ho nzokora ivyo,Je ne ferai jamais ça,I shall never do that,grammar,,,,,,
-krd_001785_grammar,,Nta ho uribwabone ben'ivyo?,N'avez-vous jamais rien vu de pareil ?,Have you never seen anything like that?,grammar,,,,,,
-krd_001786_grammar,,Nta ko ndibugire,Je ne peux rien y faire,I can’t do anything about it,grammar,,,,,,
-krd_001787_proverbs,,Nta kunegura abagiraneza.Imana ni nyen'Imbabazi kandi ni nyene impuhwe.,Pas de reproche contre les bienfaiteurs. Dieu est Pardonneur et Miséricordieux.,No reproach against the benefactors. God is Forgiving and Merciful.,proverbs,,,,,,
-krd_001788_proverbs,,Nta mahera mfise.,Je n'ai pas d'argent.,I don't have any money.,proverbs,,,,,,
-krd_001789_grammar,,Nta muntu yoshobora kwinjira mu nzu y’umuntu w’inkomezi atabanje kuboha wa munyenkomezi,Personne ne pouvait entrer dans la maison d'un homme fort sans d'abord lier cet homme fort.,No one could go into the house of a strong man without first binding that strong man,grammar,,,,,,
-krd_001790_proverbs,,Nta n'umwe ari intungane.,Personne n'est parfait.,Nobody is perfect.,proverbs,,,,,,
-krd_001791_grammar,,Nta ntaryo yamaho ngw abasabire,Il est toujours vivant afin qu'il puisse prier pour vous,He is ever living that He may pray for you,grammar,,,,,,
-krd_001792_proverbs,,Nta nzoga nwa,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,
-krd_001793_proverbs,,Nta nzoga nywa.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,
-krd_001794_grammar,,Nta wundi ndibwirukire,Il n'y a personne d'autre vers qui je pourrais courir,There is no other person I could run to,grammar,,,,,,
-krd_001795_proverbs,clips/sound_proverb/prov021.mp3,Nta wutanga Imama kwihebura.,Vous n’abandonnez pas le désespoir devant Dieu.,You don't give up to despair before God.,proverbs,,,,,,
-krd_001796_general,,Ntabwo nemeranya.,Je ne suis pas d'accord.,I don't agree.,general,,,,,,
-krd_001797_proverbs,,Ntaco naronse.,Je n'ai rien reçu.,I didn't receive anything.,proverbs,,,,,,
-krd_001798_grammar,,Ntaco witaho.,Tu n'es pas responsable.,You are not responsible.,grammar,,,,,,
-krd_001799_idioms,,Ntakunda kugumbirana.,Elle n'est pas du genre câlineuse.,She's not the cuddly type.,idioms,,,,,,
-krd_001800_proverbs,,Ntamafaranga mfise.,Je n'ai pas d'argent.,I don't have any money.,proverbs,,,,,,
+We all know what they really meant.",jokes,,,,,,,pending
+krd_001734_grammar,,Noba ngiye,je serais parti,I would have gone,grammar,,,,,,,pending
+krd_001735_grammar,,Nobesha?,Est-ce que je mentirais ?,Would I tell a lie?,grammar,,,,,,,pending
+krd_001736_grammar,,Nobishobora?,Serais-je capable de le faire ?,Would I be able to do it?,grammar,,,,,,,pending
+krd_001737_grammar,,Nogiye kurima ariko simfise isuka,"Je serais allé voir une pute, mais je n'ai pas de pute","I would have gone to hoe, but i don’t have a hoe",grammar,,,,,,,pending
+krd_001738_grammar,,Nokunze kumubona ariko sinari i muhira,"J'aurais aimé le voir, mais je n'étais pas chez moi","I would like to have seen him, but I wasn‘t at home",grammar,,,,,,,pending
+krd_001739_action-verbs,,None bakimenye ata mwanya bagihaye,Est-ce qu’il ont progressé sans se donner du temps,Did they progress without giving themselves time?,action-verbs,,,,,,,pending
+krd_001740_idioms,,None boba babikuye hehe?,où pourraient-ils les obtenir?,where could they get them?,idioms,,,,,,,pending
+krd_001741_proverbs,,None wewe ntubona ko batubeshe?,Est ce que toi tu vois pas qu'ils nous on menti ?,Don't you see that they lied to us?,proverbs,,,,,,,pending
+krd_001742_proverbs,,None wokunda igihugu utazi ivyaco gute?,Comment peut-on aimer le pays sans le connaître ?,How can you love the country without knowing it?,proverbs,,,,,,,pending
+krd_001743_general,,Norihisha ikarata?,Puis-je payer par carte?,Can I pay by card?,general,,,,,,,pending
+krd_001744_grammar,,Noshimye ivyo mba nabibonye,J'aurais aimé ces choses si je les avais vues,I would have liked those things if I had seen them,grammar,,,,,,,pending
+krd_001745_proverbs,,Noshobora kubikora nawe ubishatse.,Je peux le faire avec toi si tu préfère.,I can do it with you if you prefer.,proverbs,,,,,,,pending
+krd_001746_vocabulary,,Notora ibihingurirwa iwacu.,Je préfère les produits locaux.,I prefer local products.,vocabulary,,,,,,,pending
+krd_001747_grammar,,Noza i wanyu ejo uzoba ukora ?,"Si je viens chez toi demain, est-ce que tu travailleras ?",If I come to your house tomorrow will you be working?,grammar,,,,,,,pending
+krd_001748_grammar,,Noza i wanyu ejo uzoba uriko urakora?,"Si je devais venir chez toi demain, est-ce que tu travaillerais ?",If I should come to your house tomorrow would you be working?,grammar,,,,,,,pending
+krd_001749_grammar,,"Noza i wanyu hatoya, woba uriko urabiba uburo?","Si je devais venir chez vous maintenant, planteriez-vous du mil ?",If I should come to your house presently would you be planting millet?,grammar,,,,,,,pending
+krd_001750_grammar,,"Noza i wanyu hatoya, woba uriko urakora?","Si je devais venir chez toi dans peu de temps, est-ce que tu travaillerais ?",If I should come to your house in a little while would you be working?,grammar,,,,,,,pending
+krd_001751_action-verbs,,Noze mukiyaga,J'ai nagé dans le lac.,I swam in the lake.,action-verbs,,,,,,,pending
+krd_001752_general,,Nrwaho Umuriro!,Au feu!,Fire!,general,,,,,,,pending
+krd_001753_action-verbs,,Nshaka akaruhuko.,J'ai besoin de repos.,I need rest.,action-verbs,,,,,,,pending
+krd_001754_action-verbs,,Nshaka amazi.,Je veux de l'eau.,I want water.,action-verbs,,,,,,,pending
+krd_001755_action-verbs,,Nshaka gufungura inrya.,Je veux manger de la nourriture.,I want to eat food.,action-verbs,,,,,,,pending
+krd_001756_action-verbs,,Nshaka guhindura akazi.,Je vais changer de travail.,I'm going to change jobs.,action-verbs,,,,,,,pending
+krd_001757_action-verbs,,Nshaka gukora ikintu gishasha.,Je veux faire quelque chose de créatif.,I want to do something creative.,action-verbs,,,,,,,pending
+krd_001758_general,,Nshaka gutembera Paris.,Je veux visiter Paris.,I want to visit Paris.,general,,,,,,,pending
+krd_001759_action-verbs,,Nshaka ibirato bishasha.,J'ai besoin de nouvelles chaussures.,I need new shoes.,action-verbs,,,,,,,pending
+krd_001760_action-verbs,,Nshaka ibiruhuko.,J'ai besoin de vacances.,I need a vacation.,action-verbs,,,,,,,pending
+krd_001761_action-verbs,,Nshaka imiti.,J'ai besoin de médicaments.,I need medicine.,action-verbs,,,,,,,pending
+krd_001762_emotions,,Nshaka impanuro.,J'ai besoin d'un conseil.,I need advice.,emotions,,,,,,,pending
+krd_001763_language,,Nshaka kumenya igifaransa.,Je veux apprendre le français.,I want to learn French.,language,,,,,,,pending
+krd_001764_action-verbs,,Nshaka kurya ivyo kurya.,Je veux manger de la nourriture.,I want to eat food.,action-verbs,,,,,,,pending
+krd_001765_action-verbs,,Nshaka kuryama.,Je veux dormir.,I want to sleep.,action-verbs,,,,,,,pending
+krd_001766_action-verbs,,Nshaka kuvugana n'Umunyeshure.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,,pending
+krd_001767_action-verbs,,Nshaka kuvugana n'umunyeshure wa kaminuza.,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,,pending
+krd_001768_action-verbs,,Nshaka kuvugana na umunyeshure,Je veux parler avec l'étudiant.,I want to speak with the student.,action-verbs,,,,,,,pending
+krd_001769_language,,Nshaka kwiga igifaransa.,Je veux apprendre le français.,I want to learn French.,language,,,,,,,pending
+krd_001770_action-verbs,,Nshaka kwiyumvira .,J'ai besoin de me concentrer.,I need to concentrate.,action-verbs,,,,,,,pending
+krd_001771_action-verbs,,Nshaka mudasobwa nshasha.,J'ai besoin d'un nouvel ordinateur.,I need a new computer.,action-verbs,,,,,,,pending
+krd_001772_action-verbs,,Nshaka umuganga.,J'ai besoin d'un médecin.,I need a doctor.,action-verbs,,,,,,,pending
+krd_001773_proverbs,,Nshaka umusegetera.,J'ai besoin d'une moustiquaire.,I need a mosquito net.,proverbs,,,,,,,pending
+krd_001774_action-verbs,,Nshika nacerewe.,J'arriverai en retard.,I will arrive late.,action-verbs,,,,,,,pending
+krd_001775_grammar,,"Nshitseyo, yari agiye","Quand je suis arrivé, il venait juste de partir",When I got there he had just gone,grammar,,,,,,,pending
+krd_001776_grammar,,"Nshitseyo, yari yaragiye","Quand je suis arrivé, il était parti",When I got there he had gone,grammar,,,,,,,pending
+krd_001777_grammar,,"Nshitseyo, yari yāgiye","Quand je suis arrivé, il était parti",When I got there he had gone,grammar,,,,,,,pending
+krd_001778_jokes,,"Nshāka kumenya ingéne abìígīsha bamenyá ivyó nīzé, Kugíra ngo mu kibázo bāmé bâzana ivyó ntītéze.","Je veux savoir comment les enseignants savent ce que j'ai étudié et ce que je n'ai pas, juste pour toujours inclure ce que je n'ai pas étudié, dans l'examen.","I want to know how the teachers know what I studied and what I didn't, just so they could always include what I didn't study, in the exam.",jokes,,,,,,,pending
+krd_001779_proverbs,,Nsinywa inzoga.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,,pending
+krd_001780_grammar,,Nta cabaye,rien ne s'est passé,nothing happened,grammar,,,,,,,pending
+krd_001781_grammar,,Nta co azoba,rien ne lui arrivera,nothing will happen to him,grammar,,,,,,,pending
+krd_001782_grammar,,Nta co nzoba,il ne m'arrivera rien.,nothing will happen to me.,grammar,,,,,,,pending
+krd_001783_grammar,,Nta ho azokwigera abikora,Il ne le fera jamais,He will never do it,grammar,,,,,,,pending
+krd_001784_grammar,,Nta ho nzokora ivyo,Je ne ferai jamais ça,I shall never do that,grammar,,,,,,,pending
+krd_001785_grammar,,Nta ho uribwabone ben'ivyo?,N'avez-vous jamais rien vu de pareil ?,Have you never seen anything like that?,grammar,,,,,,,pending
+krd_001786_grammar,,Nta ko ndibugire,Je ne peux rien y faire,I can’t do anything about it,grammar,,,,,,,pending
+krd_001787_proverbs,,Nta kunegura abagiraneza.Imana ni nyen'Imbabazi kandi ni nyene impuhwe.,Pas de reproche contre les bienfaiteurs. Dieu est Pardonneur et Miséricordieux.,No reproach against the benefactors. God is Forgiving and Merciful.,proverbs,,,,,,,pending
+krd_001788_proverbs,,Nta mahera mfise.,Je n'ai pas d'argent.,I don't have any money.,proverbs,,,,,,,pending
+krd_001789_grammar,,Nta muntu yoshobora kwinjira mu nzu y’umuntu w’inkomezi atabanje kuboha wa munyenkomezi,Personne ne pouvait entrer dans la maison d'un homme fort sans d'abord lier cet homme fort.,No one could go into the house of a strong man without first binding that strong man,grammar,,,,,,,pending
+krd_001790_proverbs,,Nta n'umwe ari intungane.,Personne n'est parfait.,Nobody is perfect.,proverbs,,,,,,,pending
+krd_001791_grammar,,Nta ntaryo yamaho ngw abasabire,Il est toujours vivant afin qu'il puisse prier pour vous,He is ever living that He may pray for you,grammar,,,,,,,pending
+krd_001792_proverbs,,Nta nzoga nwa,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,,pending
+krd_001793_proverbs,,Nta nzoga nywa.,Je ne bois pas d'alcool.,I don't drink alcohol.,proverbs,,,,,,,pending
+krd_001794_grammar,,Nta wundi ndibwirukire,Il n'y a personne d'autre vers qui je pourrais courir,There is no other person I could run to,grammar,,,,,,,pending
+krd_001795_proverbs,clips/proverbs/prov021.mp3,Nta wutanga Imama kwihebura.,Vous n’abandonnez pas le désespoir devant Dieu.,You don't give up to despair before God.,proverbs,,,,,,,recorded
+krd_001796_general,,Ntabwo nemeranya.,Je ne suis pas d'accord.,I don't agree.,general,,,,,,,pending
+krd_001797_proverbs,,Ntaco naronse.,Je n'ai rien reçu.,I didn't receive anything.,proverbs,,,,,,,pending
+krd_001798_grammar,,Ntaco witaho.,Tu n'es pas responsable.,You are not responsible.,grammar,,,,,,,pending
+krd_001799_idioms,,Ntakunda kugumbirana.,Elle n'est pas du genre câlineuse.,She's not the cuddly type.,idioms,,,,,,,pending
+krd_001800_proverbs,,Ntamafaranga mfise.,Je n'ai pas d'argent.,I don't have any money.,proverbs,,,,,,,pending

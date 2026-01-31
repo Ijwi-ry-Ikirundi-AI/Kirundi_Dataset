@@ -349,30 +349,96 @@ Our dataset is organized around `metadata.csv` - the central hub for all project
 
 | Column                  | Type   | Description                      | Example                             |
 | ----------------------- | ------ | -------------------------------- | ----------------------------------- |
-| `file_path`             | String | Relative path to audio file      | `clips/rn_0001.wav`                 |
-| `kirundi_transcription` | String | Exact Kirundi sentence           | `Amahoro y'Imana abane nawe`        |
-| `french_translation`    | String | High-quality French translation  | `Que la paix de Dieu soit avec toi` |
+| `ID`                    | String | Unique identifier                | `krd_000001_jokes`                  |
+| `File_Path`             | String | Relative path to audio file      | `clips/jokes/20260131_S01_M_jokes_krd_000001.wav` |
+| `Kirundi_Transcription` | String | Exact Kirundi sentence           | `Amahoro y'Imana abane nawe`        |
+| `French_Translation`    | String | High-quality French translation  | `Que la paix de Dieu soit avec toi` |
 | `English_Translation`   | String | High-quality English translation | `May the peace of God be with you`  |
-| `Domain`                | String | Topic or category                | `General`, `News`, `Religion`       |
-| `speaker_id`            | String | Anonymous speaker identifier     | `speaker_001`                       |
-| `age`                   | String | Age group                        | `20s`, `30s`, `40s+`                |
-| `gender`                | String | Self-identified gender           | `male`, `female`, `other`           |
-| `Machine_Suggestion`    | String | AI generated suggestion          | `Les enfants jouent dehors.`        |
+| `Domain`                | String | Topic or category                | `jokes`, `proverbs`, `grammar`      |
+| `Speaker_id`            | String | Anonymous speaker identifier     | `S01_M`, `S02_M`                    |
+| `Age`                   | String | Age group                        | `20s`, `30s`, `40s+`                |
+| `Gender`                | String | Self-identified gender           | `male`, `female`, `other`           |
+| `Duration`              | Float  | Audio duration in seconds        | `3.15`                              |
+| `Audio_Status`          | String | Recording status                 | `pending`, `recorded`, `validated`  |
+
+### 🎙️ Audio Status Tracking
+
+| Status       | Description                                    |
+| ------------ | ---------------------------------------------- |
+| `pending`    | Not recorded yet                               |
+| `recorded`   | Audio file exists, awaiting peer-review        |
+| `validated`  | Peer-review passed, ready for training         |
+| `rejected`   | Quality issues, needs re-recording             |
 
 ### 📁 Directory Structure
 
 ```
 Kirundi_Dataset/
-├── 📄 README.md              # This file
-├── 📊 metadata.csv           # Master dataset file
-├── 🎵 clips/                 # Audio recordings
-│   ├── rn_0001.wav
-│   ├── rn_0002.wav
-│   └── ...
-└── 🔧 scripts/               # Automation tools
-    ├── append_to_csv.py      # Add new sentences
-    ├── scrapping_kirundi_words.py  # Web scraping
+├── 📄 README.md                    # This file
+├── 📊 metadata.csv                 # Master dataset file
+├── 📂 final_dataset_splits/        # Dataset split into 30 parts for recording
+│   ├── final_dataset_part_001.csv  # ~100 sentences each
+│   ├── final_dataset_part_002.csv
+│   └── ... (30 files total)
+├── 🎵 clips/                       # Audio recordings (Git LFS → Hugging Face)
+│   ├── proverbs/                   # 826 sentences
+│   ├── action-verbs/               # 489 sentences
+│   ├── grammar/                    # 292 sentences
+│   ├── vocabulary/                 # 202 sentences
+│   ├── jokes/                      # 50 sentences
+│   └── ... (19 domain folders)
+└── 🔧 scripts/                     # Automation tools
+    ├── append_to_csv.py            # Add new sentences to metadata.csv
+    ├── process_audio.py            # Audio processing (VAD + normalize + denoise)
+    ├── update_audio_status.py      # Sync audio files with CSV status
+    ├── update_file_paths.py        # Update paths in CSVs
+    ├── dataset_manager.ipynb       # Data management notebook
     └── kirundi_prompts_scraped.txt # Raw text input
+```
+
+### 🎙️ Audio Recording Workflow
+
+1. **Record**: Record audio for sentences in `final_dataset_splits/` with `Audio_Status: pending`
+2. **Process**: Run `python scripts/process_audio.py <file>` to clean audio (VAD, normalize, denoise)
+3. **Update**: Run `python scripts/update_audio_status.py` to sync clips with CSVs
+4. **Validate**: Peer-review recordings, mark as `validated` or `rejected`
+5. **Push**: Push audio to Hugging Face with `git push hf main`
+
+### 🔧 Audio Processing Scripts
+
+```bash
+# Process single audio file
+source .venv/bin/activate
+python scripts/process_audio.py recording.wav
+
+# Batch process folder
+python scripts/process_audio.py --batch raw_recordings/ --output clips/
+
+# Update CSV status from clips/ folder
+python scripts/update_audio_status.py
+
+# View status summary
+python scripts/update_audio_status.py --summary
+
+# Validate/reject specific recording
+python scripts/update_audio_status.py --validate krd_000001_jokes
+python scripts/update_audio_status.py --reject krd_000002_jokes
+```
+
+### 📏 Audio Naming Convention
+
+```
+Path format: clips/[DOMAIN]/[DATE]_[SPEAKER]_[DOMAIN]_[SENTENCE_ID].wav
+Example: clips/jokes/20260131_S01_M_jokes_krd_000001.wav
+
+Speaker IDs:
+- S01_M: César (Male)
+- S02_M: Arsène (Male)
+
+Domain folders (19 total):
+proverbs, action-verbs, grammar, vocabulary, general, emotions,
+jokes, adjectives, idioms, language, geography, food, greetings,
+politeness, location, apologies, advice, time, adverbs
 ```
 
 ## 🎯 Project Roadmap
@@ -393,21 +459,24 @@ graph LR
     D --> E[🚀 Deployment]
 ```
 
-| Phase       | Goal                  | Target             | Status             | Progress                                 |
-| ----------- | --------------------- | ------------------ | ------------------ | ---------------------------------------- |
-| **Phase 1** | 📝 Text Collection    | 10,000+ sentences  | 🔄 **In Progress** | ![Progress](https://geps.dev/progress/5) |
-| **Phase 2** | 🌐 French Translation | Complete dataset   | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
-| **Phase 3** | 🎤 Audio Recording    | 20+ hours          | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
-| **Phase 4** | 🤖 Model Training     | ASR/TTS/MT models  | 📋 Planned         | ![Progress](https://geps.dev/progress/0) |
-| **Phase 5** | 🚀 Public Release     | Open-source models | 🎯 Future          | ![Progress](https://geps.dev/progress/0) |
+| Phase       | Goal                  | Target             | Status             | Progress                                  |
+| ----------- | --------------------- | ------------------ | ------------------ | ----------------------------------------- |
+| **Phase 1** | 📝 Text Collection    | 10,000+ sentences  | 🔄 In Progress     | ![Progress](https://geps.dev/progress/29) |
+| **Phase 2** | 🌐 Translation        | Complete dataset   | ✅ Mostly Done     | ![Progress](https://geps.dev/progress/90) |
+| **Phase 3** | 🎤 Audio Recording    | 20+ hours          | 🔄 **In Progress** | ![Progress](https://geps.dev/progress/3)  |
+| **Phase 4** | 🤖 Model Training     | ASR/TTS/MT models  | 📋 Planned         | ![Progress](https://geps.dev/progress/0)  |
+| **Phase 5** | 🚀 Public Release     | Open-source models | 🎯 Future          | ![Progress](https://geps.dev/progress/0)  |
 
 ### 🎯 Current Milestones
 
 - ✅ **Repository Setup**: Project structure and automation scripts
 - ✅ **Data Pipeline**: Automated text processing and validation
 - ✅ **PDF Cleanup**: Removed binary files from git history
-- 🔄 **Community Building**: Growing contributor base
-- 📋 **Quality Standards**: Establishing recording and translation guidelines
+- ✅ **Dataset Split**: 2,903 sentences split into 30 files for recording
+- ✅ **Audio Infrastructure**: Processing scripts (VAD, normalization, denoising)
+- ✅ **Status Tracking**: Audio_Status column for peer-review workflow
+- 🔄 **Audio Recording**: Recording Kirundi speech (101/2,903 complete)
+- 📋 **Model Training**: Fine-tuning Whisper for Kirundi ASR
 
 ---
 
@@ -438,9 +507,9 @@ We thank all our amazing contributors who are helping build this dataset:
 
 | Metric                  | Count |
 | ----------------------- | ----- |
-| 📝 **Total Sentences**  | 3062  |
-| 🎤 **Audio Recordings** | 1     |
-| 🌐 **Translations**     | 2000  |
+| 📝 **Total Sentences**  | 2,903 |
+| 🎤 **Audio Recordings** | 101   |
+| ⏳ **Pending Recording**| 2,802 |
 | 👥 **Contributors**     | 3     |
 
 ---

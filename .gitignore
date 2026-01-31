@@ -72,11 +72,18 @@ scratch_*
 .ipynb_checkpoints
 
 # Large files (use Git LFS instead)
+# Audio files are ignored everywhere EXCEPT in clips/ folder
+# clips/ folder audio goes to Hugging Face via Git LFS
 *.wav
 *.mp3
 *.flac
 *.ogg
 *.m4a
+
+# Allow audio files in clips/ folder (for Hugging Face LFS)
+!clips/**/*.wav
+!clips/**/*.mp3
+!clips/**/*.flac
 
 # Personal notes
 notes.txt

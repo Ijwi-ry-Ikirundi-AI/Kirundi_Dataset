@@ -1,104 +1,104 @@
-ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender
-krd_000701_proverbs,,Ikinyóma kimara umŭsi ntíkimará umwâka.,"Un mensonge peut voyager loin, mais la vérité finira par le rattraper.","A lie may travel far, but the truth will catch up to it eventually.",proverbs,,,,,,
-krd_000702_proverbs,,Ikinyóma kirasôsa ntígihāzá.,"Les mensonges peuvent avoir un goût doux, mais la vérité est irremplaçable.","Lies may taste sweet, but truth is irreplaceable.",proverbs,,,,,,
-krd_000703_proverbs,,Ikirundi gifise ikibanza ikihe uno musi,Quelle place occupe le kirundi aujourd'hui ?,What place does Kirundi occupy today?,proverbs,,,,,,
-krd_000704_proverbs,,"Ikirundi kirambeshejeho, jewe n’abanje","Le Kirundi m'aides à subvenir à mes besoins,moi et ma famille .",Kirundi helps me provide for myself and my family.,proverbs,,,,,,
-krd_000705_language,,Ikirundi ni ururimi ruri mu ndimi zo muri afrika bantu,Le Kirundi est l'une des langues africaines,Kirundi is one of the African languages,language,,,,,,
-krd_000706_proverbs,,Ikirwa c'úmwămi ugiherūka ukícūbaka.,"Le privilège de voir le palais du roi est accordé à ceux qui le construisent, mais c'est la seule et unique fois.","The privilege to witness the king's palace is granted to those who build it, but that is the only and unique time.",proverbs,,,,,,
-krd_000707_proverbs,,Ikirémēra umutwé sí co kiremêra umutíma.,À chacun son fardeau.,To each his own burden.,proverbs,,,,,,
-krd_000708_proverbs,,Ikirúta ikĭndi ní ijāmbo ry'úmusâza.,La sagesse des anciens est un phare dans l'obscurité de l'ignorance.,The wisdom of the aged is a beacon in the darkness of ignorance.,proverbs,,,,,,
-krd_000709_proverbs,,Ikitábuzé ní ibihŭnda mu bitōke.,L'herbe ne manque jamais dans la forêt.,Grass is never lacking in the forest.,proverbs,,,,,,
-krd_000710_proverbs,,Ikitâzí cāmbarira urunega mu bakínegura.,Tenter d'impressionner l'indifférent est un effort futile.,Attempting to impress the disinterested is a futile endeavor.,proverbs,,,,,,
-krd_000711_proverbs,,Ikitâzí cīgānzira agahîye.,Les ignorants pensent souvent que toutes les bénédictions leur sont réservées.,The ignorant often assume that all the blessings are reserved for them.,proverbs,,,,,,
-krd_000712_proverbs,,Ikivi ní icā kare.,Mieux vaut commencer à travailler très tôt.,Better start working very early.,proverbs,,,,,,
-krd_000713_jokes,clips/sound_humour/h15.mp3,Ikivumbura bagisekuye urubando mu rutwariro hanyuma naco kiravuga kiti imyaka itaha ukundi! Ako kabi jewe kuva aho nakavukiye sinari bwakabone!,"""Ah, les temps ont changé ! Jamais de ma vie je n'ai vu quelque chose de pareil."" dit le Varan après avoir été frappé avec un bâton sur le crâne !","""Ah times have changed! Never in my whole life have I seen anything like this."" said the Varan after being hit with a stick on the skull!",jokes,,,,,,
-krd_000714_proverbs,,Ikiyaga Tanganyika ni kinini cane.,Le lac Tanganyika est immense.,Lake Tanganyika is immense.,proverbs,,,,,,
-krd_000715_proverbs,,Ikiyaga Tanganyika ni kinini.,Le lac Tanganyika est immense.,Lake Tanganyika is immense.,proverbs,,,,,,
-krd_000716_action-verbs,,Ikiyaga gitanga amahoro.,La plage est relaxante.,The beach is relaxing.,action-verbs,,,,,,
-krd_000717_proverbs,,Ikiyāgo gisūmba ikivi.,Les commérages: le raccourci secret vers le succès.,Gossiping: the secret shortcut to success.,proverbs,,,,,,
+ID,File_Path,Kirundi_Transcription,French_Translation,English_Translation,Domain,Machine_Suggestion,Source,Duration,Speaker_id,Age,Gender,Audio_Status
+krd_000701_proverbs,,Ikinyóma kimara umŭsi ntíkimará umwâka.,"Un mensonge peut voyager loin, mais la vérité finira par le rattraper.","A lie may travel far, but the truth will catch up to it eventually.",proverbs,,,,,,,pending
+krd_000702_proverbs,,Ikinyóma kirasôsa ntígihāzá.,"Les mensonges peuvent avoir un goût doux, mais la vérité est irremplaçable.","Lies may taste sweet, but truth is irreplaceable.",proverbs,,,,,,,pending
+krd_000703_proverbs,,Ikirundi gifise ikibanza ikihe uno musi,Quelle place occupe le kirundi aujourd'hui ?,What place does Kirundi occupy today?,proverbs,,,,,,,pending
+krd_000704_proverbs,,"Ikirundi kirambeshejeho, jewe n’abanje","Le Kirundi m'aides à subvenir à mes besoins,moi et ma famille .",Kirundi helps me provide for myself and my family.,proverbs,,,,,,,pending
+krd_000705_language,,Ikirundi ni ururimi ruri mu ndimi zo muri afrika bantu,Le Kirundi est l'une des langues africaines,Kirundi is one of the African languages,language,,,,,,,pending
+krd_000706_proverbs,,Ikirwa c'úmwămi ugiherūka ukícūbaka.,"Le privilège de voir le palais du roi est accordé à ceux qui le construisent, mais c'est la seule et unique fois.","The privilege to witness the king's palace is granted to those who build it, but that is the only and unique time.",proverbs,,,,,,,pending
+krd_000707_proverbs,,Ikirémēra umutwé sí co kiremêra umutíma.,À chacun son fardeau.,To each his own burden.,proverbs,,,,,,,pending
+krd_000708_proverbs,,Ikirúta ikĭndi ní ijāmbo ry'úmusâza.,La sagesse des anciens est un phare dans l'obscurité de l'ignorance.,The wisdom of the aged is a beacon in the darkness of ignorance.,proverbs,,,,,,,pending
+krd_000709_proverbs,,Ikitábuzé ní ibihŭnda mu bitōke.,L'herbe ne manque jamais dans la forêt.,Grass is never lacking in the forest.,proverbs,,,,,,,pending
+krd_000710_proverbs,,Ikitâzí cāmbarira urunega mu bakínegura.,Tenter d'impressionner l'indifférent est un effort futile.,Attempting to impress the disinterested is a futile endeavor.,proverbs,,,,,,,pending
+krd_000711_proverbs,,Ikitâzí cīgānzira agahîye.,Les ignorants pensent souvent que toutes les bénédictions leur sont réservées.,The ignorant often assume that all the blessings are reserved for them.,proverbs,,,,,,,pending
+krd_000712_proverbs,,Ikivi ní icā kare.,Mieux vaut commencer à travailler très tôt.,Better start working very early.,proverbs,,,,,,,pending
+krd_000713_jokes,clips/jokes/h15.mp3,Ikivumbura bagisekuye urubando mu rutwariro hanyuma naco kiravuga kiti imyaka itaha ukundi! Ako kabi jewe kuva aho nakavukiye sinari bwakabone!,"""Ah, les temps ont changé ! Jamais de ma vie je n'ai vu quelque chose de pareil."" dit le Varan après avoir été frappé avec un bâton sur le crâne !","""Ah times have changed! Never in my whole life have I seen anything like this."" said the Varan after being hit with a stick on the skull!",jokes,,,,,,,recorded
+krd_000714_proverbs,,Ikiyaga Tanganyika ni kinini cane.,Le lac Tanganyika est immense.,Lake Tanganyika is immense.,proverbs,,,,,,,pending
+krd_000715_proverbs,,Ikiyaga Tanganyika ni kinini.,Le lac Tanganyika est immense.,Lake Tanganyika is immense.,proverbs,,,,,,,pending
+krd_000716_action-verbs,,Ikiyaga gitanga amahoro.,La plage est relaxante.,The beach is relaxing.,action-verbs,,,,,,,pending
+krd_000717_proverbs,,Ikiyāgo gisūmba ikivi.,Les commérages: le raccourci secret vers le succès.,Gossiping: the secret shortcut to success.,proverbs,,,,,,,pending
 krd_000718_jokes,,"Ikizôkwèéreka kó nyoko wāwe atākūnze umuhùúngu mukūndána
 Ni : ""Nōné nk'ùúrya wamúkūndiye ikí ?"" Cânké : ""Nōné asūmbije ikí koròóde wó kwā máriko ?""","Le signe révélateur que ta maman n'approuve pas l'homme avec lequel tu es en relation, c'est quand elle demande :
 'Honnêtement, qu'est-ce que tu aimes chez lui ?' ou 'Qu'est-ce qu'il a de spécial par rapport à Claude, le fils de Mark ?'","The telltale sign that your mom doesn't approve of the man you're in a relationship with is when she asks:
-'Honestly speaking, what did you like about him?' or 'What does he have that's so special compared to Claude, Mark's son?'",jokes,,,,,,
-krd_000719_proverbs,,Ikīza ntíkīzíra umwé.,"Quand une personne fait face à des problèmes, d'autres peuvent également être affectés.","When one person faces troubles, others may be affected as well.",proverbs,,,,,,
-krd_000720_proverbs,,Il se leve trop.,yikangura  kare cane.,yikangura kare cane.,proverbs,,,,,,
-krd_000721_grammar,,Imana abe ari yo usenga,Que ce soit Dieu que tu adores,Let it be God whom you worship,grammar,,,,,,
-krd_000722_proverbs,,Imana ni nkuru,Dieu est grand,God is great,proverbs,,,,,,
-krd_000723_proverbs,,Imana ni nziza,Dieu est bon,God is good,proverbs,,,,,,
-krd_000724_proverbs,,Imana twizeye irahambaye,Le Dieu en qui on croit est Puissant,The God we believe in is Powerful,proverbs,,,,,,
-krd_000725_grammar,,Imana yabigabiye ... ibimenye bitaribwabe,Dieu l'a déterminé... le sachant avant que cela n'arrive,God determined it ... knowing it before it ever happened,grammar,,,,,,
-krd_000726_jokes,clips/sound_humour/h44.mp3,Imarankoni iraye ku giti iti iyo buca nubaka kare!,"""Quand vient la lumière du jour, je commence immédiatement à construire"", comme disait l'oiseau perché dans un arbre pour la nuit !","""When it comes to daylight, I will immediately start building"", as the bird perched in a tree for the night used to say!",jokes,,,,,,
-krd_000727_jokes,clips/sound_humour/h22.mp3,Imbaragasa yimye mu gitondo hanyuma ibarira umugabo iti nunshakire ingovyi y'umwana ngira ngo mvyare!,"""Je crois que je vais accoucher ; tu veux me chercher une peau pour porter mon enfant ?"", comme disait la puce à son mari qui l'avait fécondée le matin même !","""I believe that I will give birth; do you want to look for me a skin to carry my child?"", as the flea said to her husband who had fertilized her the same morning!",jokes,,,,,,
-krd_000728_proverbs,,Imbeba ikurya igúhūha.,"En savourant le succès, des défis peuvent surgir.","While savoring success, challenges may arise.",proverbs,,,,,,
-krd_000729_proverbs,,Imbeba irāríye umwôro iguguna urūgi.,"Dans la maison d'un pauvre, la souris mange la porte.","In a poor man's home, the mouse eats the door.",proverbs,,,,,,
-krd_000730_jokes,clips/sound_humour/h40.mp3,Imbeba isekuye umutwe kw'ishiga iti nahandi ivyaha vyama mu nzira!,"""Il y a toujours quelque chose qui gêne ici"", dit le rat après s'être cogné la tête contre une pierre dans l'âtre !","""There is always something here in the way,"" said the rat after banging his head against a stone in the hearth!",jokes,,,,,,
-krd_000731_proverbs,,Imbeba ntísāzíra mu kigega.,La richesse du peuple n'est pas une possession permanente pour un leader.,The wealth of the people isn't a permanent possession for a leader.,proverbs,,,,,,
-krd_000732_proverbs,,Imbere yo kuduga ku buriri mbanza gukura ibirato.,Avant de monter sur le lit j'enlève les chaussures,Before getting on the bed I take off my shoes,proverbs,,,,,,
-krd_000733_jokes,clips/sound_humour/h29.mp3,"Imbwa bayiteye igishirira ku cavu iti ncanira bagenzi, impinga igendwa n'abagenzi!","""Donnez-moi de la lumière, les amis, car on ne va loin qu'avec des amis"", comme disait sur le fumier le chien à qui on avait jeté un brandon !","""Give me light, friends, because we only go far with friends"", as the dog said on manure at whom a brandon had been thrown!",jokes,,,,,,
-krd_000734_action-verbs,,Imbwa irakuga cane.,Le chien aboie fort.,The dog barks loudly.,action-verbs,,,,,,
-krd_000735_action-verbs,,Imbwa irakuga gose.,Le chien aboie fort.,The dog barks loudly.,action-verbs,,,,,,
-krd_000736_proverbs,,Imbwá ibura sé ntíburá shêbuja.,"Un chien peut perdre son père, mais pas un maître.","A dog may lose its father, but not a master.",proverbs,,,,,,
-krd_000737_proverbs,,Imbwá ifise amaguru ané igaca mū nzira imwé.,"Même si un chien a quatre pattes, il ne prend qu'une route.","Even though a dog has four legs, it takes only one road.",proverbs,,,,,,
-krd_000738_proverbs,,Imbwá ikugá ntíryāná.,Celui qui aboie le plus fort est souvent le moins dangereux.,The loudest barker is often the least dangerous.,proverbs,,,,,,
-krd_000739_proverbs,,Imbwá itwāwé ku rutúgu ntíhīgá.,Un chien porté ne peut pas attraper sa proie.,A carried dog cannot catch its prey.,proverbs,,,,,,
-krd_000740_proverbs,,Imbwá itūbáha indăva ikeburwa n'înyágutwí.,Négliger vos responsabilités peut entraîner une punition.,Disregarding your responsibilities may result in punishment.,proverbs,,,,,,
-krd_000741_proverbs,,Imbwá ntígutwěngera iba ishâka kukúrya.,"Quand tu vois un chien montrer ses dents, méfie-toi de sa morsure.","When you see a dog baring its teeth, beware of its bite.",proverbs,,,,,,
-krd_000742_proverbs,,Imbwá ntísumá n'îyó isumyé ntíshikána.,"Un chien peut faire des folies, mais son appétit le ramènera toujours les mains vides.","A dog may go on a shopping spree, but its appetite will always bring it back empty-handed.",proverbs,,,,,,
-krd_000743_proverbs,,Imbwá y'úmukwé ní yo mukwé.,"Voir les affaires de quelqu'un, c'est comme voir la personne elle-même.",Seeing someone's belongings is like seeing the person themselves.,proverbs,,,,,,
-krd_000744_proverbs,,Imbwá y'úmusega ihīgira mu bíti vy'úrugó.,Le chien d'un simple d'esprit n'est jamais loin de chez lui.,A simpleton's dog is never far from home.,proverbs,,,,,,
-krd_000745_proverbs,,Imbwá y'ûmwôro yība irwâye.,"Pendant la misère de son maître, un chien malade devient voleur.","During its owner's misery, a sick dog becomes a thief.",proverbs,,,,,,
-krd_000746_proverbs,,Imbwá yahîye ku murīzo ngo buracá tuharăbe.,"Un homme insensé, face à un grave problème, procrastine plutôt que de le régler rapidement.","A foolish man, when met with a grave issue, procrastinates rather than addressing it promptly.",proverbs,,,,,,
-krd_000747_proverbs,,Imbwá yarîhūse ivyāra ibihúme.,Se précipiter apporte des résultats médiocres.,Rushing brings mediocre results.,proverbs,,,,,,
-krd_000748_proverbs,,Imbwá yīnwa na nyéne yó.,Celui qui possède le défi est celui qui peut le conquérir.,The one who owns the challenge is the one who can conquer it.,proverbs,,,,,,
-krd_000749_proverbs,,Imbwá yīséma irya shêbuja.,Un chien insensé mord son propre maître.,A foolish dog bites its own master.,proverbs,,,,,,
-krd_000750_proverbs,,Imbîtsi ya cāne ibīkira mukēbá.,"Si vous êtes trop attaché à vos possessions et refusez d'en profiter, vous pourriez finir par les perdre, peut-être même à ceux qui vous veulent du mal. Alors, ne soyez pas trop économe.","If you are too attached to possessions and refuse to enjoy them, you might end up losing them, perhaps even to those who wish you harm. So, don't be too frugal.",proverbs,,,,,,
-krd_000751_proverbs,,Imbóga mbí ntízivá mū nkóno.,Le pot ne produit pas de légumes gâtés.,The pot does not produce spoiled vegetables.,proverbs,,,,,,
-krd_000752_proverbs,,Imbúrabâna yūgūmbira irekwe.,Celui qui n'a pas connu l'accouchement trouve du réconfort dans le malaise des femmes enceintes.,One who has not experienced childbirth finds solace in the discomfort of pregnant women.,proverbs,,,,,,
-krd_000753_proverbs,,Imbúrabúgiríre ihūnga ijāmbo.,Un homme de peu de valeur craint d'élever la voix.,A man of little worth fears to raise his voice.,proverbs,,,,,,
-krd_000754_proverbs,,Imbúramaboko ibagara umushatsi.,La personne paresseuse remplit son temps de tâches inutiles.,The lazy person fills their time with pointless tasks.,proverbs,,,,,,
-krd_000755_proverbs,,Imbúto itēwé ní yo imerá.,"Ce que l'on sème, on le récolte.","As you sow, so shall you reap.",proverbs,,,,,,
-krd_000756_proverbs,,Imbúto nzīzá itâwe mū nyēnga icīka izĭnga.,"Le phénix renaît de ses cendres, renouvelé et plus fort.","The phoenix rises from the ashes, reborn and stronger.",proverbs,,,,,,
-krd_000757_proverbs,,Imfyísi itōra mu rwāngara.,Une maison désordonnée attire les voleurs.,A disordered house attracts thieves.,proverbs,,,,,,
-krd_000758_proverbs,,Imfyísi y'íwănyu ikurya ikúrūndarūnda.,"Un adversaire masqué en compagnon rassemble discrètement les outils pour votre destruction, complotant dans l'ombre.","An adversary masked as a companion discreetly compiles the tools for your destruction, plotting in the shadows.",proverbs,,,,,,
-krd_000759_proverbs,,Imfúra igwa mū mfúruká.,Le champ de bataille appelle des hommes valeureux.,The field of battle calls for valuable men.,proverbs,,,,,,
-krd_000760_general,,Imigambwe myinshi iremewe muri Republika y’Uburundi.,Plusieurs partis politiques sont autorisés en République du Burundi.,Several political parties are authorized in the Republic of Burundi.,general,,,,,,
-krd_000761_general,,Imigisha myiza!,Bonne chance!,Good luck!,general,,,,,,
-krd_000762_proverbs,,Imigére ibiri ntítēréka.,On ne peut pas monter deux chevaux à la fois.,One cannot ride two horses at the same time.,proverbs,,,,,,
-krd_000763_proverbs,,Imihora ngurukanabumenyi ntiriko irakora.,Internet ne fonctionne pas.,Internet does not work.,proverbs,,,,,,
-krd_000764_proverbs,,Imihwi isa n'Umuhondo.,Les bananes sont jaunes.,Bananas are yellow.,proverbs,,,,,,
-krd_000765_proverbs,,Iminwe iryōha inyúrana.,La vraie humanité brille quand les gens s'entraident.,True humanity shines when people lend a helping hand to one another.,proverbs,,,,,,
-krd_000766_proverbs,,Imirázi isūmba guhuma.,Mieux vaut regarder de travers que d'être complètement aveugle.,Better to look askance than to be completely blind.,proverbs,,,,,,
-krd_000767_proverbs,clips/sound_proverb/prov035.mp3,Imisega ibiri ntinanirwa umugunza.,Deux chiens maigres et faibles ne peuvent manquer de vaincre un animal féroce.,Two skinny and weak dogs cannot fail to overcome a fierce animal.,proverbs,,,,,,
-krd_000768_proverbs,,Imisega ibiri ntínanírwa igúfa.,La coopération conduit à de grandes réalisations.,Cooperation leads to great achievements.,proverbs,,,,,,
-krd_000769_emotions,,Imisi yose aba ahimbawe.,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,
-krd_000770_proverbs,,Imisibo ntírerá.,Insulter un enfant n'est pas la bonne façon d'éduquer.,Insulting a child isn't the right way to educate.,proverbs,,,,,,
-krd_000771_proverbs,,Imiswi itāzí agaheza yūgamika agáca.,Les jeunes agneaux tombent souvent dans la gueule du loup à cause de leur innocence.,Young lambs often fall into the mouth of the wolf because of their innocence.,proverbs,,,,,,
-krd_000772_proverbs,,Imisózi iyó ikūmbúranye abató barahagwa.,"Dans les batailles des puissants, ce sont les vulnérables qui ressentent la douleur.","In the battles of the mighty, the vulnerable are the ones who feel the pain.",proverbs,,,,,,
-krd_000773_proverbs,,Imitămbire y'ímpōngo ní yo migĭrīre.,La façon dont un taureau danse vous en dit long sur ses manières.,The way a bull dances tells you all about his manners.,proverbs,,,,,,
-krd_000774_proverbs,,Impararo ijāna n'ûmwâka.,La mode d'aujourd'hui sera démodée demain.,The hottest trend today will be old news tomorrow.,proverbs,,,,,,
-krd_000775_proverbs,clips/sound_proverb/prov009.mp3,Impene mbi ntuyizirikako iyawe.,Il est conseillé de ne pas développer de relation avec une personne au comportement douteux de peur d’être influencé négativement.,It is advised not to develop a relationship with a person of questionable behavior for fear of being negatively influenced.,proverbs,,,,,,
-krd_000776_proverbs,,Impfîzi y'íntāma itēndera nka sé.,"Tel père, tel fils.","Like father, like son.",proverbs,,,,,,
-krd_000777_proverbs,,Impfûvyi irīra kw'īshano.,"Face aux difficultés, l'orphelin reste résolu, comme s'il était protégé par une puissance surnaturelle.","In the face of difficulties, the orphan remains resolute, as if protected by an otherworldly power.",proverbs,,,,,,
-krd_000778_proverbs,,Impfûvyi iseka rimwé.,Le sourire d'un orphelin est un trésor rare.,An orphan's smile is a rare treasure.,proverbs,,,,,,
-krd_000779_grammar,,"Impuzu yanje iri hehe? Sinzi, sindayifise","Où est ton vêtement ? Je ne sais pas, je ne l'ai pas","Where iy your garment? I don’t know, I don’t have it",grammar,,,,,,
-krd_000780_proverbs,,Impwemu ni nziza.,L'air est pur.,The air is pure.,proverbs,,,,,,
-krd_000781_proverbs,,Impwemu ziratosoye,L'air est pur.,The air is pure.,proverbs,,,,,,
-krd_000782_proverbs,,Impêmbo y'ûmwâna ipfa mu magodoka.,La récompense d'un enfant vient avec l'obéissance.,A child's reward comes with obedienc.,proverbs,,,,,,
-krd_000783_proverbs,,Impĭnga imarwa n'úkuyāga.,Une bonne conversation peut rendre le voyage le plus long agréable.,A good conversation can make the longest journey.,proverbs,,,,,,
-krd_000784_proverbs,,Impŭndu ntíbūngwá.,Mieux vaut tard que jamais pour adresser ses félicitations.,Better late than never to extend congratulations.,proverbs,,,,,,
-krd_000785_proverbs,,Imvugirakuyamara y'úmugabo ikūndwa na báke.,Ceux qui parlent beaucoup ne sont pas très estimés.,Those who talk a lot are not highly regarded.,proverbs,,,,,,
-krd_000786_grammar,,"Imvura ihise, ahava agenda","Dès que la pluie sera passée, il s'en ira",As soon as the rain is past he will go,grammar,,,,,,
-krd_000787_general,,Imvura iriko iragwa cane,Il pleut très fort.,It's raining very hard.,general,,,,,,
-krd_000788_action-verbs,,Imvura izogwa ejo.,Il va pleuvoir demain.,It's going to rain tomorrow.,action-verbs,,,,,,
-krd_000789_proverbs,,Imvúra inyāgira icó isānzé.,La pluie n'arrose que ceux qui sont exposés au ciel ouvert.,Rain showers only those who are exposed to the open sky.,proverbs,,,,,,
-krd_000790_proverbs,,Imyěnge y'ínzu imenywa na nyéne yó.,Seul celui qui porte la chaussure sait où elle serre.,Only the wearer knows where the shoe pinches.,proverbs,,,,,,
-krd_000791_proverbs,,Imâna ifasha uwĭfashije.,L'aide divine suit l'effort humain.,Divine assistance follows human effort.,proverbs,,,,,,
-krd_000792_proverbs,,Imâna igira ahó imāníye.,Dieu œuvre de manière mystérieuse.,God works in mysterious ways.,proverbs,,,,,,
-krd_000793_proverbs,,Imâna igira amabóko marēmare.,La main de Dieu est longue et touche tous les coins de la terre.,God's hand is long and touches all corners of the eart.,proverbs,,,,,,
-krd_000794_proverbs,,Imâna iguhăye ní yo ikwăka.,Ce qui monte doit redescendre.,What goes up must come down.,proverbs,,,,,,
-krd_000795_proverbs,,Imâna ihōra ihόze.,La vengeance de Dieu est lente mais sûre.,God's vengeance is slow but sure.,proverbs,,,,,,
-krd_000796_proverbs,,Imâna ikurăbira umwânsi muba múri kumwé.,Dieu surveille vos ennemis de votre angle mort.,God keeps an eye on your enemies from your blind side.,proverbs,,,,,,
-krd_000797_proverbs,,Imâna irarema ntítōránya.,"Dieu est le créateur, Il ne favorise personne par rapport à une autre.","God is the creator, He does not favor one over another.",proverbs,,,,,,
-krd_000798_proverbs,,Imâna iratânga aríko ntíyībágira guhena.,"Dieu ferme une porte, mais ouvre une fenêtre.","God closes a door, but opens a window.",proverbs,,,,,,
-krd_000799_proverbs,,Imâna iruta ingabo.,La force de Dieu dépasse celle des guerriers les plus puissants.,God's strength surpasses that of the mightiest warriors.,proverbs,,,,,,
-krd_000800_proverbs,,Imâna itānga ishâka.,Dieu pourvoit à Sa création comme Il le juge bon.,God provides for His creation as He deems fit.,proverbs,,,,,,
+'Honestly speaking, what did you like about him?' or 'What does he have that's so special compared to Claude, Mark's son?'",jokes,,,,,,,pending
+krd_000719_proverbs,,Ikīza ntíkīzíra umwé.,"Quand une personne fait face à des problèmes, d'autres peuvent également être affectés.","When one person faces troubles, others may be affected as well.",proverbs,,,,,,,pending
+krd_000720_proverbs,,Il se leve trop.,yikangura  kare cane.,yikangura kare cane.,proverbs,,,,,,,pending
+krd_000721_grammar,,Imana abe ari yo usenga,Que ce soit Dieu que tu adores,Let it be God whom you worship,grammar,,,,,,,pending
+krd_000722_proverbs,,Imana ni nkuru,Dieu est grand,God is great,proverbs,,,,,,,pending
+krd_000723_proverbs,,Imana ni nziza,Dieu est bon,God is good,proverbs,,,,,,,pending
+krd_000724_proverbs,,Imana twizeye irahambaye,Le Dieu en qui on croit est Puissant,The God we believe in is Powerful,proverbs,,,,,,,pending
+krd_000725_grammar,,Imana yabigabiye ... ibimenye bitaribwabe,Dieu l'a déterminé... le sachant avant que cela n'arrive,God determined it ... knowing it before it ever happened,grammar,,,,,,,pending
+krd_000726_jokes,clips/jokes/h44.mp3,Imarankoni iraye ku giti iti iyo buca nubaka kare!,"""Quand vient la lumière du jour, je commence immédiatement à construire"", comme disait l'oiseau perché dans un arbre pour la nuit !","""When it comes to daylight, I will immediately start building"", as the bird perched in a tree for the night used to say!",jokes,,,,,,,recorded
+krd_000727_jokes,clips/jokes/h22.mp3,Imbaragasa yimye mu gitondo hanyuma ibarira umugabo iti nunshakire ingovyi y'umwana ngira ngo mvyare!,"""Je crois que je vais accoucher ; tu veux me chercher une peau pour porter mon enfant ?"", comme disait la puce à son mari qui l'avait fécondée le matin même !","""I believe that I will give birth; do you want to look for me a skin to carry my child?"", as the flea said to her husband who had fertilized her the same morning!",jokes,,,,,,,recorded
+krd_000728_proverbs,,Imbeba ikurya igúhūha.,"En savourant le succès, des défis peuvent surgir.","While savoring success, challenges may arise.",proverbs,,,,,,,pending
+krd_000729_proverbs,,Imbeba irāríye umwôro iguguna urūgi.,"Dans la maison d'un pauvre, la souris mange la porte.","In a poor man's home, the mouse eats the door.",proverbs,,,,,,,pending
+krd_000730_jokes,clips/jokes/h40.mp3,Imbeba isekuye umutwe kw'ishiga iti nahandi ivyaha vyama mu nzira!,"""Il y a toujours quelque chose qui gêne ici"", dit le rat après s'être cogné la tête contre une pierre dans l'âtre !","""There is always something here in the way,"" said the rat after banging his head against a stone in the hearth!",jokes,,,,,,,recorded
+krd_000731_proverbs,,Imbeba ntísāzíra mu kigega.,La richesse du peuple n'est pas une possession permanente pour un leader.,The wealth of the people isn't a permanent possession for a leader.,proverbs,,,,,,,pending
+krd_000732_proverbs,,Imbere yo kuduga ku buriri mbanza gukura ibirato.,Avant de monter sur le lit j'enlève les chaussures,Before getting on the bed I take off my shoes,proverbs,,,,,,,pending
+krd_000733_jokes,clips/jokes/h29.mp3,"Imbwa bayiteye igishirira ku cavu iti ncanira bagenzi, impinga igendwa n'abagenzi!","""Donnez-moi de la lumière, les amis, car on ne va loin qu'avec des amis"", comme disait sur le fumier le chien à qui on avait jeté un brandon !","""Give me light, friends, because we only go far with friends"", as the dog said on manure at whom a brandon had been thrown!",jokes,,,,,,,recorded
+krd_000734_action-verbs,,Imbwa irakuga cane.,Le chien aboie fort.,The dog barks loudly.,action-verbs,,,,,,,pending
+krd_000735_action-verbs,,Imbwa irakuga gose.,Le chien aboie fort.,The dog barks loudly.,action-verbs,,,,,,,pending
+krd_000736_proverbs,,Imbwá ibura sé ntíburá shêbuja.,"Un chien peut perdre son père, mais pas un maître.","A dog may lose its father, but not a master.",proverbs,,,,,,,pending
+krd_000737_proverbs,,Imbwá ifise amaguru ané igaca mū nzira imwé.,"Même si un chien a quatre pattes, il ne prend qu'une route.","Even though a dog has four legs, it takes only one road.",proverbs,,,,,,,pending
+krd_000738_proverbs,,Imbwá ikugá ntíryāná.,Celui qui aboie le plus fort est souvent le moins dangereux.,The loudest barker is often the least dangerous.,proverbs,,,,,,,pending
+krd_000739_proverbs,,Imbwá itwāwé ku rutúgu ntíhīgá.,Un chien porté ne peut pas attraper sa proie.,A carried dog cannot catch its prey.,proverbs,,,,,,,pending
+krd_000740_proverbs,,Imbwá itūbáha indăva ikeburwa n'înyágutwí.,Négliger vos responsabilités peut entraîner une punition.,Disregarding your responsibilities may result in punishment.,proverbs,,,,,,,pending
+krd_000741_proverbs,,Imbwá ntígutwěngera iba ishâka kukúrya.,"Quand tu vois un chien montrer ses dents, méfie-toi de sa morsure.","When you see a dog baring its teeth, beware of its bite.",proverbs,,,,,,,pending
+krd_000742_proverbs,,Imbwá ntísumá n'îyó isumyé ntíshikána.,"Un chien peut faire des folies, mais son appétit le ramènera toujours les mains vides.","A dog may go on a shopping spree, but its appetite will always bring it back empty-handed.",proverbs,,,,,,,pending
+krd_000743_proverbs,,Imbwá y'úmukwé ní yo mukwé.,"Voir les affaires de quelqu'un, c'est comme voir la personne elle-même.",Seeing someone's belongings is like seeing the person themselves.,proverbs,,,,,,,pending
+krd_000744_proverbs,,Imbwá y'úmusega ihīgira mu bíti vy'úrugó.,Le chien d'un simple d'esprit n'est jamais loin de chez lui.,A simpleton's dog is never far from home.,proverbs,,,,,,,pending
+krd_000745_proverbs,,Imbwá y'ûmwôro yība irwâye.,"Pendant la misère de son maître, un chien malade devient voleur.","During its owner's misery, a sick dog becomes a thief.",proverbs,,,,,,,pending
+krd_000746_proverbs,,Imbwá yahîye ku murīzo ngo buracá tuharăbe.,"Un homme insensé, face à un grave problème, procrastine plutôt que de le régler rapidement.","A foolish man, when met with a grave issue, procrastinates rather than addressing it promptly.",proverbs,,,,,,,pending
+krd_000747_proverbs,,Imbwá yarîhūse ivyāra ibihúme.,Se précipiter apporte des résultats médiocres.,Rushing brings mediocre results.,proverbs,,,,,,,pending
+krd_000748_proverbs,,Imbwá yīnwa na nyéne yó.,Celui qui possède le défi est celui qui peut le conquérir.,The one who owns the challenge is the one who can conquer it.,proverbs,,,,,,,pending
+krd_000749_proverbs,,Imbwá yīséma irya shêbuja.,Un chien insensé mord son propre maître.,A foolish dog bites its own master.,proverbs,,,,,,,pending
+krd_000750_proverbs,,Imbîtsi ya cāne ibīkira mukēbá.,"Si vous êtes trop attaché à vos possessions et refusez d'en profiter, vous pourriez finir par les perdre, peut-être même à ceux qui vous veulent du mal. Alors, ne soyez pas trop économe.","If you are too attached to possessions and refuse to enjoy them, you might end up losing them, perhaps even to those who wish you harm. So, don't be too frugal.",proverbs,,,,,,,pending
+krd_000751_proverbs,,Imbóga mbí ntízivá mū nkóno.,Le pot ne produit pas de légumes gâtés.,The pot does not produce spoiled vegetables.,proverbs,,,,,,,pending
+krd_000752_proverbs,,Imbúrabâna yūgūmbira irekwe.,Celui qui n'a pas connu l'accouchement trouve du réconfort dans le malaise des femmes enceintes.,One who has not experienced childbirth finds solace in the discomfort of pregnant women.,proverbs,,,,,,,pending
+krd_000753_proverbs,,Imbúrabúgiríre ihūnga ijāmbo.,Un homme de peu de valeur craint d'élever la voix.,A man of little worth fears to raise his voice.,proverbs,,,,,,,pending
+krd_000754_proverbs,,Imbúramaboko ibagara umushatsi.,La personne paresseuse remplit son temps de tâches inutiles.,The lazy person fills their time with pointless tasks.,proverbs,,,,,,,pending
+krd_000755_proverbs,,Imbúto itēwé ní yo imerá.,"Ce que l'on sème, on le récolte.","As you sow, so shall you reap.",proverbs,,,,,,,pending
+krd_000756_proverbs,,Imbúto nzīzá itâwe mū nyēnga icīka izĭnga.,"Le phénix renaît de ses cendres, renouvelé et plus fort.","The phoenix rises from the ashes, reborn and stronger.",proverbs,,,,,,,pending
+krd_000757_proverbs,,Imfyísi itōra mu rwāngara.,Une maison désordonnée attire les voleurs.,A disordered house attracts thieves.,proverbs,,,,,,,pending
+krd_000758_proverbs,,Imfyísi y'íwănyu ikurya ikúrūndarūnda.,"Un adversaire masqué en compagnon rassemble discrètement les outils pour votre destruction, complotant dans l'ombre.","An adversary masked as a companion discreetly compiles the tools for your destruction, plotting in the shadows.",proverbs,,,,,,,pending
+krd_000759_proverbs,,Imfúra igwa mū mfúruká.,Le champ de bataille appelle des hommes valeureux.,The field of battle calls for valuable men.,proverbs,,,,,,,pending
+krd_000760_general,,Imigambwe myinshi iremewe muri Republika y’Uburundi.,Plusieurs partis politiques sont autorisés en République du Burundi.,Several political parties are authorized in the Republic of Burundi.,general,,,,,,,pending
+krd_000761_general,,Imigisha myiza!,Bonne chance!,Good luck!,general,,,,,,,pending
+krd_000762_proverbs,,Imigére ibiri ntítēréka.,On ne peut pas monter deux chevaux à la fois.,One cannot ride two horses at the same time.,proverbs,,,,,,,pending
+krd_000763_proverbs,,Imihora ngurukanabumenyi ntiriko irakora.,Internet ne fonctionne pas.,Internet does not work.,proverbs,,,,,,,pending
+krd_000764_proverbs,,Imihwi isa n'Umuhondo.,Les bananes sont jaunes.,Bananas are yellow.,proverbs,,,,,,,pending
+krd_000765_proverbs,,Iminwe iryōha inyúrana.,La vraie humanité brille quand les gens s'entraident.,True humanity shines when people lend a helping hand to one another.,proverbs,,,,,,,pending
+krd_000766_proverbs,,Imirázi isūmba guhuma.,Mieux vaut regarder de travers que d'être complètement aveugle.,Better to look askance than to be completely blind.,proverbs,,,,,,,pending
+krd_000767_proverbs,clips/proverbs/prov035.mp3,Imisega ibiri ntinanirwa umugunza.,Deux chiens maigres et faibles ne peuvent manquer de vaincre un animal féroce.,Two skinny and weak dogs cannot fail to overcome a fierce animal.,proverbs,,,,,,,recorded
+krd_000768_proverbs,,Imisega ibiri ntínanírwa igúfa.,La coopération conduit à de grandes réalisations.,Cooperation leads to great achievements.,proverbs,,,,,,,pending
+krd_000769_emotions,,Imisi yose aba ahimbawe.,Elle est toujours heureuse.,She is always happy.,emotions,,,,,,,pending
+krd_000770_proverbs,,Imisibo ntírerá.,Insulter un enfant n'est pas la bonne façon d'éduquer.,Insulting a child isn't the right way to educate.,proverbs,,,,,,,pending
+krd_000771_proverbs,,Imiswi itāzí agaheza yūgamika agáca.,Les jeunes agneaux tombent souvent dans la gueule du loup à cause de leur innocence.,Young lambs often fall into the mouth of the wolf because of their innocence.,proverbs,,,,,,,pending
+krd_000772_proverbs,,Imisózi iyó ikūmbúranye abató barahagwa.,"Dans les batailles des puissants, ce sont les vulnérables qui ressentent la douleur.","In the battles of the mighty, the vulnerable are the ones who feel the pain.",proverbs,,,,,,,pending
+krd_000773_proverbs,,Imitămbire y'ímpōngo ní yo migĭrīre.,La façon dont un taureau danse vous en dit long sur ses manières.,The way a bull dances tells you all about his manners.,proverbs,,,,,,,pending
+krd_000774_proverbs,,Impararo ijāna n'ûmwâka.,La mode d'aujourd'hui sera démodée demain.,The hottest trend today will be old news tomorrow.,proverbs,,,,,,,pending
+krd_000775_proverbs,clips/proverbs/prov009.mp3,Impene mbi ntuyizirikako iyawe.,Il est conseillé de ne pas développer de relation avec une personne au comportement douteux de peur d’être influencé négativement.,It is advised not to develop a relationship with a person of questionable behavior for fear of being negatively influenced.,proverbs,,,,,,,recorded
+krd_000776_proverbs,,Impfîzi y'íntāma itēndera nka sé.,"Tel père, tel fils.","Like father, like son.",proverbs,,,,,,,pending
+krd_000777_proverbs,,Impfûvyi irīra kw'īshano.,"Face aux difficultés, l'orphelin reste résolu, comme s'il était protégé par une puissance surnaturelle.","In the face of difficulties, the orphan remains resolute, as if protected by an otherworldly power.",proverbs,,,,,,,pending
+krd_000778_proverbs,,Impfûvyi iseka rimwé.,Le sourire d'un orphelin est un trésor rare.,An orphan's smile is a rare treasure.,proverbs,,,,,,,pending
+krd_000779_grammar,,"Impuzu yanje iri hehe? Sinzi, sindayifise","Où est ton vêtement ? Je ne sais pas, je ne l'ai pas","Where iy your garment? I don’t know, I don’t have it",grammar,,,,,,,pending
+krd_000780_proverbs,,Impwemu ni nziza.,L'air est pur.,The air is pure.,proverbs,,,,,,,pending
+krd_000781_proverbs,,Impwemu ziratosoye,L'air est pur.,The air is pure.,proverbs,,,,,,,pending
+krd_000782_proverbs,,Impêmbo y'ûmwâna ipfa mu magodoka.,La récompense d'un enfant vient avec l'obéissance.,A child's reward comes with obedienc.,proverbs,,,,,,,pending
+krd_000783_proverbs,,Impĭnga imarwa n'úkuyāga.,Une bonne conversation peut rendre le voyage le plus long agréable.,A good conversation can make the longest journey.,proverbs,,,,,,,pending
+krd_000784_proverbs,,Impŭndu ntíbūngwá.,Mieux vaut tard que jamais pour adresser ses félicitations.,Better late than never to extend congratulations.,proverbs,,,,,,,pending
+krd_000785_proverbs,,Imvugirakuyamara y'úmugabo ikūndwa na báke.,Ceux qui parlent beaucoup ne sont pas très estimés.,Those who talk a lot are not highly regarded.,proverbs,,,,,,,pending
+krd_000786_grammar,,"Imvura ihise, ahava agenda","Dès que la pluie sera passée, il s'en ira",As soon as the rain is past he will go,grammar,,,,,,,pending
+krd_000787_general,,Imvura iriko iragwa cane,Il pleut très fort.,It's raining very hard.,general,,,,,,,pending
+krd_000788_action-verbs,,Imvura izogwa ejo.,Il va pleuvoir demain.,It's going to rain tomorrow.,action-verbs,,,,,,,pending
+krd_000789_proverbs,,Imvúra inyāgira icó isānzé.,La pluie n'arrose que ceux qui sont exposés au ciel ouvert.,Rain showers only those who are exposed to the open sky.,proverbs,,,,,,,pending
+krd_000790_proverbs,,Imyěnge y'ínzu imenywa na nyéne yó.,Seul celui qui porte la chaussure sait où elle serre.,Only the wearer knows where the shoe pinches.,proverbs,,,,,,,pending
+krd_000791_proverbs,,Imâna ifasha uwĭfashije.,L'aide divine suit l'effort humain.,Divine assistance follows human effort.,proverbs,,,,,,,pending
+krd_000792_proverbs,,Imâna igira ahó imāníye.,Dieu œuvre de manière mystérieuse.,God works in mysterious ways.,proverbs,,,,,,,pending
+krd_000793_proverbs,,Imâna igira amabóko marēmare.,La main de Dieu est longue et touche tous les coins de la terre.,God's hand is long and touches all corners of the eart.,proverbs,,,,,,,pending
+krd_000794_proverbs,,Imâna iguhăye ní yo ikwăka.,Ce qui monte doit redescendre.,What goes up must come down.,proverbs,,,,,,,pending
+krd_000795_proverbs,,Imâna ihōra ihόze.,La vengeance de Dieu est lente mais sûre.,God's vengeance is slow but sure.,proverbs,,,,,,,pending
+krd_000796_proverbs,,Imâna ikurăbira umwânsi muba múri kumwé.,Dieu surveille vos ennemis de votre angle mort.,God keeps an eye on your enemies from your blind side.,proverbs,,,,,,,pending
+krd_000797_proverbs,,Imâna irarema ntítōránya.,"Dieu est le créateur, Il ne favorise personne par rapport à une autre.","God is the creator, He does not favor one over another.",proverbs,,,,,,,pending
+krd_000798_proverbs,,Imâna iratânga aríko ntíyībágira guhena.,"Dieu ferme une porte, mais ouvre une fenêtre.","God closes a door, but opens a window.",proverbs,,,,,,,pending
+krd_000799_proverbs,,Imâna iruta ingabo.,La force de Dieu dépasse celle des guerriers les plus puissants.,God's strength surpasses that of the mightiest warriors.,proverbs,,,,,,,pending
+krd_000800_proverbs,,Imâna itānga ishâka.,Dieu pourvoit à Sa création comme Il le juge bon.,God provides for His creation as He deems fit.,proverbs,,,,,,,pending
