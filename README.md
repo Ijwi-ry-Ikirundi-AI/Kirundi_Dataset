@@ -268,7 +268,7 @@ Settings:
 
 </details>
 
-## 🔄 Pushing to Both Repositories (For Maintainers)
+## 🔄 Git Workflow (For Maintainers)
 
 <div align="center">
 
@@ -276,7 +276,7 @@ Settings:
 
 </div>
 
-If you're a maintainer who needs to push changes to both repositories, you can set up multiple remotes:
+> ⚠️ **Important**: Never push directly to `main` on GitHub. Always use feature branches and Pull Requests.
 
 ### 📋 One-Time Setup
 
@@ -289,55 +289,58 @@ git remote add origin https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset
 
 # Verify your remotes
 git remote -v
-```
 
-### Installer et Configurer Git LFS
-
-```bash
-# Si tu as Homebrew (recommandé sur Mac)
+# Install Git LFS (Mac with Homebrew)
 brew install git-lfs
 
-# Initialise LFS dans ton compte utilisateur
+# Initialize LFS in your user account
 git lfs install
 ```
 
-### 📤 Pushing Changes to Both Platforms
+### 📤 Standard Workflow: GitHub (via PR) → Hugging Face
 
 ```bash
-# 1. Add your changes
+# 1. Create a feature branch
+git checkout -b feature/your-feature-name
+
+# 2. Make your changes, then stage and commit
 git add .
+git commit -m "Your descriptive commit message"
 
-# 2. Commit your changes
-git commit -m "Your commit message here"
+# 3. Push to GitHub (creates branch on remote)
+git push origin feature/your-feature-name
 
-# 3. Push to Hugging Face
+# 4. Go to GitHub and create a Pull Request → Admin will Merge to main
+
+# 5. After PR is merged, pull main locally
+git checkout main
+git pull origin main
+
+# 6. Push to Hugging Face
 git push hf main
-
-# 4. Push to GitHub
-git push origin main
 ```
 
-### 🔧 Example: Fixing .gitignore for LFS
+### 🔧 How Git LFS Works
 
-```bash
-# 1. Add the change you just made
-git add .gitignore
+Git LFS (Large File Storage) keeps your repo fast by storing **pointer files** (tiny text files) in Git, while the actual large files live on a separate server.
 
-# 2. Commit the fix
-git commit -m "Fix: Removed audio files from .gitignore to allow LFS tracking"
-
-# 3. Push the fix to Hugging Face
-git push hf main
-
-# 4. Push the fix to GitHub
-git push origin main
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     YOUR LOCAL REPO                          │
+│  clips/proverbs/krd_000089_proverbs.wav (actual 182KB file) │
+└─────────────────────────────────────────────────────────────┘
+                          │
+            ┌─────────────┴─────────────┐
+            ▼                           ▼
+┌───────────────────────┐   ┌───────────────────────┐
+│       GITHUB          │   │    HUGGING FACE       │
+├───────────────────────┤   ├───────────────────────┤
+│ Pointer file: 131B ✓  │   │ Pointer file: 131B ✓  │
+│ LFS Object: 182KB ✓   │   │ LFS Object: 182KB ✓   │
+└───────────────────────┘   └───────────────────────┘
 ```
 
-> **💡 Tip**: You can also push to both remotes in one command:
->
-> ```bash
-> git push hf main && git push origin main
-> ```
+When you push to either remote, Git LFS automatically uploads the actual audio files to that remote's LFS server. The Git repo stays small because it only contains tiny pointer files.
 
 ---
 
@@ -398,32 +401,69 @@ Kirundi_Dataset/
 
 ### 🎙️ Audio Recording Workflow
 
-1. **Record**: Record audio for sentences in `final_dataset_splits/` with `Audio_Status: pending`
-2. **Process**: Run `python scripts/process_audio.py <file>` to clean audio (VAD, normalize, denoise)
-3. **Update**: Run `python scripts/update_audio_status.py` to sync clips with CSVs
-4. **Validate**: Peer-review recordings, mark as `validated` or `rejected`
-5. **Push**: Push audio to Hugging Face with `git push hf main`
+#### Daily Recording Steps
+
+1. **Record**: Record audio for sentences with `Audio_Status: pending` in `final_dataset_splits/`
+2. **Name & Place**: Save files as `krd_[ID]_[domain].wav` in the correct `clips/[domain]/` folder
+3. **Process**: Run audio processing script <process_audio.py> (applies VAD, normalization, denoising)
+4. **Update CSV**: Run status update script <update_audio_status.py> to sync audio files with CSV metadata
+5. **Commit**: Create feature branch, commit changes, push to GitHub
+6. **PR & Merge**: Create Pull Request on GitHub, get it merged
+7. **Sync HF**: Pull main, push to Hugging Face
+
+#### Quick Reference Commands
+
+```bash
+# After recording audio files (e.g., 50 proverbs)
+source .venv/bin/activate
+
+# Step 1: Process the audio (in place)
+python scripts/process_audio.py clips/proverbs/
+
+# Step 2: Update CSV metadata
+python scripts/update_audio_status.py
+
+# Step 3: Create branch and commit
+git checkout -b audio/proverbs-batch-1
+git add .
+git commit -m "Add 50 proverbs recordings - Speaker S01_M"
+
+# Step 4: Push to GitHub (for PR)
+git push origin audio/proverbs-batch-1
+
+# Step 5: After PR is merged on GitHub
+git checkout main
+git pull origin main
+
+# Step 6: Push to Hugging Face
+git push hf main
+```
 
 ### 🔧 Audio Processing Scripts
 
 ```bash
-# Process single audio file
-source .venv/bin/activate
-python scripts/process_audio.py recording.wav
+# Process single audio file (overwrites in place)
+python scripts/process_audio.py clips/proverbs/krd_000090_proverbs.wav
 
-# Batch process folder
-python scripts/process_audio.py --batch raw_recordings/ --output clips/
+# Process entire domain folder
+python scripts/process_audio.py clips/proverbs/
+
+# Process ALL clips at once
+python scripts/process_audio.py clips/
 
 # Update CSV status from clips/ folder
 python scripts/update_audio_status.py
-
-# View status summary
-python scripts/update_audio_status.py --summary
-
-# Validate/reject specific recording
-python scripts/update_audio_status.py --validate krd_000001_jokes
-python scripts/update_audio_status.py --reject krd_000002_jokes
 ```
+
+### 🛠️ Useful Commands
+
+| Task | Command |
+|------|---------|
+| Check what's changed | `git status` |
+| See pending recordings | Check CSV for `Audio_Status = pending` |
+| Verify LFS tracking | `git lfs ls-files` |
+| Check LFS file sizes | `git lfs status` |
+| List all remotes | `git remote -v` |
 
 ### 📏 Audio Naming Convention
 
