@@ -224,8 +224,8 @@ def process_audio(
     
     # Generate output path if not provided
     if output_path is None:
-        # Save to clips/ folder with same name
-        output_path = CLIPS_DIR / input_path.name
+        # Overwrite original file in place
+        output_path = input_path
     else:
         output_path = Path(output_path)
     

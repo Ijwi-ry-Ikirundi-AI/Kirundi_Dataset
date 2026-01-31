@@ -1,2 +1,4 @@
-clips/*.wav filter=lfs diff=lfs merge=lfs -text
-clips/*.mp3 filter=lfs diff=lfs merge=lfs -text
+# Track audio files in clips/ and ALL subdirectories via Git LFS
+clips/**/*.wav filter=lfs diff=lfs merge=lfs -text
+clips/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+clips/**/*.flac filter=lfs diff=lfs merge=lfs -text
