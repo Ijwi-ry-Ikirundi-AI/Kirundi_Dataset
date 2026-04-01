@@ -45,3 +45,12 @@ flake8>=5.0.0
 
 # Visualization
 matplotlib>=3.5.0
+
+# Model training (fine-tuning NLLB for translation)
+transformers>=4.36.0
+datasets>=2.16.0
+sentencepiece>=0.1.99
+sacrebleu>=2.3.0
+evaluate>=0.4.0
+accelerate>=0.25.0
+torch>=2.0.0
