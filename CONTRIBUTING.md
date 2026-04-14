@@ -8,12 +8,12 @@ Thank you for your interest in contributing to the **Kirundi Open Speech & Text 
 - Add clean Kirundi sentences to `metadata.csv`
 - Help with text cleaning and validation
 - Improve sentence quality and diversity
-- Use the [Contribution App](https://sama-ndari.github.io/kirundi-contribution-app/) for an easy web-based experience
+- Use the [Contribution App](https://www.samandari.dev/kirundi-contribution-app/) for an easy web-based experience
 
 ### Translation Contributions
 - Translate Kirundi sentences to French or English
 - Review and improve existing translations
-- Use the [Contribution App](https://sama-ndari.github.io/kirundi-contribution-app/) (Easy mode: KR→FR, Medium mode: FR→KR)
+- Use the [Contribution App](https://www.samandari.dev/kirundi-contribution-app/) (Easy mode: KR→FR, Medium mode: FR→KR)
 
 ### Audio Contributions
 - Record high-quality Kirundi speech for sentences in `final_dataset_splits/`
@@ -70,7 +70,7 @@ Thank you for your interest in contributing to the **Kirundi Open Speech & Text 
 
 - Open an [issue](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset/issues) for questions
 - Check the [README](README.md) for detailed documentation
-- Use the [Contribution App](https://sama-ndari.github.io/kirundi-contribution-app/) for the easiest way to help
+- Use the [Contribution App](https://www.samandari.dev/kirundi-contribution-app/) for the easiest way to help
 
 ## Recognition
 

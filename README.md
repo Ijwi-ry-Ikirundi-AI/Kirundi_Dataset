@@ -486,7 +486,7 @@ final_dataset_splits/ (distributed for recording)
 ### 🌐 Contribution App
 
 Non-technical contributors can help translate sentences using our web app:
-**[kirundi-contribution-app](https://sama-ndari.github.io/kirundi-contribution-app/)**
+**[kirundi-contribution-app](https://www.samandari.dev/kirundi-contribution-app/)**
 
 The app fetches `metadata.csv` from Hugging Face and offers three modes:
 - **Easy**: Translate untranslated Kirundi sentences to French
@@ -543,7 +543,7 @@ graph LR
 - ✅ **Data Pipeline**: Automated text processing, cleaning, and validation
 - ✅ **Dataset Manager**: Jupyter notebook for audit, translation, export, and split generation
 - ✅ **Audio Pipeline**: Unified CLI for processing, status tracking, and validation
-- ✅ **Contribution App**: [Web app](https://sama-ndari.github.io/kirundi-contribution-app/) for crowdsourcing translations
+- ✅ **Contribution App**: [Web app](https://www.samandari.dev/kirundi-contribution-app/) for crowdsourcing translations
 - ✅ **Dataset Split**: 2,903 gold sentences split into 30 files for recording
 - ✅ **Merge-Intelligent Splits**: Auto-preserves audio data when regenerating splits
 - 🔄 **Audio Recording**: Recording Kirundi speech (102/2,903 complete)
