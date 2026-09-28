@@ -1,0 +1,44 @@
+# Secrets
+.env
+
+# OS / editors
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (local runs only)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Audio only in clips/ (Git LFS, see .gitattributes)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+!clips/**/*.wav
+!clips/**/*.mp3
+!clips/**/*.flac
+
+# Private data (full dataset and processing stay in Dataset-Management)
+submissions/
+processed_submissions/
+backups/
+exports/
+models/
+ai_translations_*.csv
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Local maintainer script (commit + push to GitHub and Hugging Face)
+push.sh

@@ -1,0 +1,33 @@
+# Kirundi Dataset - Audio Recordings
+# ===================================
+# Audio files are tracked via Git LFS and pushed to Hugging Face
+#
+# Folder Structure (organized by domain):
+# clips/
+# ├── proverbs/       # 826 sentences
+# ├── action-verbs/   # 489 sentences
+# ├── grammar/        # 292 sentences
+# ├── vocabulary/     # 202 sentences
+# ├── general/        # 81 sentences
+# ├── emotions/       # 53 sentences
+# ├── jokes/          # 50 sentences
+# ├── adjectives/     # 27 sentences
+# ├── idioms/         # 26 sentences
+# ├── language/       # 13 sentences
+# ├── geography/      # 10 sentences
+# ├── food/           # 10 sentences
+# ├── greetings/      # 9 sentences
+# ├── politeness/     # 7 sentences
+# ├── location/       # 6 sentences
+# ├── apologies/      # 6 sentences
+# ├── advice/         # 6 sentences
+# ├── time/           # 5 sentences
+# └── adverbs/        # 5 sentences
+#
+# Naming convention: [DATE]_[SPEAKER]_[DOMAIN]_[SENTENCE_ID].wav
+# Example: 20260131_S01_M_jokes_krd_000001.wav
+#
+# Audio specifications:
+# - Format: WAV (16-bit PCM)
+# - Sample rate: 16kHz
+# - Channels: Mono
