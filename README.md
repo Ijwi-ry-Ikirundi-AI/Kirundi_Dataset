@@ -31,8 +31,8 @@ size_categories:
 
 |             | Public version (this repository)                                                   | Full dataset (private)                                                    |
 | ----------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Content** | Kirundi sentences still to translate, each with an AI draft (`Machine_Suggestion`) | Complete Kirundi ↔ French ↔ English pairs, audio and speaker metadata     |
-| **Size**    | 1,813 sentences                                              | 4,809 sentences, 2,996 complete pairs (62%) |
+| **Content** | Kirundi sentences open for translation, each with an AI draft (`Machine_Suggestion`) | Complete Kirundi ↔ French ↔ English pairs, audio and speaker metadata     |
+| **Size**    | 1,812 sentences                                              | 4,838 sentences, 3,026 complete pairs (63%) |
 | **Access**  | Free under CC BY-NC 4.0, used by the [Contribution App](https://www.samandari.dev/kirundi-contribution-app/)                 | On request (research, partnerships, commercial licences)                  |
 
 **Your contributions enrich the Ijwi ry'Ikirundi AI dataset, whose full version is private.**
@@ -41,13 +41,13 @@ size_categories:
 
 | Metric                                         | Value |
 | ---------------------------------------------- | ----- |
-| 📝 Kirundi sentences                           | 4,809 |
-| 🏆 Complete pairs (Kirundi + French + English) | 2,996 (62%) |
-| 🔤 Distinct complete Kirundi sentences         | 2,975 |
-| 🗂️ Domains                                     | 7: general (2,423), proverbs (1,517), grammar (450), jokes (220), vocabulary (166), action-verbs (25), emotions (8) |
+| 📝 Kirundi sentences                           | 4,838 |
+| 🏆 Complete pairs (Kirundi + French + English) | 3,026 (63%) |
+| 🔤 Distinct complete Kirundi sentences         | 3,000 |
+| 🗂️ Domains                                     | 7: general (2,445), proverbs (1,524), grammar (450), jokes (220), vocabulary (166), action-verbs (25), emotions (8) |
 | 🎤 Validated recordings                        | 1 (3 s) |
 | 👥 Speakers                                    | 1 (1 male) |
-| 📅 Last updated                                | 2026-09-28 |
+| 📅 Last updated                                | 2026-11-18 |
 
 ### 🔑 Access to the Full Dataset
 
@@ -63,7 +63,7 @@ Researchers, partners and companies can request access to the full dataset, incl
 | Ndiko ndasoma umuntu. | Je suis en train d'embrasser quelqu'un. | I am kissing someone. | action-verbs |
 | Uyu musi ni mwiza. | Cette journée est belle. | This day is beautiful. | general |
 | Umwana wanje nyakuri mu kwizera. | Mon véritable enfant dans la foi. | My true child in the faith. | grammar |
-| Nakorēsheje amaherá yó kuriha inzu! | j'ai utilisé l'argent de mon loyer. | I used my rent money! | jokes |
+| Nakorēsheje amaherá yó kuriha inzu! | J'ai utilisé l'argent de mon loyer. | I used my rent money! | jokes |
 | Abagabo bararyá imbwá zikīshura. | Parfois, ce sont les innocents qui paient pour les fautes des coupables. | Sometimes, it's the innocent who pay for the faults of the guilty. | proverbs |
 | Iki ni igitabo. | Ceci est un livre. | This is a book. | vocabulary |
 | Ndiko ndakoma amashi. | Je suis en train d'applaudir. | I am clapping. | action-verbs |
@@ -112,7 +112,7 @@ Rules, quality checklist, recording guidelines and Git workflow: **[CONTRIBUTING
 
 | File              | Content                                                                         |
 | ----------------- | ------------------------------------------------------------------------------- |
-| `metadata.csv`    | Public version: the Kirundi sentences still to translate, each with an AI draft |
+| `metadata.csv`    | Public version: the Kirundi sentences open for translation, each with an AI draft |
 | `clips/`          | Audio recordings (Git LFS)                                                      |
 | `CONTRIBUTING.md` | How to contribute                                                               |
 
